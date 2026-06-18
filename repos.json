@@ -30,5 +30,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/112",
     "featured_at": "2026-06-18"
+  },
+  {
+    "name": "LibreTranslate",
+    "full_name": "LibreTranslate/LibreTranslate",
+    "url": "https://github.com/LibreTranslate/LibreTranslate",
+    "description": "Для разработчиков мобильных приложений и веб-страниц это особенно полезно для создания интерфейсов, где требуется перевести текст с различных языков сразу после загрузки или получения данных.",
+    "language": "Python",
+    "stars": 14909,
+    "category": "Self-Hosted",
+    "tags": [
+      "python",
+      "api",
+      "machine",
+      "translate",
+      "translation",
+      "translator"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/120",
+    "featured_at": "2026-06-18"
   }
 ]

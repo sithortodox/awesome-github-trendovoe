@@ -24,5 +24,21 @@
     "stars": 5427,
     "language": "TypeScript",
     "featured_at": "2026-06-18"
+  },
+  {
+    "full_name": "LibreTranslate/LibreTranslate",
+    "name": "LibreTranslate",
+    "category": "Self-Hosted",
+    "tags": [
+      "python",
+      "api",
+      "machine",
+      "translate",
+      "translation",
+      "translator"
+    ],
+    "stars": 14909,
+    "language": "Python",
+    "featured_at": "2026-06-18"
   }
 ]
