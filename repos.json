@@ -1,0 +1,34 @@
+[
+  {
+    "name": "superpowers",
+    "full_name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "description": "Система навыков агентов и методологии разработки ПО",
+    "language": "Shell",
+    "stars": 232200,
+    "category": "AI Agents",
+    "tags": [
+      "shell",
+      "agent",
+      "skills",
+      "ai-agent",
+      "automation"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/123",
+    "featured_at": "2026-06-18"
+  },
+  {
+    "name": "flue",
+    "full_name": "withastro/flue",
+    "url": "https://github.com/withastro/flue",
+    "description": "Это полезно для разработчиков и веб-разработчиков, которые хотят быстро запустить конечную реализацию проекта без необходимости напрямую работать с AI технологиями.",
+    "language": "TypeScript",
+    "stars": 5427,
+    "category": "AI Agents",
+    "tags": [
+      "typescript"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/112",
+    "featured_at": "2026-06-18"
+  }
+]

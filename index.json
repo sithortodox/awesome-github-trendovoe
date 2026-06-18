@@ -1,0 +1,28 @@
+[
+  {
+    "full_name": "obra/superpowers",
+    "name": "superpowers",
+    "category": "AI Agents",
+    "tags": [
+      "shell",
+      "agent",
+      "skills",
+      "ai-agent",
+      "automation"
+    ],
+    "stars": 232200,
+    "language": "Shell",
+    "featured_at": "2026-06-18"
+  },
+  {
+    "full_name": "withastro/flue",
+    "name": "flue",
+    "category": "AI Agents",
+    "tags": [
+      "typescript"
+    ],
+    "stars": 5427,
+    "language": "TypeScript",
+    "featured_at": "2026-06-18"
+  }
+]
