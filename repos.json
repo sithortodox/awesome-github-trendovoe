@@ -49,5 +49,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/120",
     "featured_at": "2026-06-18"
+  },
+  {
+    "name": "Hyper-Extract",
+    "full_name": "yifanfeng97/Hyper-Extract",
+    "url": "https://github.com/yifanfeng97/Hyper-Extract",
+    "description": "🔥 Превратите кучу текста в организованные знания с помощью AI-технологий. Используйте графовые и гиперграфовые модели, а также специальные алгорифмы для извлечения информации из текстов, чтобы сделать информацию более доступной.\n\nЭтот проект поможет разработчикам создавать инструменты командного AI, которые автоматически обрабатывают и анализируют тексты, делая их структурированными и легкими для понимания. 😊",
+    "language": "Python",
+    "stars": 1673,
+    "category": "AI",
+    "tags": [
+      "python",
+      "ai",
+      "ai-agents",
+      "cli",
+      "hypergraph",
+      "information-extraction"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/121",
+    "featured_at": "2026-06-18"
   }
 ]

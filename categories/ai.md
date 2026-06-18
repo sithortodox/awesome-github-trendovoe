@@ -4,14 +4,15 @@
 
 **1 репозиториев**
 
-### [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+### [Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract)
 
-**🌟 Кураторский список курсов, книг, видеолекций и статей по искусственному интеллекту (ИИ).**
+🔥 Превратите кучу текста в организованные знания с помощью AI-технологий. Используйте графовые и гиперграфовые модели, а также специальные алгорифмы для извлечения информации из текстов, чтобы сделать информацию более доступной.
 
-Этот куратор содержит актуальные материалы от ведущих специалистов в области ИИ. Полезно для тех, кто хочет углубить свои знания или готовится к собеседованиям в технологических компаниях.
+Этот проект поможет разработчикам создавать инструменты командного AI, которые автоматически обрабатывают и анализируют тексты, делая их структурированными и легкими для понимания. 😊
 
-⭐ 14,304
-🏷 `ai` `artificial-intelligence` `deep-learning` `intelligent-machines` `intelligent-systems`
+⭐ 1,673
+💻 Python
+🏷 `python` `ai` `ai-agents` `cli` `hypergraph` `information-extraction`
 📅 2026-06-18
-🔗 [GitHub](https://github.com/owainlewis/awesome-artificial-intelligence)
-📢 [Telegram Post](https://t.me/github_trendovoe/118)
+🔗 [GitHub](https://github.com/yifanfeng97/Hyper-Extract)
+📢 [Telegram Post](https://t.me/github_trendovoe/121)

@@ -40,5 +40,21 @@
     "stars": 14909,
     "language": "Python",
     "featured_at": "2026-06-18"
+  },
+  {
+    "full_name": "yifanfeng97/Hyper-Extract",
+    "name": "Hyper-Extract",
+    "category": "AI",
+    "tags": [
+      "python",
+      "ai",
+      "ai-agents",
+      "cli",
+      "hypergraph",
+      "information-extraction"
+    ],
+    "stars": 1673,
+    "language": "Python",
+    "featured_at": "2026-06-18"
   }
 ]
