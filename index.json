@@ -88,5 +88,21 @@
     "stars": 56921,
     "language": "TypeScript",
     "featured_at": "2026-06-19"
+  },
+  {
+    "full_name": "aishwaryanr/awesome-generative-ai-guide",
+    "name": "awesome-generative-ai-guide",
+    "category": "Education",
+    "tags": [
+      "html",
+      "awesome",
+      "awesome-list",
+      "generative-ai",
+      "interview-questions",
+      "large-language-models"
+    ],
+    "stars": 27469,
+    "language": "HTML",
+    "featured_at": "2026-06-19"
   }
 ]

@@ -106,5 +106,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/123",
     "featured_at": "2026-06-19"
+  },
+  {
+    "name": "awesome-generative-ai-guide",
+    "full_name": "aishwaryanr/awesome-generative-ai-guide",
+    "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+    "description": "🔍 Глобальное хранилище обновлений исследований генеративного искусственного интеллекта с ресурсами для интервью и блокнотов!",
+    "language": "HTML",
+    "stars": 27469,
+    "category": "Education",
+    "tags": [
+      "html",
+      "awesome",
+      "awesome-list",
+      "generative-ai",
+      "interview-questions",
+      "large-language-models"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/124",
+    "featured_at": "2026-06-19"
   }
 ]

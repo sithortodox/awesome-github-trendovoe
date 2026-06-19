@@ -6,12 +6,13 @@
 
 ---
 
-**6 репозиториев** в каталоге
+**7 репозиториев** в каталоге
 
 ## Категории
 
 - [AI](categories/ai.md) (2)
 - [AI Agents](categories/agents.md) (2)
+- [Education](categories/education.md) (1)
 - [MCP](categories/mcp.md) (1)
 - [Self-Hosted](categories/self-hosted.md) (1)
 
@@ -64,6 +65,19 @@
 📅 2026-06-18
 🔗 [GitHub](https://github.com/obra/superpowers)
 📢 [Telegram Post](https://t.me/github_trendovoe/123)
+
+## Education
+
+### [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+
+🔍 Глобальное хранилище обновлений исследований генеративного искусственного интеллекта с ресурсами для интервью и блокнотов!
+
+⭐ 27,469
+💻 HTML
+🏷 `html` `awesome` `awesome-list` `generative-ai` `interview-questions` `large-language-models`
+📅 2026-06-19
+🔗 [GitHub](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+📢 [Telegram Post](https://t.me/github_trendovoe/124)
 
 ## MCP
 
