@@ -6,12 +6,13 @@
 
 ---
 
-**10 репозиториев** в каталоге
+**11 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (4)
 - [AI](categories/ai.md) (2)
+- [DevTools](categories/devtools.md) (1)
 - [Education](categories/education.md) (1)
 - [MCP](categories/mcp.md) (1)
 - [Self-Hosted](categories/self-hosted.md) (1)
@@ -88,6 +89,19 @@
 📅 2026-06-18
 🔗 [GitHub](https://github.com/yifanfeng97/Hyper-Extract)
 📢 [Telegram Post](https://t.me/github_trendovoe/121)
+
+## DevTools
+
+### [penpot](https://github.com/penpot/penpot)
+
+Penpot: The open-source design tool for design and code collaboration
+
+⭐ 50,467
+💻 Clojure
+🏷 `clojure` `clojurescript` `design` `prototyping` `ui`
+📅 2026-06-19
+🔗 [GitHub](https://github.com/penpot/penpot)
+📢 [Telegram Post](https://t.me/github_trendovoe/128)
 
 ## Education
 

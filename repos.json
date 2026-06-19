@@ -180,5 +180,23 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/127",
     "featured_at": "2026-06-19"
+  },
+  {
+    "name": "penpot",
+    "full_name": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "description": "Penpot: The open-source design tool for design and code collaboration",
+    "language": "Clojure",
+    "stars": 50467,
+    "category": "DevTools",
+    "tags": [
+      "clojure",
+      "clojurescript",
+      "design",
+      "prototyping",
+      "ui"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/128",
+    "featured_at": "2026-06-19"
   }
 ]

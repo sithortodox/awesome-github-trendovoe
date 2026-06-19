@@ -150,5 +150,20 @@
     "stars": 6065,
     "language": "Python",
     "featured_at": "2026-06-19"
+  },
+  {
+    "full_name": "penpot/penpot",
+    "name": "penpot",
+    "category": "DevTools",
+    "tags": [
+      "clojure",
+      "clojurescript",
+      "design",
+      "prototyping",
+      "ui"
+    ],
+    "stars": 50467,
+    "language": "Clojure",
+    "featured_at": "2026-06-19"
   }
 ]
