@@ -87,5 +87,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/122",
     "featured_at": "2026-06-19"
+  },
+  {
+    "name": "worldmonitor",
+    "full_name": "koala73/worldmonitor",
+    "url": "https://github.com/koala73/worldmonitor",
+    "description": "Это полезно для корпоративных пользователей, руководителей и специалистов, которые хотят получать актуальные данные и управлять процессами в режиме реального времени.",
+    "language": "TypeScript",
+    "stars": 56921,
+    "category": "AI",
+    "tags": [
+      "typescript",
+      "ai",
+      "dashboard",
+      "geopolitics",
+      "monitoring",
+      "news"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/123",
+    "featured_at": "2026-06-19"
   }
 ]

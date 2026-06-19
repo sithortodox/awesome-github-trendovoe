@@ -72,5 +72,21 @@
     "stars": 1434,
     "language": "Swift",
     "featured_at": "2026-06-19"
+  },
+  {
+    "full_name": "koala73/worldmonitor",
+    "name": "worldmonitor",
+    "category": "AI",
+    "tags": [
+      "typescript",
+      "ai",
+      "dashboard",
+      "geopolitics",
+      "monitoring",
+      "news"
+    ],
+    "stars": 56921,
+    "language": "TypeScript",
+    "featured_at": "2026-06-19"
   }
 ]

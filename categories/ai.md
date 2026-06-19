@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**1 репозиториев**
+**2 репозиториев**
+
+### [worldmonitor](https://github.com/koala73/worldmonitor)
+
+Это полезно для корпоративных пользователей, руководителей и специалистов, которые хотят получать актуальные данные и управлять процессами в режиме реального времени.
+
+⭐ 56,921
+💻 TypeScript
+🏷 `typescript` `ai` `dashboard` `geopolitics` `monitoring` `news`
+📅 2026-06-19
+🔗 [GitHub](https://github.com/koala73/worldmonitor)
+📢 [Telegram Post](https://t.me/github_trendovoe/123)
 
 ### [Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract)
 
