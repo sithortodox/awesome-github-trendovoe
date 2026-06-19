@@ -104,5 +104,19 @@
     "stars": 27469,
     "language": "HTML",
     "featured_at": "2026-06-19"
+  },
+  {
+    "full_name": "BuilderIO/agent-native",
+    "name": "agent-native",
+    "category": "AI Agents",
+    "tags": [
+      "typescript",
+      "agents",
+      "ai",
+      "react"
+    ],
+    "stars": 916,
+    "language": "TypeScript",
+    "featured_at": "2026-06-19"
   }
 ]

@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**2 репозиториев**
+**3 репозиториев**
+
+### [agent-native](https://github.com/BuilderIO/agent-native)
+
+Это полезно как для технических команд, так и для бизнес-лидеров, которые хотят внедрить новые цифровые решения для управления своими агентами.
+
+⭐ 916
+💻 TypeScript
+🏷 `typescript` `agents` `ai` `react`
+📅 2026-06-19
+🔗 [GitHub](https://github.com/BuilderIO/agent-native)
+📢 [Telegram Post](https://t.me/github_trendovoe/125)
 
 ### [flue](https://github.com/withastro/flue)
 

@@ -125,5 +125,22 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/124",
     "featured_at": "2026-06-19"
+  },
+  {
+    "name": "agent-native",
+    "full_name": "BuilderIO/agent-native",
+    "url": "https://github.com/BuilderIO/agent-native",
+    "description": "Это полезно как для технических команд, так и для бизнес-лидеров, которые хотят внедрить новые цифровые решения для управления своими агентами.",
+    "language": "TypeScript",
+    "stars": 916,
+    "category": "AI Agents",
+    "tags": [
+      "typescript",
+      "agents",
+      "ai",
+      "react"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/125",
+    "featured_at": "2026-06-19"
   }
 ]
