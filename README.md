@@ -6,7 +6,7 @@
 
 ---
 
-**8 репозиториев** в каталоге
+**9 репозиториев** в каталоге
 
 ## Категории
 
@@ -15,6 +15,7 @@
 - [Education](categories/education.md) (1)
 - [MCP](categories/mcp.md) (1)
 - [Self-Hosted](categories/self-hosted.md) (1)
+- [Web Development](categories/web-development.md) (1)
 
 ## AI Agents
 
@@ -115,3 +116,16 @@
 📅 2026-06-18
 🔗 [GitHub](https://github.com/LibreTranslate/LibreTranslate)
 📢 [Telegram Post](https://t.me/github_trendovoe/120)
+
+## Web Development
+
+### [headroom](https://github.com/chopratejas/headroom)
+
+💥 Сжатие выходных данных до минимума! chopratejas/headroom - инструмент, который сжимает инфо перед отправкой в Large Language Models (LLM). Благодаря библиотеке и прокси-серверу объем данных снижается на 60-95%, без ущерба для качества ответов. Это идеально подходит для команд, работающих с большими объемами информации или использующих LLM для обработки больших фрагментов текста. 💡
+
+⭐ 37,550
+💻 Python
+🏷 `python` `agent` `ai` `anthropic` `claude-code` `compression`
+📅 2026-06-19
+🔗 [GitHub](https://github.com/chopratejas/headroom)
+📢 [Telegram Post](https://t.me/github_trendovoe/126)

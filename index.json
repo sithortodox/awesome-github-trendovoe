@@ -118,5 +118,21 @@
     "stars": 916,
     "language": "TypeScript",
     "featured_at": "2026-06-19"
+  },
+  {
+    "full_name": "chopratejas/headroom",
+    "name": "headroom",
+    "category": "Web Development",
+    "tags": [
+      "python",
+      "agent",
+      "ai",
+      "anthropic",
+      "claude-code",
+      "compression"
+    ],
+    "stars": 37550,
+    "language": "Python",
+    "featured_at": "2026-06-19"
   }
 ]

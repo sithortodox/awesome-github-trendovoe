@@ -142,5 +142,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/125",
     "featured_at": "2026-06-19"
+  },
+  {
+    "name": "headroom",
+    "full_name": "chopratejas/headroom",
+    "url": "https://github.com/chopratejas/headroom",
+    "description": "💥 Сжатие выходных данных до минимума! chopratejas/headroom - инструмент, который сжимает инфо перед отправкой в Large Language Models (LLM). Благодаря библиотеке и прокси-серверу объем данных снижается на 60-95%, без ущерба для качества ответов. Это идеально подходит для команд, работающих с большими объемами информации или использующих LLM для обработки больших фрагментов текста. 💡",
+    "language": "Python",
+    "stars": 37550,
+    "category": "Web Development",
+    "tags": [
+      "python",
+      "agent",
+      "ai",
+      "anthropic",
+      "claude-code",
+      "compression"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/126",
+    "featured_at": "2026-06-19"
   }
 ]
