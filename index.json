@@ -134,5 +134,21 @@
     "stars": 37550,
     "language": "Python",
     "featured_at": "2026-06-19"
+  },
+  {
+    "full_name": "calesthio/OpenMontage",
+    "name": "OpenMontage",
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "agent",
+      "agentic-ai",
+      "ai",
+      "claude",
+      "copilot"
+    ],
+    "stars": 6065,
+    "language": "Python",
+    "featured_at": "2026-06-19"
   }
 ]

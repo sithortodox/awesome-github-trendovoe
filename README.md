@@ -6,11 +6,11 @@
 
 ---
 
-**9 репозиториев** в каталоге
+**10 репозиториев** в каталоге
 
 ## Категории
 
-- [AI Agents](categories/agents.md) (3)
+- [AI Agents](categories/agents.md) (4)
 - [AI](categories/ai.md) (2)
 - [Education](categories/education.md) (1)
 - [MCP](categories/mcp.md) (1)
@@ -18,6 +18,17 @@
 - [Web Development](categories/web-development.md) (1)
 
 ## AI Agents
+
+### [OpenMontage](https://github.com/calesthio/OpenMontage)
+
+⚡️ 🚀 Первая в мире система открытым исходным кодом для создания видео с помощью агентного искусственного интеллекта (AI). 12 конвейеров, 52 инструмента и более 500 навыков позволяют создавать профессиональные видеоролики с использованием AI-помощника. Отличительная особенность: совместимость с 3D-графикой, что делает возможным создание видео в самых разнообразных и передовых форматах. Превратите своего AI-помощника из простого генератора текстов в настоящую видеостудию!
+
+⭐ 6,065
+💻 Python
+🏷 `python` `agent` `agentic-ai` `ai` `claude` `copilot`
+📅 2026-06-19
+🔗 [GitHub](https://github.com/calesthio/OpenMontage)
+📢 [Telegram Post](https://t.me/github_trendovoe/127)
 
 ### [agent-native](https://github.com/BuilderIO/agent-native)
 
