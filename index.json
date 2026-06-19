@@ -56,5 +56,21 @@
     "stars": 1673,
     "language": "Python",
     "featured_at": "2026-06-18"
+  },
+  {
+    "full_name": "palmier-io/palmier-pro",
+    "name": "palmier-pro",
+    "category": "MCP",
+    "tags": [
+      "swift",
+      "ai-video",
+      "claude",
+      "macos",
+      "mcp",
+      "seedance2"
+    ],
+    "stars": 1434,
+    "language": "Swift",
+    "featured_at": "2026-06-19"
   }
 ]

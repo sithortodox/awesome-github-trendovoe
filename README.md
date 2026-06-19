@@ -6,12 +6,13 @@
 
 ---
 
-**4 репозиториев** в каталоге
+**5 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (2)
 - [AI](categories/ai.md) (1)
+- [MCP](categories/mcp.md) (1)
 - [Self-Hosted](categories/self-hosted.md) (1)
 
 ## AI Agents
@@ -52,6 +53,19 @@
 📅 2026-06-18
 🔗 [GitHub](https://github.com/yifanfeng97/Hyper-Extract)
 📢 [Telegram Post](https://t.me/github_trendovoe/121)
+
+## MCP
+
+### [palmier-pro](https://github.com/palmier-io/palmier-pro)
+
+👉 Видеоредактор macOS, созданный для искусственного интеллекта.
+
+⭐ 1,434
+💻 Swift
+🏷 `swift` `ai-video` `claude` `macos` `mcp` `seedance2`
+📅 2026-06-19
+🔗 [GitHub](https://github.com/palmier-io/palmier-pro)
+📢 [Telegram Post](https://t.me/github_trendovoe/122)
 
 ## Self-Hosted
 

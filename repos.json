@@ -68,5 +68,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/121",
     "featured_at": "2026-06-18"
+  },
+  {
+    "name": "palmier-pro",
+    "full_name": "palmier-io/palmier-pro",
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "description": "👉 Видеоредактор macOS, созданный для искусственного интеллекта.",
+    "language": "Swift",
+    "stars": 1434,
+    "category": "MCP",
+    "tags": [
+      "swift",
+      "ai-video",
+      "claude",
+      "macos",
+      "mcp",
+      "seedance2"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/122",
+    "featured_at": "2026-06-19"
   }
 ]
