@@ -217,5 +217,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/129",
     "featured_at": "2026-06-20"
+  },
+  {
+    "name": "twenty",
+    "full_name": "twentyhq/twenty",
+    "url": "https://github.com/twentyhq/twenty",
+    "description": "🤖 Открытый альтернативный CRM для искусственного интеллекта. Новый проект twentyhq/twenty оснащен мощной системой управления клиентами на основе графQL и поддерживает десятки форматов входящих данных, включая PDF, CSV и JSON. Идеален для команд, внедряющих AI в CRM-системы — автоматизация задач от анализа данных до создания сценариев действий для клиентов делает процесс управления бизнесом более эффективным и интуитивно понятным.",
+    "language": "TypeScript",
+    "stars": 50727,
+    "category": "Web Development",
+    "tags": [
+      "typescript",
+      "crm",
+      "crm-system",
+      "customer",
+      "good-first-issue",
+      "graphql"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/130",
+    "featured_at": "2026-06-20"
   }
 ]

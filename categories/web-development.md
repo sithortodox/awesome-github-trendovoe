@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**1 репозиториев**
+**2 репозиториев**
+
+### [twenty](https://github.com/twentyhq/twenty)
+
+🤖 Открытый альтернативный CRM для искусственного интеллекта. Новый проект twentyhq/twenty оснащен мощной системой управления клиентами на основе графQL и поддерживает десятки форматов входящих данных, включая PDF, CSV и JSON. Идеален для команд, внедряющих AI в CRM-системы — автоматизация задач от анализа данных до создания сценариев действий для клиентов делает процесс управления бизнесом более эффективным и интуитивно понятным.
+
+⭐ 50,727
+💻 TypeScript
+🏷 `typescript` `crm` `crm-system` `customer` `good-first-issue` `graphql`
+📅 2026-06-20
+🔗 [GitHub](https://github.com/twentyhq/twenty)
+📢 [Telegram Post](https://t.me/github_trendovoe/130)
 
 ### [headroom](https://github.com/chopratejas/headroom)
 

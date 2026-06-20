@@ -6,18 +6,18 @@
 
 ---
 
-**12 репозиториев** в каталоге
+**13 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (4)
 - [AI](categories/ai.md) (2)
+- [Web Development](categories/web-development.md) (2)
 - [Data Science](categories/data-science.md) (1)
 - [DevTools](categories/devtools.md) (1)
 - [Education](categories/education.md) (1)
 - [MCP](categories/mcp.md) (1)
 - [Self-Hosted](categories/self-hosted.md) (1)
-- [Web Development](categories/web-development.md) (1)
 
 ## AI Agents
 
@@ -91,6 +91,30 @@
 🔗 [GitHub](https://github.com/yifanfeng97/Hyper-Extract)
 📢 [Telegram Post](https://t.me/github_trendovoe/121)
 
+## Web Development
+
+### [twenty](https://github.com/twentyhq/twenty)
+
+🤖 Открытый альтернативный CRM для искусственного интеллекта. Новый проект twentyhq/twenty оснащен мощной системой управления клиентами на основе графQL и поддерживает десятки форматов входящих данных, включая PDF, CSV и JSON. Идеален для команд, внедряющих AI в CRM-системы — автоматизация задач от анализа данных до создания сценариев действий для клиентов делает процесс управления бизнесом более эффективным и интуитивно понятным.
+
+⭐ 50,727
+💻 TypeScript
+🏷 `typescript` `crm` `crm-system` `customer` `good-first-issue` `graphql`
+📅 2026-06-20
+🔗 [GitHub](https://github.com/twentyhq/twenty)
+📢 [Telegram Post](https://t.me/github_trendovoe/130)
+
+### [headroom](https://github.com/chopratejas/headroom)
+
+💥 Сжатие выходных данных до минимума! chopratejas/headroom - инструмент, который сжимает инфо перед отправкой в Large Language Models (LLM). Благодаря библиотеке и прокси-серверу объем данных снижается на 60-95%, без ущерба для качества ответов. Это идеально подходит для команд, работающих с большими объемами информации или использующих LLM для обработки больших фрагментов текста. 💡
+
+⭐ 37,550
+💻 Python
+🏷 `python` `agent` `ai` `anthropic` `claude-code` `compression`
+📅 2026-06-19
+🔗 [GitHub](https://github.com/chopratejas/headroom)
+📢 [Telegram Post](https://t.me/github_trendovoe/126)
+
 ## Data Science
 
 ### [turso](https://github.com/tursodatabase/turso)
@@ -155,16 +179,3 @@ Penpot: The open-source design tool for design and code collaboration
 📅 2026-06-18
 🔗 [GitHub](https://github.com/LibreTranslate/LibreTranslate)
 📢 [Telegram Post](https://t.me/github_trendovoe/120)
-
-## Web Development
-
-### [headroom](https://github.com/chopratejas/headroom)
-
-💥 Сжатие выходных данных до минимума! chopratejas/headroom - инструмент, который сжимает инфо перед отправкой в Large Language Models (LLM). Благодаря библиотеке и прокси-серверу объем данных снижается на 60-95%, без ущерба для качества ответов. Это идеально подходит для команд, работающих с большими объемами информации или использующих LLM для обработки больших фрагментов текста. 💡
-
-⭐ 37,550
-💻 Python
-🏷 `python` `agent` `ai` `anthropic` `claude-code` `compression`
-📅 2026-06-19
-🔗 [GitHub](https://github.com/chopratejas/headroom)
-📢 [Telegram Post](https://t.me/github_trendovoe/126)
