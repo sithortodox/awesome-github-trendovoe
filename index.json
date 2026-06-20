@@ -213,5 +213,21 @@
     "stars": 54081,
     "language": "Rust",
     "featured_at": "2026-06-20"
+  },
+  {
+    "full_name": "jamiepine/voicebox",
+    "name": "voicebox",
+    "category": "AI",
+    "tags": [
+      "typescript",
+      "ai",
+      "cuda",
+      "mlx",
+      "qwen3-tts",
+      "qwen3-tts-ui"
+    ],
+    "stars": 30947,
+    "language": "TypeScript",
+    "featured_at": "2026-06-20"
   }
 ]
