@@ -229,5 +229,16 @@
     "stars": 30947,
     "language": "TypeScript",
     "featured_at": "2026-06-20"
+  },
+  {
+    "full_name": "mattpocock/skills",
+    "name": "skills",
+    "category": "Other",
+    "tags": [
+      "shell"
+    ],
+    "stars": 138137,
+    "language": "Shell",
+    "featured_at": "2026-06-20"
   }
 ]
