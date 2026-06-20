@@ -197,5 +197,21 @@
     "stars": 50727,
     "language": "TypeScript",
     "featured_at": "2026-06-20"
+  },
+  {
+    "full_name": "tw93/Pake",
+    "name": "Pake",
+    "category": "AI",
+    "tags": [
+      "rust",
+      "chatgpt",
+      "claude",
+      "desktop",
+      "gemini",
+      "hight-performance"
+    ],
+    "stars": 54081,
+    "language": "Rust",
+    "featured_at": "2026-06-20"
   }
 ]
