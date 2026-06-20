@@ -165,5 +165,21 @@
     "stars": 50467,
     "language": "Clojure",
     "featured_at": "2026-06-19"
+  },
+  {
+    "full_name": "tursodatabase/turso",
+    "name": "turso",
+    "category": "Data Science",
+    "tags": [
+      "rust",
+      "database",
+      "embedded-database",
+      "sql",
+      "sqlite3",
+      "webassembly"
+    ],
+    "stars": 20033,
+    "language": "Rust",
+    "featured_at": "2026-06-20"
   }
 ]

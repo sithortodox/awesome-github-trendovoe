@@ -6,12 +6,13 @@
 
 ---
 
-**11 репозиториев** в каталоге
+**12 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (4)
 - [AI](categories/ai.md) (2)
+- [Data Science](categories/data-science.md) (1)
 - [DevTools](categories/devtools.md) (1)
 - [Education](categories/education.md) (1)
 - [MCP](categories/mcp.md) (1)
@@ -89,6 +90,19 @@
 📅 2026-06-18
 🔗 [GitHub](https://github.com/yifanfeng97/Hyper-Extract)
 📢 [Telegram Post](https://t.me/github_trendovoe/121)
+
+## Data Science
+
+### [turso](https://github.com/tursodatabase/turso)
+
+🔑 Turso — инновационная база данных SQL, которая автоматически поддерживает 50+ форматов файлов. Она позволяет оперативно обрабатывать разные типы данных даже при большом объеме нагрузки. Turso идеально подходит для разработчиков и команд, работающих с большим количеством разных форматов файлов в рабочей среде. Как ключевая фича, Turso устойчив к отказам и продолжает работу без прерываний даже при временной неполадке сервера. Это отличный вариант для обеспечения бесперебойной работы и стабильности системы в больших компаниях.
+
+⭐ 20,033
+💻 Rust
+🏷 `rust` `database` `embedded-database` `sql` `sqlite3` `webassembly`
+📅 2026-06-20
+🔗 [GitHub](https://github.com/tursodatabase/turso)
+📢 [Telegram Post](https://t.me/github_trendovoe/129)
 
 ## DevTools
 
