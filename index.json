@@ -351,5 +351,21 @@
     "stars": 18707,
     "language": "Python",
     "featured_at": "2026-06-21"
+  },
+  {
+    "full_name": "topoteretes/cognee",
+    "name": "cognee",
+    "category": "AI",
+    "tags": [
+      "python",
+      "agent-memory",
+      "agent-skills",
+      "ai",
+      "ai-agents",
+      "ai-memory"
+    ],
+    "stars": 18626,
+    "language": "Python",
+    "featured_at": "2026-06-21"
   }
 ]
