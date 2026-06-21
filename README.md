@@ -6,14 +6,14 @@
 
 ---
 
-**22 репозиториев** в каталоге
+**23 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (6)
 - [AI](categories/ai.md) (5)
 - [Web Development](categories/web-development.md) (3)
-- [Cybersecurity](categories/cybersecurity.md) (1)
+- [Cybersecurity](categories/cybersecurity.md) (2)
 - [Data Science](categories/data-science.md) (1)
 - [DevTools](categories/devtools.md) (1)
 - [Education](categories/education.md) (1)
@@ -197,6 +197,21 @@ b站会员购购票辅助工具
 📢 [Telegram Post](https://t.me/github_trendovoe/126)
 
 ## Cybersecurity
+
+### [spiderfoot](https://github.com/smicallef/spiderfoot)
+
+🔍 SpiderFoot автоматизирует процесс сбора информации для угрозоанализа и составления карты поверхности атаки (OSINT). Позволяет экспертам безопасности быстро получать всю необходимую информацию об инфраструктуре, ресурсах и взаимодействиях с внешним миром. Компании в области информационной безопасности могут эффективно управлять рисками и выявлять новые угрозы. 🛡️
+
+💡 Ключевая фича — интеграция более чем 100 различных источников данных, включая специализированные инструменты для криптографии, сетевых диагностики и анализа устройств. Это делает SpiderFoot уникальным в своем классе, обеспечивая наиболее полное представление для выявления потенциальных угроз и принятия решений.
+
+🔥 Отличие от конкурентов: интеграция большого количества источников данных и высокий уровень специализации в области криптографии и сетевых технологий делают SpiderFoot наиболее полным инструментом для управления информационной безопасностью.
+
+⭐ 18,707
+💻 Python
+🏷 `python` `attacksurface` `cti` `cybersecurity` `footprinting` `hacking`
+📅 2026-06-21
+🔗 [GitHub](https://github.com/smicallef/spiderfoot)
+📢 [Telegram Post](https://t.me/github_trendovoe/140)
 
 ### [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
 

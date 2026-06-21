@@ -335,5 +335,21 @@
     "stars": 3698,
     "language": "Python",
     "featured_at": "2026-06-21"
+  },
+  {
+    "full_name": "smicallef/spiderfoot",
+    "name": "spiderfoot",
+    "category": "Cybersecurity",
+    "tags": [
+      "python",
+      "attacksurface",
+      "cti",
+      "cybersecurity",
+      "footprinting",
+      "hacking"
+    ],
+    "stars": 18707,
+    "language": "Python",
+    "featured_at": "2026-06-21"
   }
 ]
