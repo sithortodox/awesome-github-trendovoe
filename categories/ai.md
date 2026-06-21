@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**4 репозиториев**
+**5 репозиториев**
+
+### [jcode](https://github.com/1jehuang/jcode)
+
+🎯 Кодирующий агент Harness. Автоматическая генерация кода на основе запросов с использованием LLM. Подходит для DevOps и data-инженеров, которые хотят сократить время на написание скриптов и ускорить интеграцию кода. Готовый к работе API и примеры использования в GitHub.
+
+⭐ 7,414
+💻 Rust
+🏷 `rust` `ai` `claude` `cli` `coding-agent` `llm`
+📅 2026-06-21
+🔗 [GitHub](https://github.com/1jehuang/jcode)
+📢 [Telegram Post](https://t.me/github_trendovoe/135)
 
 ### [voicebox](https://github.com/jamiepine/voicebox)
 

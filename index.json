@@ -256,5 +256,21 @@
     "stars": 26491,
     "language": "Kotlin",
     "featured_at": "2026-06-21"
+  },
+  {
+    "full_name": "1jehuang/jcode",
+    "name": "jcode",
+    "category": "AI",
+    "tags": [
+      "rust",
+      "ai",
+      "claude",
+      "cli",
+      "coding-agent",
+      "llm"
+    ],
+    "stars": 7414,
+    "language": "Rust",
+    "featured_at": "2026-06-21"
   }
 ]

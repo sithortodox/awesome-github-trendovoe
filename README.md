@@ -6,11 +6,11 @@
 
 ---
 
-**17 репозиториев** в каталоге
+**18 репозиториев** в каталоге
 
 ## Категории
 
-- [AI](categories/ai.md) (4)
+- [AI](categories/ai.md) (5)
 - [AI Agents](categories/agents.md) (4)
 - [Web Development](categories/web-development.md) (2)
 - [Data Science](categories/data-science.md) (1)
@@ -22,6 +22,17 @@
 - [Self-Hosted](categories/self-hosted.md) (1)
 
 ## AI
+
+### [jcode](https://github.com/1jehuang/jcode)
+
+🎯 Кодирующий агент Harness. Автоматическая генерация кода на основе запросов с использованием LLM. Подходит для DevOps и data-инженеров, которые хотят сократить время на написание скриптов и ускорить интеграцию кода. Готовый к работе API и примеры использования в GitHub.
+
+⭐ 7,414
+💻 Rust
+🏷 `rust` `ai` `claude` `cli` `coding-agent` `llm`
+📅 2026-06-21
+🔗 [GitHub](https://github.com/1jehuang/jcode)
+📢 [Telegram Post](https://t.me/github_trendovoe/135)
 
 ### [voicebox](https://github.com/jamiepine/voicebox)
 
