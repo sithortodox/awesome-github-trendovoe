@@ -4,13 +4,13 @@
 
 **1 репозиториев**
 
-### [universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+🚀 Пpрoект pppscn/SmsForwarder — это приложение на Android, которое позволяет создавать автоматизированные сервисы для контроля устройств и отправки сообщений через различные платформы. С помощью этой инструментальной агентской системы вы можете контролировать такие функции как включение/выключение питания, получение информации о состоянии аккумулятора, проверка доступности сети и многое другое. 🌐 Проект поддерживает более 30 различных API, что делает его универсальным инструментом для управления устройствами на разных платформах: от Android до Telegram и даже до Email. 💡 Заметный факт: SmsForwarder отличается своей способностью запускать скрипты внутри самих устройств Android благодаря технологии ADB, что делает его уникальным среди других подобных решений.
 
-⭐ 7,866
-💻 Rust
-🏷 `rust` `adb` `android` `bloatware-list` `bloatware-removal` `debloat`
-📅 2026-06-18
-🔗 [GitHub](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
-📢 [Telegram Post](https://t.me/github_trendovoe/116)
+⭐ 26,491
+💻 Kotlin
+🏷 `kotlin` `android` `api` `app` `bark` `call`
+📅 2026-06-21
+🔗 [GitHub](https://github.com/pppscn/SmsForwarder)
+📢 [Telegram Post](https://t.me/github_trendovoe/134)

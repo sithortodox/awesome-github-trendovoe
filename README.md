@@ -6,7 +6,7 @@
 
 ---
 
-**16 репозиториев** в каталоге
+**17 репозиториев** в каталоге
 
 ## Категории
 
@@ -17,6 +17,7 @@
 - [DevTools](categories/devtools.md) (1)
 - [Education](categories/education.md) (1)
 - [MCP](categories/mcp.md) (1)
+- [Mobile](categories/mobile.md) (1)
 - [Other](categories/other.md) (1)
 - [Self-Hosted](categories/self-hosted.md) (1)
 
@@ -201,6 +202,19 @@ Penpot: The open-source design tool for design and code collaboration
 📅 2026-06-19
 🔗 [GitHub](https://github.com/palmier-io/palmier-pro)
 📢 [Telegram Post](https://t.me/github_trendovoe/122)
+
+## Mobile
+
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+
+🚀 Пpрoект pppscn/SmsForwarder — это приложение на Android, которое позволяет создавать автоматизированные сервисы для контроля устройств и отправки сообщений через различные платформы. С помощью этой инструментальной агентской системы вы можете контролировать такие функции как включение/выключение питания, получение информации о состоянии аккумулятора, проверка доступности сети и многое другое. 🌐 Проект поддерживает более 30 различных API, что делает его универсальным инструментом для управления устройствами на разных платформах: от Android до Telegram и даже до Email. 💡 Заметный факт: SmsForwarder отличается своей способностью запускать скрипты внутри самих устройств Android благодаря технологии ADB, что делает его уникальным среди других подобных решений.
+
+⭐ 26,491
+💻 Kotlin
+🏷 `kotlin` `android` `api` `app` `bark` `call`
+📅 2026-06-21
+🔗 [GitHub](https://github.com/pppscn/SmsForwarder)
+📢 [Telegram Post](https://t.me/github_trendovoe/134)
 
 ## Other
 

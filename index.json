@@ -240,5 +240,21 @@
     "stars": 138137,
     "language": "Shell",
     "featured_at": "2026-06-20"
+  },
+  {
+    "full_name": "pppscn/SmsForwarder",
+    "name": "SmsForwarder",
+    "category": "Mobile",
+    "tags": [
+      "kotlin",
+      "android",
+      "api",
+      "app",
+      "bark",
+      "call"
+    ],
+    "stars": 26491,
+    "language": "Kotlin",
+    "featured_at": "2026-06-21"
   }
 ]
