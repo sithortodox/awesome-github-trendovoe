@@ -6,13 +6,14 @@
 
 ---
 
-**20 репозиториев** в каталоге
+**21 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (6)
 - [AI](categories/ai.md) (5)
 - [Web Development](categories/web-development.md) (2)
+- [Cybersecurity](categories/cybersecurity.md) (1)
 - [Data Science](categories/data-science.md) (1)
 - [DevTools](categories/devtools.md) (1)
 - [Education](categories/education.md) (1)
@@ -183,6 +184,27 @@ Pake — это фреймворк, который автоматически п
 📅 2026-06-19
 🔗 [GitHub](https://github.com/chopratejas/headroom)
 📢 [Telegram Post](https://t.me/github_trendovoe/126)
+
+## Cybersecurity
+
+### [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+
+🚧 Мягкие сетевые инфраструктуры на базе Kubernetes для автоматизации масштабирования приложений. 🚧
+
+Мы создали простую систему для управления несколькими Kubernetes-запятинами, что позволяет автоматически масштабировать приложения в любое количество ресурсов — от нескольких серверов до десятков и даже сотен за считанные минуты. 🚀
+
+Проблема заключается в том, что обычно для таких задач требуется непростая настройка и поддержание огромного количества мониторинга и управления ресурсами Kubernetes. Используя наш инструмент, разработчики, DevOps-менеджеры и data-инженеры могут быстро настроить приложения для масштабирования без дополнительных хлопот.
+
+Это особенно важно для команд, которые хотят развивать приложения в любых средах — от локальных серверов до крупнейших облаковых платформ. Подходит для тех, кто хочет быстро и легко масштабировать приложения без дополнительного ручного управления инфраструктурой.
+
+🔥 Ключевая фича: поддержка более 50 различных типов языков в одном универсальном решении — от Go до Rust.
+
+⭐ 17,408
+💻 Python
+🏷 `python` `ai-agents` `claude-code` `cloud-security` `cybersecurity` `devsecops`
+📅 2026-06-21
+🔗 [GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+📢 [Telegram Post](https://t.me/github_trendovoe/138)
 
 ## Data Science
 

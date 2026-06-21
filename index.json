@@ -304,5 +304,21 @@
     "stars": 72278,
     "language": "Python",
     "featured_at": "2026-06-21"
+  },
+  {
+    "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "name": "Anthropic-Cybersecurity-Skills",
+    "category": "Cybersecurity",
+    "tags": [
+      "python",
+      "ai-agents",
+      "claude-code",
+      "cloud-security",
+      "cybersecurity",
+      "devsecops"
+    ],
+    "stars": 17408,
+    "language": "Python",
+    "featured_at": "2026-06-21"
   }
 ]
