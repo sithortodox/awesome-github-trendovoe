@@ -383,5 +383,23 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/138",
     "featured_at": "2026-06-21"
+  },
+  {
+    "name": "biliTickerBuy",
+    "full_name": "mikumifa/biliTickerBuy",
+    "url": "https://github.com/mikumifa/biliTickerBuy",
+    "description": "b站会员购购票辅助工具",
+    "language": "Python",
+    "stars": 3698,
+    "category": "Web Development",
+    "tags": [
+      "python",
+      "bilibili",
+      "bilibili-api",
+      "manga",
+      "tickets"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/139",
+    "featured_at": "2026-06-21"
   }
 ]

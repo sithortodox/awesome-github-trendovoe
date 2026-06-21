@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**2 репозиториев**
+**3 репозиториев**
+
+### [biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
+
+b站会员购购票辅助工具
+
+⭐ 3,698
+💻 Python
+🏷 `python` `bilibili` `bilibili-api` `manga` `tickets`
+📅 2026-06-21
+🔗 [GitHub](https://github.com/mikumifa/biliTickerBuy)
+📢 [Telegram Post](https://t.me/github_trendovoe/139)
 
 ### [twenty](https://github.com/twentyhq/twenty)
 

@@ -320,5 +320,20 @@
     "stars": 17408,
     "language": "Python",
     "featured_at": "2026-06-21"
+  },
+  {
+    "full_name": "mikumifa/biliTickerBuy",
+    "name": "biliTickerBuy",
+    "category": "Web Development",
+    "tags": [
+      "python",
+      "bilibili",
+      "bilibili-api",
+      "manga",
+      "tickets"
+    ],
+    "stars": 3698,
+    "language": "Python",
+    "featured_at": "2026-06-21"
   }
 ]

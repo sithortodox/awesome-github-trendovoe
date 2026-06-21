@@ -6,13 +6,13 @@
 
 ---
 
-**21 репозиториев** в каталоге
+**22 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (6)
 - [AI](categories/ai.md) (5)
-- [Web Development](categories/web-development.md) (2)
+- [Web Development](categories/web-development.md) (3)
 - [Cybersecurity](categories/cybersecurity.md) (1)
 - [Data Science](categories/data-science.md) (1)
 - [DevTools](categories/devtools.md) (1)
@@ -162,6 +162,17 @@ Pake — это фреймворк, который автоматически п
 📢 [Telegram Post](https://t.me/github_trendovoe/121)
 
 ## Web Development
+
+### [biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
+
+b站会员购购票辅助工具
+
+⭐ 3,698
+💻 Python
+🏷 `python` `bilibili` `bilibili-api` `manga` `tickets`
+📅 2026-06-21
+🔗 [GitHub](https://github.com/mikumifa/biliTickerBuy)
+📢 [Telegram Post](https://t.me/github_trendovoe/139)
 
 ### [twenty](https://github.com/twentyhq/twenty)
 
