@@ -288,5 +288,21 @@
     "stars": 43832,
     "language": "Python",
     "featured_at": "2026-06-21"
+  },
+  {
+    "full_name": "bytedance/deer-flow",
+    "name": "deer-flow",
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "agent",
+      "agentic",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai"
+    ],
+    "stars": 72278,
+    "language": "Python",
+    "featured_at": "2026-06-21"
   }
 ]

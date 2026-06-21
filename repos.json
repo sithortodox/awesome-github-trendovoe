@@ -345,5 +345,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/136",
     "featured_at": "2026-06-21"
+  },
+  {
+    "name": "deer-flow",
+    "full_name": "bytedance/deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "description": "🚧 bytedance/deer-flow — фреймворк на Python для создания автономных AI-агентов. Позволяет автоматически решать задачи с разными уровнями сложности от нескольких минут до часов, без прямого участия человека. Использует песочницы, память и шлюз сообщений для управления многопроцессными задачами. Подходит для DevOps-экосистем, где требуется управление инфраструктурой и выполнение операций в фоновом режиме без прямого участия пользователей. Выделяется тем, что поддерживает от 50 различных форматов входных данных, обеспечивая универсальность и эффективность решения задач разного характера.",
+    "language": "Python",
+    "stars": 72278,
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "agent",
+      "agentic",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/137",
+    "featured_at": "2026-06-21"
   }
 ]
