@@ -6,12 +6,12 @@
 
 ---
 
-**18 репозиториев** в каталоге
+**19 репозиториев** в каталоге
 
 ## Категории
 
 - [AI](categories/ai.md) (5)
-- [AI Agents](categories/agents.md) (4)
+- [AI Agents](categories/agents.md) (5)
 - [Web Development](categories/web-development.md) (2)
 - [Data Science](categories/data-science.md) (1)
 - [DevTools](categories/devtools.md) (1)
@@ -93,6 +93,17 @@ Pake — это фреймворк, который автоматически п
 📢 [Telegram Post](https://t.me/github_trendovoe/121)
 
 ## AI Agents
+
+### [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+
+🛠️ Платформа ZhuLinsen/daily_stock_analysis позволяет разработчикам создавать автономные системы анализа рынка на основе модели LLM (Large Language Model). Поддерживает чтение данных с нескольких источников, включая различные биржевые данные и новостные ресурсы. Панель принятия решений автоматически формирует стратегии покупок и продаж базируясь на анализе текущей рыночной ситуации и прогнозах LLM. 🚀 Подходит для тех, кто хочет создать интеллектуальную систему аналитики без необходимости напрямую обрабатывать большие объемы данных. Благодаря поддержке 50+ форматов входящих данных и уникальной технологии машинного обучения, система ZhuLinsen/daily_stock_analysis облегчает процесс работы с различными источниками информации на уровне одного клика.
+
+⭐ 43,832
+💻 Python
+🏷 `python` `a-stock` `ai-agent` `aigc` `llm` `quant`
+📅 2026-06-21
+🔗 [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis)
+📢 [Telegram Post](https://t.me/github_trendovoe/136)
 
 ### [OpenMontage](https://github.com/calesthio/OpenMontage)
 

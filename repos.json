@@ -326,5 +326,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/135",
     "featured_at": "2026-06-21"
+  },
+  {
+    "name": "daily_stock_analysis",
+    "full_name": "ZhuLinsen/daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "description": "🛠️ Платформа ZhuLinsen/daily_stock_analysis позволяет разработчикам создавать автономные системы анализа рынка на основе модели LLM (Large Language Model). Поддерживает чтение данных с нескольких источников, включая различные биржевые данные и новостные ресурсы. Панель принятия решений автоматически формирует стратегии покупок и продаж базируясь на анализе текущей рыночной ситуации и прогнозах LLM. 🚀 Подходит для тех, кто хочет создать интеллектуальную систему аналитики без необходимости напрямую обрабатывать большие объемы данных. Благодаря поддержке 50+ форматов входящих данных и уникальной технологии машинного обучения, система ZhuLinsen/daily_stock_analysis облегчает процесс работы с различными источниками информации на уровне одного клика.",
+    "language": "Python",
+    "stars": 43832,
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "a-stock",
+      "ai-agent",
+      "aigc",
+      "llm",
+      "quant"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/136",
+    "featured_at": "2026-06-21"
   }
 ]
