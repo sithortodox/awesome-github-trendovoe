@@ -411,5 +411,16 @@
     "stars": 82387,
     "language": "Java",
     "featured_at": "2026-06-22"
+  },
+  {
+    "full_name": "garrytan/gstack",
+    "name": "gstack",
+    "category": "DevTools",
+    "tags": [
+      "typescript"
+    ],
+    "stars": 112786,
+    "language": "TypeScript",
+    "featured_at": "2026-06-22"
   }
 ]

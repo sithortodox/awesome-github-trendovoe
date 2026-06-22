@@ -492,5 +492,19 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/144",
     "featured_at": "2026-06-22"
+  },
+  {
+    "name": "gstack",
+    "full_name": "garrytan/gstack",
+    "url": "https://github.com/garrytan/gstack",
+    "description": "🎯 23 самоуверенных инструмента на основе Claude Code от Гарри Тана. Эти уникальные инструменты автоматически выполняют функции генерального директора, дизайнера, инженер-менеджера, менеджера по выпуску и контроля качества. Позволяет структурировать проекты без участия человека, обеспечивая надежность и масштабируемость. Команда, разработчики и Data-инженеры получат автоматизацию задач, обычно требующих много времени и усилий. 🚀",
+    "language": "TypeScript",
+    "stars": 112786,
+    "category": "DevTools",
+    "tags": [
+      "typescript"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/145",
+    "featured_at": "2026-06-22"
   }
 ]
