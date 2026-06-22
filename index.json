@@ -396,5 +396,20 @@
     "stars": 44585,
     "language": "JavaScript",
     "featured_at": "2026-06-22"
+  },
+  {
+    "full_name": "Stirling-Tools/Stirling-PDF",
+    "name": "Stirling-PDF",
+    "category": "DevOps",
+    "tags": [
+      "java",
+      "docker",
+      "hacktoberfest",
+      "pdf",
+      "pdf-converter"
+    ],
+    "stars": 82387,
+    "language": "Java",
+    "featured_at": "2026-06-22"
   }
 ]

@@ -6,7 +6,7 @@
 
 ---
 
-**26 репозиториев** в каталоге
+**27 репозиториев** в каталоге
 
 ## Категории
 
@@ -16,6 +16,7 @@
 - [Cybersecurity](categories/cybersecurity.md) (2)
 - [Education](categories/education.md) (2)
 - [Data Science](categories/data-science.md) (1)
+- [DevOps](categories/devops.md) (1)
 - [DevTools](categories/devtools.md) (1)
 - [MCP](categories/mcp.md) (1)
 - [Mobile](categories/mobile.md) (1)
@@ -300,6 +301,19 @@ b站会员购购票辅助工具
 📅 2026-06-20
 🔗 [GitHub](https://github.com/tursodatabase/turso)
 📢 [Telegram Post](https://t.me/github_trendovoe/129)
+
+## DevOps
+
+### [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+
+🎯 PDF-редактор Stirling-Tools/Stirling-PDF поддерживает редактирование, добавление форматирования, вставку изображений и даже векторных графиков прямо на оригинальные PDF-файлы. Это приложение позволяет создавать новые страницы или изменять содержимое существующих — идеально подходит для документов с неразрывными формами данных, таких как технические отчёты и бланки. Командам, работающим над многими документами, особенно полезно, так как позволяет не только вносить изменения прямо на месте, но и совместно работать с данными без необходимости распечатывать и физически объединять файлы. 🚀
+
+⭐ 82,387
+💻 Java
+🏷 `java` `docker` `hacktoberfest` `pdf` `pdf-converter`
+📅 2026-06-22
+🔗 [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
+📢 [Telegram Post](https://t.me/github_trendovoe/144)
 
 ## DevTools
 
