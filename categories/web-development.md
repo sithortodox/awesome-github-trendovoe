@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**4 репозиториев**
+**5 репозиториев**
+
+### [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+
+🎯 Клонируйте любой веб-сайт одним щелчком кнопки с помощью инновационного AI-плагина JCodesMore/ai-website-cloner-template. Этот инструмент автоматически анализирует исходный код и создает точную копию сайта, подключая все необходимые стилизации и встраиваемые скрипты. Подходит для разработчиков, которые хотят сэкономить время на ручное копирование структуры сайтов и быстро запускать новые проекты без потери качества. Более 100-ти готовых шаблонов и возможность подключения пользовательского CSS делают это решение универсальным для разного типа веб-сайтов.
+
+⭐ 17,665
+💻 TypeScript
+🏷 `typescript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
+📅 2026-06-22
+🔗 [GitHub](https://github.com/JCodesMore/ai-website-cloner-template)
+📢 [Telegram Post](https://t.me/github_trendovoe/148)
 
 ### [hyperframes](https://github.com/heygen-com/hyperframes)
 

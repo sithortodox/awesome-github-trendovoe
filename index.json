@@ -454,5 +454,21 @@
     "stars": 137049,
     "language": "TypeScript",
     "featured_at": "2026-06-22"
+  },
+  {
+    "full_name": "JCodesMore/ai-website-cloner-template",
+    "name": "ai-website-cloner-template",
+    "category": "Web Development",
+    "tags": [
+      "typescript",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "automation",
+      "boilerplate"
+    ],
+    "stars": 17665,
+    "language": "TypeScript",
+    "featured_at": "2026-06-22"
   }
 ]

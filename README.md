@@ -6,13 +6,13 @@
 
 ---
 
-**30 репозиториев** в каталоге
+**31 репозиториев** в каталоге
 
 ## Категории
 
 - [AI](categories/ai.md) (7)
 - [AI Agents](categories/agents.md) (6)
-- [Web Development](categories/web-development.md) (4)
+- [Web Development](categories/web-development.md) (5)
 - [Cybersecurity](categories/cybersecurity.md) (2)
 - [DevTools](categories/devtools.md) (2)
 - [Education](categories/education.md) (2)
@@ -192,6 +192,17 @@ Pake — это фреймворк, который автоматически п
 📢 [Telegram Post](https://t.me/github_trendovoe/123)
 
 ## Web Development
+
+### [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+
+🎯 Клонируйте любой веб-сайт одним щелчком кнопки с помощью инновационного AI-плагина JCodesMore/ai-website-cloner-template. Этот инструмент автоматически анализирует исходный код и создает точную копию сайта, подключая все необходимые стилизации и встраиваемые скрипты. Подходит для разработчиков, которые хотят сэкономить время на ручное копирование структуры сайтов и быстро запускать новые проекты без потери качества. Более 100-ти готовых шаблонов и возможность подключения пользовательского CSS делают это решение универсальным для разного типа веб-сайтов.
+
+⭐ 17,665
+💻 TypeScript
+🏷 `typescript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
+📅 2026-06-22
+🔗 [GitHub](https://github.com/JCodesMore/ai-website-cloner-template)
+📢 [Telegram Post](https://t.me/github_trendovoe/148)
 
 ### [hyperframes](https://github.com/heygen-com/hyperframes)
 

@@ -544,5 +544,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/147",
     "featured_at": "2026-06-22"
+  },
+  {
+    "name": "ai-website-cloner-template",
+    "full_name": "JCodesMore/ai-website-cloner-template",
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "description": "🎯 Клонируйте любой веб-сайт одним щелчком кнопки с помощью инновационного AI-плагина JCodesMore/ai-website-cloner-template. Этот инструмент автоматически анализирует исходный код и создает точную копию сайта, подключая все необходимые стилизации и встраиваемые скрипты. Подходит для разработчиков, которые хотят сэкономить время на ручное копирование структуры сайтов и быстро запускать новые проекты без потери качества. Более 100-ти готовых шаблонов и возможность подключения пользовательского CSS делают это решение универсальным для разного типа веб-сайтов.",
+    "language": "TypeScript",
+    "stars": 17665,
+    "category": "Web Development",
+    "tags": [
+      "typescript",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "automation",
+      "boilerplate"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/148",
+    "featured_at": "2026-06-22"
   }
 ]
