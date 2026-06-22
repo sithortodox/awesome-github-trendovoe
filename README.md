@@ -6,7 +6,7 @@
 
 ---
 
-**29 репозиториев** в каталоге
+**30 репозиториев** в каталоге
 
 ## Категории
 
@@ -16,6 +16,7 @@
 - [Cybersecurity](categories/cybersecurity.md) (2)
 - [DevTools](categories/devtools.md) (2)
 - [Education](categories/education.md) (2)
+- [Automation](categories/automation.md) (1)
 - [Data Science](categories/data-science.md) (1)
 - [DevOps](categories/devops.md) (1)
 - [MCP](categories/mcp.md) (1)
@@ -323,6 +324,19 @@ Penpot: The open-source design tool for design and code collaboration
 📅 2026-06-19
 🔗 [GitHub](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 📢 [Telegram Post](https://t.me/github_trendovoe/124)
+
+## Automation
+
+### [firecrawl](https://github.com/firecrawl/firecrawl)
+
+🔥 API firecrawl для эффективной обработки и анализа данных в больших объемах. Автоматически собирает информацию с интернет-ресурсов, устраняет вредоносные элементы и приводит данные в нужный формат — идеально подходит для тех, кто работает с Big Data или имеет массивные базы данных. Отличие: интеграция с более чем 50 языками и платформами, что позволяет легко сконфигурировать и масштабировать проект на любых размерах данных.
+
+⭐ 137,049
+💻 TypeScript
+🏷 `typescript` `ai` `ai-agents` `ai-crawler` `ai-scraping` `ai-search`
+📅 2026-06-22
+🔗 [GitHub](https://github.com/firecrawl/firecrawl)
+📢 [Telegram Post](https://t.me/github_trendovoe/147)
 
 ## Data Science
 

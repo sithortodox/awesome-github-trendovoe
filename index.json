@@ -438,5 +438,21 @@
     "stars": 29814,
     "language": "TypeScript",
     "featured_at": "2026-06-22"
+  },
+  {
+    "full_name": "firecrawl/firecrawl",
+    "name": "firecrawl",
+    "category": "Automation",
+    "tags": [
+      "typescript",
+      "ai",
+      "ai-agents",
+      "ai-crawler",
+      "ai-scraping",
+      "ai-search"
+    ],
+    "stars": 137049,
+    "language": "TypeScript",
+    "featured_at": "2026-06-22"
   }
 ]

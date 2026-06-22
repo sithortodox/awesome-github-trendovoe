@@ -525,5 +525,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/146",
     "featured_at": "2026-06-22"
+  },
+  {
+    "name": "firecrawl",
+    "full_name": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "description": "🔥 API firecrawl для эффективной обработки и анализа данных в больших объемах. Автоматически собирает информацию с интернет-ресурсов, устраняет вредоносные элементы и приводит данные в нужный формат — идеально подходит для тех, кто работает с Big Data или имеет массивные базы данных. Отличие: интеграция с более чем 50 языками и платформами, что позволяет легко сконфигурировать и масштабировать проект на любых размерах данных.",
+    "language": "TypeScript",
+    "stars": 137049,
+    "category": "Automation",
+    "tags": [
+      "typescript",
+      "ai",
+      "ai-agents",
+      "ai-crawler",
+      "ai-scraping",
+      "ai-search"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/147",
+    "featured_at": "2026-06-22"
   }
 ]
