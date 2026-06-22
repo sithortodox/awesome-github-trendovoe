@@ -6,11 +6,11 @@
 
 ---
 
-**25 репозиториев** в каталоге
+**26 репозиториев** в каталоге
 
 ## Категории
 
-- [AI](categories/ai.md) (6)
+- [AI](categories/ai.md) (7)
 - [AI Agents](categories/agents.md) (6)
 - [Web Development](categories/web-development.md) (3)
 - [Cybersecurity](categories/cybersecurity.md) (2)
@@ -23,6 +23,17 @@
 - [Self-Hosted](categories/self-hosted.md) (1)
 
 ## AI
+
+### [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+
+otasystem/system_prompts_leaks 🚀 Проект извлекает системные подсказки из множества AI-систем — от Anthropic до Google xAI. Обновляются регулярно, помогая разработчикам создавать более точные и специфичные запросы к интеллектуальным агентам. Полезен для тех, кто хочет улучшить эффективность своей работы с AI-технологиями.
+
+⭐ 44,585
+💻 JavaScript
+🏷 `javascript` `ai` `ai-agents` `anthropic` `awesome` `chatbot`
+📅 2026-06-22
+🔗 [GitHub](https://github.com/asgeirtj/system_prompts_leaks)
+📢 [Telegram Post](https://t.me/github_trendovoe/143)
 
 ### [cognee](https://github.com/topoteretes/cognee)
 

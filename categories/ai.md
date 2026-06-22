@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**6 репозиториев**
+**7 репозиториев**
+
+### [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+
+otasystem/system_prompts_leaks 🚀 Проект извлекает системные подсказки из множества AI-систем — от Anthropic до Google xAI. Обновляются регулярно, помогая разработчикам создавать более точные и специфичные запросы к интеллектуальным агентам. Полезен для тех, кто хочет улучшить эффективность своей работы с AI-технологиями.
+
+⭐ 44,585
+💻 JavaScript
+🏷 `javascript` `ai` `ai-agents` `anthropic` `awesome` `chatbot`
+📅 2026-06-22
+🔗 [GitHub](https://github.com/asgeirtj/system_prompts_leaks)
+📢 [Telegram Post](https://t.me/github_trendovoe/143)
 
 ### [cognee](https://github.com/topoteretes/cognee)
 

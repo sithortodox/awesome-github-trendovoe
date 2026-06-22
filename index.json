@@ -380,5 +380,21 @@
     "stars": 54041,
     "language": "",
     "featured_at": "2026-06-22"
+  },
+  {
+    "full_name": "asgeirtj/system_prompts_leaks",
+    "name": "system_prompts_leaks",
+    "category": "AI",
+    "tags": [
+      "javascript",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "awesome",
+      "chatbot"
+    ],
+    "stars": 44585,
+    "language": "JavaScript",
+    "featured_at": "2026-06-22"
   }
 ]

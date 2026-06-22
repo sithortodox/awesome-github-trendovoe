@@ -455,5 +455,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/142",
     "featured_at": "2026-06-22"
+  },
+  {
+    "name": "system_prompts_leaks",
+    "full_name": "asgeirtj/system_prompts_leaks",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "description": "otasystem/system_prompts_leaks 🚀 Проект извлекает системные подсказки из множества AI-систем — от Anthropic до Google xAI. Обновляются регулярно, помогая разработчикам создавать более точные и специфичные запросы к интеллектуальным агентам. Полезен для тех, кто хочет улучшить эффективность своей работы с AI-технологиями.",
+    "language": "JavaScript",
+    "stars": 44585,
+    "category": "AI",
+    "tags": [
+      "javascript",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "awesome",
+      "chatbot"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/143",
+    "featured_at": "2026-06-22"
   }
 ]
