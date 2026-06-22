@@ -6,7 +6,7 @@
 
 ---
 
-**24 репозиториев** в каталоге
+**25 репозиториев** в каталоге
 
 ## Категории
 
@@ -14,9 +14,9 @@
 - [AI Agents](categories/agents.md) (6)
 - [Web Development](categories/web-development.md) (3)
 - [Cybersecurity](categories/cybersecurity.md) (2)
+- [Education](categories/education.md) (2)
 - [Data Science](categories/data-science.md) (1)
 - [DevTools](categories/devtools.md) (1)
-- [Education](categories/education.md) (1)
 - [MCP](categories/mcp.md) (1)
 - [Mobile](categories/mobile.md) (1)
 - [Other](categories/other.md) (1)
@@ -249,6 +249,34 @@ b站会员购购票辅助工具
 🔗 [GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
 📢 [Telegram Post](https://t.me/github_trendovoe/138)
 
+## Education
+
+### [English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
+
+🔥 Эксклюзивное руководство по запуску собственных Telegram-каналов! Программа включает инструкции от A до Z для создания, настройки и улучшения вашего канала.
+
+
+🔑 Ключевая фича: система аналитики, позволяющая отслеживать трафик, взаимодействие пользователей и эффективность канала. Это отличный инструмент для тех, кто хочет выстроить успешную стратегию развития своего Telegram-канал.
+
+📊 Статистика в реальном времени, чтобы видеть, что работает, а что нет, поможет оптимизировать ваш канал и достигать ваших целей!
+
+⭐ 54,041
+🏷 `chinese` `english-learning` `tutorial`
+📅 2026-06-22
+🔗 [GitHub](https://github.com/byoungd/English-level-up-tips)
+📢 [Telegram Post](https://t.me/github_trendovoe/142)
+
+### [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+
+🔍 Глобальное хранилище обновлений исследований генеративного искусственного интеллекта с ресурсами для интервью и блокнотов!
+
+⭐ 27,469
+💻 HTML
+🏷 `html` `awesome` `awesome-list` `generative-ai` `interview-questions` `large-language-models`
+📅 2026-06-19
+🔗 [GitHub](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+📢 [Telegram Post](https://t.me/github_trendovoe/124)
+
 ## Data Science
 
 ### [turso](https://github.com/tursodatabase/turso)
@@ -274,19 +302,6 @@ Penpot: The open-source design tool for design and code collaboration
 📅 2026-06-19
 🔗 [GitHub](https://github.com/penpot/penpot)
 📢 [Telegram Post](https://t.me/github_trendovoe/128)
-
-## Education
-
-### [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
-
-🔍 Глобальное хранилище обновлений исследований генеративного искусственного интеллекта с ресурсами для интервью и блокнотов!
-
-⭐ 27,469
-💻 HTML
-🏷 `html` `awesome` `awesome-list` `generative-ai` `interview-questions` `large-language-models`
-📅 2026-06-19
-🔗 [GitHub](https://github.com/aishwaryanr/awesome-generative-ai-guide)
-📢 [Telegram Post](https://t.me/github_trendovoe/124)
 
 ## MCP
 
