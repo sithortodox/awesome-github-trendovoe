@@ -506,5 +506,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/145",
     "featured_at": "2026-06-22"
+  },
+  {
+    "name": "hyperframes",
+    "full_name": "heygen-com/hyperframes",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "description": "🎯 Heygen-com/hyperframes — фреймворк на TypeScript для создания автономных AI-агентов. Создан для тех, кто хочет автоматизировать процессы в видеообработке и управлении инфраструктурой. Поддерживает работу с FFMPEG и GSAP, что позволяет эффективно рендерить видео и управлять анимацией. Данный проект отличается интеграцией популярных библиотек для максимальной производительности и масштабируемости приложений, делая его идеальным выбором для разработчиков AI-систем и DevOps-специалистов.",
+    "language": "TypeScript",
+    "stars": 29814,
+    "category": "Web Development",
+    "tags": [
+      "typescript",
+      "ai",
+      "animation",
+      "ffmpeg",
+      "framework",
+      "gsap"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/146",
+    "featured_at": "2026-06-22"
   }
 ]

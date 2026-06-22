@@ -422,5 +422,21 @@
     "stars": 112786,
     "language": "TypeScript",
     "featured_at": "2026-06-22"
+  },
+  {
+    "full_name": "heygen-com/hyperframes",
+    "name": "hyperframes",
+    "category": "Web Development",
+    "tags": [
+      "typescript",
+      "ai",
+      "animation",
+      "ffmpeg",
+      "framework",
+      "gsap"
+    ],
+    "stars": 29814,
+    "language": "TypeScript",
+    "featured_at": "2026-06-22"
   }
 ]

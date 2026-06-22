@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**3 репозиториев**
+**4 репозиториев**
+
+### [hyperframes](https://github.com/heygen-com/hyperframes)
+
+🎯 Heygen-com/hyperframes — фреймворк на TypeScript для создания автономных AI-агентов. Создан для тех, кто хочет автоматизировать процессы в видеообработке и управлении инфраструктурой. Поддерживает работу с FFMPEG и GSAP, что позволяет эффективно рендерить видео и управлять анимацией. Данный проект отличается интеграцией популярных библиотек для максимальной производительности и масштабируемости приложений, делая его идеальным выбором для разработчиков AI-систем и DevOps-специалистов.
+
+⭐ 29,814
+💻 TypeScript
+🏷 `typescript` `ai` `animation` `ffmpeg` `framework` `gsap`
+📅 2026-06-22
+🔗 [GitHub](https://github.com/heygen-com/hyperframes)
+📢 [Telegram Post](https://t.me/github_trendovoe/146)
 
 ### [biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
 

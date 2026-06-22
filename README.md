@@ -6,13 +6,13 @@
 
 ---
 
-**28 репозиториев** в каталоге
+**29 репозиториев** в каталоге
 
 ## Категории
 
 - [AI](categories/ai.md) (7)
 - [AI Agents](categories/agents.md) (6)
-- [Web Development](categories/web-development.md) (3)
+- [Web Development](categories/web-development.md) (4)
 - [Cybersecurity](categories/cybersecurity.md) (2)
 - [DevTools](categories/devtools.md) (2)
 - [Education](categories/education.md) (2)
@@ -191,6 +191,17 @@ Pake — это фреймворк, который автоматически п
 📢 [Telegram Post](https://t.me/github_trendovoe/123)
 
 ## Web Development
+
+### [hyperframes](https://github.com/heygen-com/hyperframes)
+
+🎯 Heygen-com/hyperframes — фреймворк на TypeScript для создания автономных AI-агентов. Создан для тех, кто хочет автоматизировать процессы в видеообработке и управлении инфраструктурой. Поддерживает работу с FFMPEG и GSAP, что позволяет эффективно рендерить видео и управлять анимацией. Данный проект отличается интеграцией популярных библиотек для максимальной производительности и масштабируемости приложений, делая его идеальным выбором для разработчиков AI-систем и DevOps-специалистов.
+
+⭐ 29,814
+💻 TypeScript
+🏷 `typescript` `ai` `animation` `ffmpeg` `framework` `gsap`
+📅 2026-06-22
+🔗 [GitHub](https://github.com/heygen-com/hyperframes)
+📢 [Telegram Post](https://t.me/github_trendovoe/146)
 
 ### [biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
 
