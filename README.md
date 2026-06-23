@@ -6,7 +6,7 @@
 
 ---
 
-**32 репозиториев** в каталоге
+**33 репозиториев** в каталоге
 
 ## Категории
 
@@ -16,10 +16,10 @@
 - [Cybersecurity](categories/cybersecurity.md) (2)
 - [DevTools](categories/devtools.md) (2)
 - [Education](categories/education.md) (2)
+- [MCP](categories/mcp.md) (2)
 - [Automation](categories/automation.md) (1)
 - [Data Science](categories/data-science.md) (1)
 - [DevOps](categories/devops.md) (1)
-- [MCP](categories/mcp.md) (1)
 - [Mobile](categories/mobile.md) (1)
 - [Other](categories/other.md) (1)
 - [Self-Hosted](categories/self-hosted.md) (1)
@@ -347,6 +347,30 @@ Penpot: The open-source design tool for design and code collaboration
 🔗 [GitHub](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 📢 [Telegram Post](https://t.me/github_trendovoe/124)
 
+## MCP
+
+### [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+
+🛠 🚀 Официальный каталог высококачественных плагинов Claude Code — это пространство для разработчиков, которые хотят ускорить процесс создания и применения AI-решений. Команда Anthropic мониторит и проверяет тысячи плагинов, чтобы обеспечить их безопасность и качество. Этот каталог позволяет пользователям легко найти необходимые инструменты и интегрировать их в свои проекты. 💡 🛠️
+
+⭐ 30,702
+💻 Python
+🏷 `python` `claude-code` `mcp` `skills`
+📅 2026-06-23
+🔗 [GitHub](https://github.com/anthropics/claude-plugins-official)
+📢 [Telegram Post](https://t.me/github_trendovoe/150)
+
+### [palmier-pro](https://github.com/palmier-io/palmier-pro)
+
+👉 Видеоредактор macOS, созданный для искусственного интеллекта.
+
+⭐ 1,434
+💻 Swift
+🏷 `swift` `ai-video` `claude` `macos` `mcp` `seedance2`
+📅 2026-06-19
+🔗 [GitHub](https://github.com/palmier-io/palmier-pro)
+📢 [Telegram Post](https://t.me/github_trendovoe/122)
+
 ## Automation
 
 ### [firecrawl](https://github.com/firecrawl/firecrawl)
@@ -385,19 +409,6 @@ Penpot: The open-source design tool for design and code collaboration
 📅 2026-06-22
 🔗 [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
 📢 [Telegram Post](https://t.me/github_trendovoe/144)
-
-## MCP
-
-### [palmier-pro](https://github.com/palmier-io/palmier-pro)
-
-👉 Видеоредактор macOS, созданный для искусственного интеллекта.
-
-⭐ 1,434
-💻 Swift
-🏷 `swift` `ai-video` `claude` `macos` `mcp` `seedance2`
-📅 2026-06-19
-🔗 [GitHub](https://github.com/palmier-io/palmier-pro)
-📢 [Telegram Post](https://t.me/github_trendovoe/122)
 
 ## Mobile
 

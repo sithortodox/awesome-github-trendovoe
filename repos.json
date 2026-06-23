@@ -582,5 +582,22 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/149",
     "featured_at": "2026-06-23"
+  },
+  {
+    "name": "claude-plugins-official",
+    "full_name": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "description": "🛠 🚀 Официальный каталог высококачественных плагинов Claude Code — это пространство для разработчиков, которые хотят ускорить процесс создания и применения AI-решений. Команда Anthropic мониторит и проверяет тысячи плагинов, чтобы обеспечить их безопасность и качество. Этот каталог позволяет пользователям легко найти необходимые инструменты и интегрировать их в свои проекты. 💡 🛠️",
+    "language": "Python",
+    "stars": 30702,
+    "category": "MCP",
+    "tags": [
+      "python",
+      "claude-code",
+      "mcp",
+      "skills"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/150",
+    "featured_at": "2026-06-23"
   }
 ]

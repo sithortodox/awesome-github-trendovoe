@@ -486,5 +486,19 @@
     "stars": 21050,
     "language": "Jupyter Notebook",
     "featured_at": "2026-06-23"
+  },
+  {
+    "full_name": "anthropics/claude-plugins-official",
+    "name": "claude-plugins-official",
+    "category": "MCP",
+    "tags": [
+      "python",
+      "claude-code",
+      "mcp",
+      "skills"
+    ],
+    "stars": 30702,
+    "language": "Python",
+    "featured_at": "2026-06-23"
   }
 ]
