@@ -470,5 +470,21 @@
     "stars": 17665,
     "language": "TypeScript",
     "featured_at": "2026-06-22"
+  },
+  {
+    "full_name": "lyogavin/airllm",
+    "name": "airllm",
+    "category": "AI",
+    "tags": [
+      "jupyter notebook",
+      "chinese-llm",
+      "chinese-nlp",
+      "finetune",
+      "generative-ai",
+      "instruct-gpt"
+    ],
+    "stars": 21050,
+    "language": "Jupyter Notebook",
+    "featured_at": "2026-06-23"
   }
 ]

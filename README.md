@@ -6,11 +6,11 @@
 
 ---
 
-**31 репозиториев** в каталоге
+**32 репозиториев** в каталоге
 
 ## Категории
 
-- [AI](categories/ai.md) (7)
+- [AI](categories/ai.md) (8)
 - [AI Agents](categories/agents.md) (6)
 - [Web Development](categories/web-development.md) (5)
 - [Cybersecurity](categories/cybersecurity.md) (2)
@@ -25,6 +25,17 @@
 - [Self-Hosted](categories/self-hosted.md) (1)
 
 ## AI
+
+### [airllm](https://github.com/lyogavin/airllm)
+
+🛠️ AirLLM 70B — это мощный язык модели, выполненный на одном графическом процессоре емкостью 4 ГБ. Он поддерживает быструю интеграцию в любые проекты, где требуется глубокое понимание и анализ данных на уровне язык-модели. 🔥 Команда разработчиков предлагает уникальный инструмент для ускорения процесса обучения и гиперпараметров тюнинга с использованием предварительно обученной модели. Этот проект особенно полезен для тех, кто занимается машинным обучением, нейронными сетями, и AI-инженерами. 🔑 Актуальное отличие от конкурентов заключается в том, что AirLLM 70B предоставляет доступ к мощной инфраструктуре модели без необходимости разворачивания собственных серверов, что снижает операционные затраты и ускоряет процесс экспериментирования.
+
+⭐ 21,050
+💻 Jupyter Notebook
+🏷 `jupyter notebook` `chinese-llm` `chinese-nlp` `finetune` `generative-ai` `instruct-gpt`
+📅 2026-06-23
+🔗 [GitHub](https://github.com/lyogavin/airllm)
+📢 [Telegram Post](https://t.me/github_trendovoe/149)
 
 ### [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
