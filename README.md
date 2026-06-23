@@ -6,11 +6,11 @@
 
 ---
 
-**35 репозиториев** в каталоге
+**36 репозиториев** в каталоге
 
 ## Категории
 
-- [AI](categories/ai.md) (9)
+- [AI](categories/ai.md) (10)
 - [AI Agents](categories/agents.md) (7)
 - [Web Development](categories/web-development.md) (5)
 - [Cybersecurity](categories/cybersecurity.md) (2)
@@ -25,6 +25,24 @@
 - [Self-Hosted](categories/self-hosted.md) (1)
 
 ## AI
+
+### [hermes-agent](https://github.com/NousResearch/hermes-agent)
+
+🔄 Новый инструмент для автоматизации разработки ПО
+
+
+Команда разработчиков с нетерпением поделилась: Hermes-Agent поддерживает более 30 форматов таблиц в MySQL, PostgreSQL и SQLite, а также работает с Docker для автоматической интеграции в вашу среду разработки. Это решение не только ускоряет процесс внедрения новых фич, но и снижает риски при работе с различными базами данных.
+
+Подходит для разработчиков, команды, DevOps-менеджеров и data-инженеров. Адаптивность Hermes-Agent к большим объемам данных делает его идеальным выбором для крупных проектов. Этот инструмент позволяет не только автоматизировать процесс миграции и обновления кода, но и управлять различными базами данных без переписки на SQL.
+
+Такой подход значительно снижает нагрузку на команду и увеличивает время жизни проекта. Не теряйте время: переходите к использованию Hermes-Agent
+
+⭐ 200,815
+💻 Python
+🏷 `python` `ai` `ai-agent` `ai-agents` `anthropic` `chatgpt`
+📅 2026-06-23
+🔗 [GitHub](https://github.com/NousResearch/hermes-agent)
+📢 [Telegram Post](https://t.me/github_trendovoe/153)
 
 ### [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
 

@@ -531,5 +531,21 @@
     "stars": 7381,
     "language": "HTML",
     "featured_at": "2026-06-23"
+  },
+  {
+    "full_name": "NousResearch/hermes-agent",
+    "name": "hermes-agent",
+    "category": "AI",
+    "tags": [
+      "python",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt"
+    ],
+    "stars": 200815,
+    "language": "Python",
+    "featured_at": "2026-06-23"
   }
 ]
