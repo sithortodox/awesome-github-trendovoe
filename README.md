@@ -6,17 +6,17 @@
 
 ---
 
-**36 репозиториев** в каталоге
+**37 репозиториев** в каталоге
 
 ## Категории
 
 - [AI](categories/ai.md) (10)
 - [AI Agents](categories/agents.md) (7)
 - [Web Development](categories/web-development.md) (5)
+- [MCP](categories/mcp.md) (3)
 - [Cybersecurity](categories/cybersecurity.md) (2)
 - [DevTools](categories/devtools.md) (2)
 - [Education](categories/education.md) (2)
-- [MCP](categories/mcp.md) (2)
 - [Automation](categories/automation.md) (1)
 - [Data Science](categories/data-science.md) (1)
 - [DevOps](categories/devops.md) (1)
@@ -305,6 +305,46 @@ b站会员购购票辅助工具
 🔗 [GitHub](https://github.com/chopratejas/headroom)
 📢 [Telegram Post](https://t.me/github_trendovoe/126)
 
+## MCP
+
+### [ECC](https://github.com/affaan-m/ECC)
+
+🤖 Проект ECC (Eaffaan Cloud Chat) представляет AI-агентов-фреймворк, который позволяет создавать автономные системы с использованием инструментов Anthropic Claude, Claude-Code, Codex и других. 🚀
+
+
+ECC обладает мощными возможностями для обучения AI, обеспечивая высокую точность в прогнозировании и предсказаниях. Этот проект идеален для тех, кто хочет создавать системы, которые сами могут планировать задачи и взаимодействовать с различными API-интерфейсами. 🤖💡
+
+Используя ECC, вы сможете быстро масштабировать свои решения в любую область — от управления инфраструктурой до анализа данных и машинного обучения. Это ключевая фича ECC, которая делает его отличным выбором для тех, кто стремится создавать автономные системы с использованием современных AI-технологий.
+
+⭐ 220,505
+💻 JavaScript
+🏷 `javascript` `ai-agents` `anthropic` `claude` `claude-code` `developer-tools`
+📅 2026-06-23
+🔗 [GitHub](https://github.com/affaan-m/ECC)
+📢 [Telegram Post](https://t.me/github_trendovoe/154)
+
+### [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+
+🛠 🚀 Официальный каталог высококачественных плагинов Claude Code — это пространство для разработчиков, которые хотят ускорить процесс создания и применения AI-решений. Команда Anthropic мониторит и проверяет тысячи плагинов, чтобы обеспечить их безопасность и качество. Этот каталог позволяет пользователям легко найти необходимые инструменты и интегрировать их в свои проекты. 💡 🛠️
+
+⭐ 30,702
+💻 Python
+🏷 `python` `claude-code` `mcp` `skills`
+📅 2026-06-23
+🔗 [GitHub](https://github.com/anthropics/claude-plugins-official)
+📢 [Telegram Post](https://t.me/github_trendovoe/150)
+
+### [palmier-pro](https://github.com/palmier-io/palmier-pro)
+
+👉 Видеоредактор macOS, созданный для искусственного интеллекта.
+
+⭐ 1,434
+💻 Swift
+🏷 `swift` `ai-video` `claude` `macos` `mcp` `seedance2`
+📅 2026-06-19
+🔗 [GitHub](https://github.com/palmier-io/palmier-pro)
+📢 [Telegram Post](https://t.me/github_trendovoe/122)
+
 ## Cybersecurity
 
 ### [spiderfoot](https://github.com/smicallef/spiderfoot)
@@ -392,30 +432,6 @@ Penpot: The open-source design tool for design and code collaboration
 📅 2026-06-19
 🔗 [GitHub](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 📢 [Telegram Post](https://t.me/github_trendovoe/124)
-
-## MCP
-
-### [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-
-🛠 🚀 Официальный каталог высококачественных плагинов Claude Code — это пространство для разработчиков, которые хотят ускорить процесс создания и применения AI-решений. Команда Anthropic мониторит и проверяет тысячи плагинов, чтобы обеспечить их безопасность и качество. Этот каталог позволяет пользователям легко найти необходимые инструменты и интегрировать их в свои проекты. 💡 🛠️
-
-⭐ 30,702
-💻 Python
-🏷 `python` `claude-code` `mcp` `skills`
-📅 2026-06-23
-🔗 [GitHub](https://github.com/anthropics/claude-plugins-official)
-📢 [Telegram Post](https://t.me/github_trendovoe/150)
-
-### [palmier-pro](https://github.com/palmier-io/palmier-pro)
-
-👉 Видеоредактор macOS, созданный для искусственного интеллекта.
-
-⭐ 1,434
-💻 Swift
-🏷 `swift` `ai-video` `claude` `macos` `mcp` `seedance2`
-📅 2026-06-19
-🔗 [GitHub](https://github.com/palmier-io/palmier-pro)
-📢 [Telegram Post](https://t.me/github_trendovoe/122)
 
 ## Automation
 

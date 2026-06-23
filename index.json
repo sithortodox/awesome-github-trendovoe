@@ -547,5 +547,21 @@
     "stars": 200815,
     "language": "Python",
     "featured_at": "2026-06-23"
+  },
+  {
+    "full_name": "affaan-m/ECC",
+    "name": "ECC",
+    "category": "MCP",
+    "tags": [
+      "javascript",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools"
+    ],
+    "stars": 220505,
+    "language": "JavaScript",
+    "featured_at": "2026-06-23"
   }
 ]
