@@ -500,5 +500,21 @@
     "stars": 30702,
     "language": "Python",
     "featured_at": "2026-06-23"
+  },
+  {
+    "full_name": "shanraisshan/claude-code-best-practice",
+    "name": "claude-code-best-practice",
+    "category": "AI",
+    "tags": [
+      "html",
+      "agentic-ai",
+      "agentic-coding",
+      "agentic-engineering",
+      "agentic-workflow",
+      "ai"
+    ],
+    "stars": 59189,
+    "language": "HTML",
+    "featured_at": "2026-06-23"
   }
 ]
