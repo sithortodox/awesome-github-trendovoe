@@ -6,12 +6,12 @@
 
 ---
 
-**34 репозиториев** в каталоге
+**35 репозиториев** в каталоге
 
 ## Категории
 
 - [AI](categories/ai.md) (9)
-- [AI Agents](categories/agents.md) (6)
+- [AI Agents](categories/agents.md) (7)
 - [Web Development](categories/web-development.md) (5)
 - [Cybersecurity](categories/cybersecurity.md) (2)
 - [DevTools](categories/devtools.md) (2)
@@ -152,6 +152,17 @@ Pake — это фреймворк, который автоматически п
 📢 [Telegram Post](https://t.me/github_trendovoe/121)
 
 ## AI Agents
+
+### [harness](https://github.com/revfactory/harness)
+
+🛠️ revfactory/harness - фреймворк для автоматизации процессов разработки и управления инфраструктурой. Позволяет создавать и настраивать агенты, которые работают над множеством задач — от конфигурации серверов до тестирующих запросов к базам данных. 🚀
+
+⭐ 7,381
+💻 HTML
+🏷 `html` `claude-code` `claude-code-plugin` `harness` `harness-engineering`
+📅 2026-06-23
+🔗 [GitHub](https://github.com/revfactory/harness)
+📢 [Telegram Post](https://t.me/github_trendovoe/152)
 
 ### [deer-flow](https://github.com/bytedance/deer-flow)
 

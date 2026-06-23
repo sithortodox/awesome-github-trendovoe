@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**6 репозиториев**
+**7 репозиториев**
+
+### [harness](https://github.com/revfactory/harness)
+
+🛠️ revfactory/harness - фреймворк для автоматизации процессов разработки и управления инфраструктурой. Позволяет создавать и настраивать агенты, которые работают над множеством задач — от конфигурации серверов до тестирующих запросов к базам данных. 🚀
+
+⭐ 7,381
+💻 HTML
+🏷 `html` `claude-code` `claude-code-plugin` `harness` `harness-engineering`
+📅 2026-06-23
+🔗 [GitHub](https://github.com/revfactory/harness)
+📢 [Telegram Post](https://t.me/github_trendovoe/152)
 
 ### [deer-flow](https://github.com/bytedance/deer-flow)
 

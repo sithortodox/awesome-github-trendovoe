@@ -516,5 +516,20 @@
     "stars": 59189,
     "language": "HTML",
     "featured_at": "2026-06-23"
+  },
+  {
+    "full_name": "revfactory/harness",
+    "name": "harness",
+    "category": "AI Agents",
+    "tags": [
+      "html",
+      "claude-code",
+      "claude-code-plugin",
+      "harness",
+      "harness-engineering"
+    ],
+    "stars": 7381,
+    "language": "HTML",
+    "featured_at": "2026-06-23"
   }
 ]

@@ -618,5 +618,23 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/151",
     "featured_at": "2026-06-23"
+  },
+  {
+    "name": "harness",
+    "full_name": "revfactory/harness",
+    "url": "https://github.com/revfactory/harness",
+    "description": "🛠️ revfactory/harness - фреймворк для автоматизации процессов разработки и управления инфраструктурой. Позволяет создавать и настраивать агенты, которые работают над множеством задач — от конфигурации серверов до тестирующих запросов к базам данных. 🚀",
+    "language": "HTML",
+    "stars": 7381,
+    "category": "AI Agents",
+    "tags": [
+      "html",
+      "claude-code",
+      "claude-code-plugin",
+      "harness",
+      "harness-engineering"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/152",
+    "featured_at": "2026-06-23"
   }
 ]
