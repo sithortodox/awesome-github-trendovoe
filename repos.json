@@ -737,5 +737,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/158",
     "featured_at": "2026-06-24"
+  },
+  {
+    "name": "orca",
+    "full_name": "stablyai/orca",
+    "url": "https://github.com/stablyai/orca",
+    "description": "🎯 Orca — инструмент ADE для управления множеством параллельных AI-агентов. Отправляйте команды агентов одновременно, контролируя их действия и результаты. Идеально подходит для разработчиков, ведущих масштабные системы с автономными интеллектуальными компонентами. Команды могут легко управлять несколькими агентами, что позволяет эффективно расширять автоматизацию и снижать нагрузку на людей. 🛠️",
+    "language": "TypeScript",
+    "stars": 6705,
+    "category": "DevTools",
+    "tags": [
+      "typescript",
+      "ade",
+      "agent-ide",
+      "ai-agents",
+      "claude-code",
+      "cli"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/159",
+    "featured_at": "2026-06-24"
   }
 ]

@@ -614,5 +614,21 @@
     "stars": 1390,
     "language": "Kotlin",
     "featured_at": "2026-06-24"
+  },
+  {
+    "full_name": "stablyai/orca",
+    "name": "orca",
+    "category": "DevTools",
+    "tags": [
+      "typescript",
+      "ade",
+      "agent-ide",
+      "ai-agents",
+      "claude-code",
+      "cli"
+    ],
+    "stars": 6705,
+    "language": "TypeScript",
+    "featured_at": "2026-06-24"
   }
 ]

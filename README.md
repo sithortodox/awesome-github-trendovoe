@@ -6,7 +6,7 @@
 
 ---
 
-**41 репозиториев** в каталоге
+**42 репозиториев** в каталоге
 
 ## Категории
 
@@ -14,9 +14,9 @@
 - [AI Agents](categories/agents.md) (8)
 - [Web Development](categories/web-development.md) (5)
 - [Mobile](categories/mobile.md) (4)
+- [DevTools](categories/devtools.md) (3)
 - [MCP](categories/mcp.md) (3)
 - [Cybersecurity](categories/cybersecurity.md) (2)
-- [DevTools](categories/devtools.md) (2)
 - [Education](categories/education.md) (2)
 - [Automation](categories/automation.md) (1)
 - [Data Science](categories/data-science.md) (1)
@@ -374,6 +374,41 @@ b站会员购购票辅助工具
 🔗 [GitHub](https://github.com/pppscn/SmsForwarder)
 📢 [Telegram Post](https://t.me/github_trendovoe/134)
 
+## DevTools
+
+### [orca](https://github.com/stablyai/orca)
+
+🎯 Orca — инструмент ADE для управления множеством параллельных AI-агентов. Отправляйте команды агентов одновременно, контролируя их действия и результаты. Идеально подходит для разработчиков, ведущих масштабные системы с автономными интеллектуальными компонентами. Команды могут легко управлять несколькими агентами, что позволяет эффективно расширять автоматизацию и снижать нагрузку на людей. 🛠️
+
+⭐ 6,705
+💻 TypeScript
+🏷 `typescript` `ade` `agent-ide` `ai-agents` `claude-code` `cli`
+📅 2026-06-24
+🔗 [GitHub](https://github.com/stablyai/orca)
+📢 [Telegram Post](https://t.me/github_trendovoe/159)
+
+### [gstack](https://github.com/garrytan/gstack)
+
+🎯 23 самоуверенных инструмента на основе Claude Code от Гарри Тана. Эти уникальные инструменты автоматически выполняют функции генерального директора, дизайнера, инженер-менеджера, менеджера по выпуску и контроля качества. Позволяет структурировать проекты без участия человека, обеспечивая надежность и масштабируемость. Команда, разработчики и Data-инженеры получат автоматизацию задач, обычно требующих много времени и усилий. 🚀
+
+⭐ 112,786
+💻 TypeScript
+🏷 `typescript`
+📅 2026-06-22
+🔗 [GitHub](https://github.com/garrytan/gstack)
+📢 [Telegram Post](https://t.me/github_trendovoe/145)
+
+### [penpot](https://github.com/penpot/penpot)
+
+Penpot: The open-source design tool for design and code collaboration
+
+⭐ 50,467
+💻 Clojure
+🏷 `clojure` `clojurescript` `design` `prototyping` `ui`
+📅 2026-06-19
+🔗 [GitHub](https://github.com/penpot/penpot)
+📢 [Telegram Post](https://t.me/github_trendovoe/128)
+
 ## MCP
 
 ### [ECC](https://github.com/affaan-m/ECC)
@@ -449,30 +484,6 @@ ECC обладает мощными возможностями для обуче
 📅 2026-06-21
 🔗 [GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
 📢 [Telegram Post](https://t.me/github_trendovoe/138)
-
-## DevTools
-
-### [gstack](https://github.com/garrytan/gstack)
-
-🎯 23 самоуверенных инструмента на основе Claude Code от Гарри Тана. Эти уникальные инструменты автоматически выполняют функции генерального директора, дизайнера, инженер-менеджера, менеджера по выпуску и контроля качества. Позволяет структурировать проекты без участия человека, обеспечивая надежность и масштабируемость. Команда, разработчики и Data-инженеры получат автоматизацию задач, обычно требующих много времени и усилий. 🚀
-
-⭐ 112,786
-💻 TypeScript
-🏷 `typescript`
-📅 2026-06-22
-🔗 [GitHub](https://github.com/garrytan/gstack)
-📢 [Telegram Post](https://t.me/github_trendovoe/145)
-
-### [penpot](https://github.com/penpot/penpot)
-
-Penpot: The open-source design tool for design and code collaboration
-
-⭐ 50,467
-💻 Clojure
-🏷 `clojure` `clojurescript` `design` `prototyping` `ui`
-📅 2026-06-19
-🔗 [GitHub](https://github.com/penpot/penpot)
-📢 [Telegram Post](https://t.me/github_trendovoe/128)
 
 ## Education
 
