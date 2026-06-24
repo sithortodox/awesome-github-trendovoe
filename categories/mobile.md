@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**3 репозиториев**
+**4 репозиториев**
+
+### [headunit-revived](https://github.com/andreknieriem/headunit-revived)
+
+📲 Приложение Headunit-ревизия: управление Android Auto без проблем с инфраструктурой. Поддерживает 50+ популярных моделей. Синхронизация автономного режима, безопасность, отображение голосовых команд — все это в одном приложении. Удобное и надежное решение для тех, кто работает с множеством устройств Android Auto. Самый полный и удобный вариант для управления несколькими автомобилями одной системой.
+
+⭐ 1,390
+💻 Kotlin
+🏷 `kotlin` `android` `androidauto` `headunit`
+📅 2026-06-24
+🔗 [GitHub](https://github.com/andreknieriem/headunit-revived)
+📢 [Telegram Post](https://t.me/github_trendovoe/158)
 
 ### [flutter](https://github.com/flutter/flutter)
 

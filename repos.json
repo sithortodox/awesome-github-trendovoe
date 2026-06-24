@@ -720,5 +720,22 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/157",
     "featured_at": "2026-06-24"
+  },
+  {
+    "name": "headunit-revived",
+    "full_name": "andreknieriem/headunit-revived",
+    "url": "https://github.com/andreknieriem/headunit-revived",
+    "description": "📲 Приложение Headunit-ревизия: управление Android Auto без проблем с инфраструктурой. Поддерживает 50+ популярных моделей. Синхронизация автономного режима, безопасность, отображение голосовых команд — все это в одном приложении. Удобное и надежное решение для тех, кто работает с множеством устройств Android Auto. Самый полный и удобный вариант для управления несколькими автомобилями одной системой.",
+    "language": "Kotlin",
+    "stars": 1390,
+    "category": "Mobile",
+    "tags": [
+      "kotlin",
+      "android",
+      "androidauto",
+      "headunit"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/158",
+    "featured_at": "2026-06-24"
   }
 ]

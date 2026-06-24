@@ -600,5 +600,19 @@
     "stars": 177204,
     "language": "Dart",
     "featured_at": "2026-06-24"
+  },
+  {
+    "full_name": "andreknieriem/headunit-revived",
+    "name": "headunit-revived",
+    "category": "Mobile",
+    "tags": [
+      "kotlin",
+      "android",
+      "androidauto",
+      "headunit"
+    ],
+    "stars": 1390,
+    "language": "Kotlin",
+    "featured_at": "2026-06-24"
   }
 ]
