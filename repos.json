@@ -702,5 +702,23 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/156",
     "featured_at": "2026-06-24"
+  },
+  {
+    "name": "flutter",
+    "full_name": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "🔄 Flutter/flutter — фреймворк для создания красивых приложений разной сложности. Позволяет быстрый прототипинг UI и синтезирует код под различные платформы в одном репозитории. Благодаря инструментам автоматической замены кода, вы можете обновлять одно приложение для нескольких устройств — без необходимости писать код заново. Команда поддерживает полный набор операционных систем: Android, iOS, Web и даже настольные платформы.",
+    "language": "Dart",
+    "stars": 177204,
+    "category": "Mobile",
+    "tags": [
+      "dart",
+      "android",
+      "app-framework",
+      "cross-platform",
+      "dart-platform"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/157",
+    "featured_at": "2026-06-24"
   }
 ]

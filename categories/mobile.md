@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**2 репозиториев**
+**3 репозиториев**
+
+### [flutter](https://github.com/flutter/flutter)
+
+🔄 Flutter/flutter — фреймворк для создания красивых приложений разной сложности. Позволяет быстрый прототипинг UI и синтезирует код под различные платформы в одном репозитории. Благодаря инструментам автоматической замены кода, вы можете обновлять одно приложение для нескольких устройств — без необходимости писать код заново. Команда поддерживает полный набор операционных систем: Android, iOS, Web и даже настольные платформы.
+
+⭐ 177,204
+💻 Dart
+🏷 `dart` `android` `app-framework` `cross-platform` `dart-platform`
+📅 2026-06-24
+🔗 [GitHub](https://github.com/flutter/flutter)
+📢 [Telegram Post](https://t.me/github_trendovoe/157)
 
 ### [container](https://github.com/apple/container)
 

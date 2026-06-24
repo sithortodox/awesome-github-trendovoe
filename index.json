@@ -585,5 +585,20 @@
     "stars": 1911,
     "language": "Python",
     "featured_at": "2026-06-24"
+  },
+  {
+    "full_name": "flutter/flutter",
+    "name": "flutter",
+    "category": "Mobile",
+    "tags": [
+      "dart",
+      "android",
+      "app-framework",
+      "cross-platform",
+      "dart-platform"
+    ],
+    "stars": 177204,
+    "language": "Dart",
+    "featured_at": "2026-06-24"
   }
 ]
