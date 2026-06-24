@@ -574,5 +574,16 @@
     "stars": 41417,
     "language": "Swift",
     "featured_at": "2026-06-24"
+  },
+  {
+    "full_name": "interviewstreet/hiring-agent",
+    "name": "hiring-agent",
+    "category": "AI Agents",
+    "tags": [
+      "python"
+    ],
+    "stars": 1911,
+    "language": "Python",
+    "featured_at": "2026-06-24"
   }
 ]
