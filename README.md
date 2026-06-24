@@ -6,7 +6,7 @@
 
 ---
 
-**37 репозиториев** в каталоге
+**38 репозиториев** в каталоге
 
 ## Категории
 
@@ -17,10 +17,10 @@
 - [Cybersecurity](categories/cybersecurity.md) (2)
 - [DevTools](categories/devtools.md) (2)
 - [Education](categories/education.md) (2)
+- [Mobile](categories/mobile.md) (2)
 - [Automation](categories/automation.md) (1)
 - [Data Science](categories/data-science.md) (1)
 - [DevOps](categories/devops.md) (1)
-- [Mobile](categories/mobile.md) (1)
 - [Other](categories/other.md) (1)
 - [Self-Hosted](categories/self-hosted.md) (1)
 
@@ -433,6 +433,36 @@ Penpot: The open-source design tool for design and code collaboration
 🔗 [GitHub](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 📢 [Telegram Post](https://t.me/github_trendovoe/124)
 
+## Mobile
+
+### [container](https://github.com/apple/container)
+
+🔥 Инструмент для создания и запуска контейнеров Linux на Mac. Позволяет без проблем использовать Docker на Apple Silicon — даже при отсутствии полноценной поддержки в системе.
+
+🤖 Подходит для разработчиков, которые хотят продолжать использовать контейнеры Docker на своих новых Mac с процессорами Apple Silicon. Устраняет трудности и ограничения, связанные с неполной совместимостью Apple и Docker.
+
+👨‍💻 Скорее всего полезен для команд технической поддержки, DevOps-менеджеров или системных администраторов, работающих на Mac. Они теперь могут сохранять свою инфраструктуру в Docker контейнерах без необходимости писать специальные скрипты.
+
+🔑 Основное отличие от конкурентов — интеграция с Apple Silicon и поддержка работы Docker без необходимости активировать его через лицензионные ключи. Это делает процесс более гибким и доступным для широкой аудитории разработчиков на Mac.
+
+⭐ 41,417
+💻 Swift
+🏷 `swift`
+📅 2026-06-24
+🔗 [GitHub](https://github.com/apple/container)
+📢 [Telegram Post](https://t.me/github_trendovoe/155)
+
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+
+🚀 Пpрoект pppscn/SmsForwarder — это приложение на Android, которое позволяет создавать автоматизированные сервисы для контроля устройств и отправки сообщений через различные платформы. С помощью этой инструментальной агентской системы вы можете контролировать такие функции как включение/выключение питания, получение информации о состоянии аккумулятора, проверка доступности сети и многое другое. 🌐 Проект поддерживает более 30 различных API, что делает его универсальным инструментом для управления устройствами на разных платформах: от Android до Telegram и даже до Email. 💡 Заметный факт: SmsForwarder отличается своей способностью запускать скрипты внутри самих устройств Android благодаря технологии ADB, что делает его уникальным среди других подобных решений.
+
+⭐ 26,491
+💻 Kotlin
+🏷 `kotlin` `android` `api` `app` `bark` `call`
+📅 2026-06-21
+🔗 [GitHub](https://github.com/pppscn/SmsForwarder)
+📢 [Telegram Post](https://t.me/github_trendovoe/134)
+
 ## Automation
 
 ### [firecrawl](https://github.com/firecrawl/firecrawl)
@@ -471,19 +501,6 @@ Penpot: The open-source design tool for design and code collaboration
 📅 2026-06-22
 🔗 [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
 📢 [Telegram Post](https://t.me/github_trendovoe/144)
-
-## Mobile
-
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
-
-🚀 Пpрoект pppscn/SmsForwarder — это приложение на Android, которое позволяет создавать автоматизированные сервисы для контроля устройств и отправки сообщений через различные платформы. С помощью этой инструментальной агентской системы вы можете контролировать такие функции как включение/выключение питания, получение информации о состоянии аккумулятора, проверка доступности сети и многое другое. 🌐 Проект поддерживает более 30 различных API, что делает его универсальным инструментом для управления устройствами на разных платформах: от Android до Telegram и даже до Email. 💡 Заметный факт: SmsForwarder отличается своей способностью запускать скрипты внутри самих устройств Android благодаря технологии ADB, что делает его уникальным среди других подобных решений.
-
-⭐ 26,491
-💻 Kotlin
-🏷 `kotlin` `android` `api` `app` `bark` `call`
-📅 2026-06-21
-🔗 [GitHub](https://github.com/pppscn/SmsForwarder)
-📢 [Telegram Post](https://t.me/github_trendovoe/134)
 
 ## Other
 

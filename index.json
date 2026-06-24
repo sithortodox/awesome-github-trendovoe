@@ -563,5 +563,16 @@
     "stars": 220505,
     "language": "JavaScript",
     "featured_at": "2026-06-23"
+  },
+  {
+    "full_name": "apple/container",
+    "name": "container",
+    "category": "Mobile",
+    "tags": [
+      "swift"
+    ],
+    "stars": 41417,
+    "language": "Swift",
+    "featured_at": "2026-06-24"
   }
 ]
