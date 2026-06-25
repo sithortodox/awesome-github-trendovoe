@@ -630,5 +630,16 @@
     "stars": 6705,
     "language": "TypeScript",
     "featured_at": "2026-06-24"
+  },
+  {
+    "full_name": "google-labs-code/design.md",
+    "name": "design.md",
+    "category": "AI Agents",
+    "tags": [
+      "typescript"
+    ],
+    "stars": 17306,
+    "language": "TypeScript",
+    "featured_at": "2026-06-25"
   }
 ]

@@ -6,12 +6,12 @@
 
 ---
 
-**42 репозиториев** в каталоге
+**43 репозиториев** в каталоге
 
 ## Категории
 
 - [AI](categories/ai.md) (10)
-- [AI Agents](categories/agents.md) (8)
+- [AI Agents](categories/agents.md) (9)
 - [Web Development](categories/web-development.md) (5)
 - [Mobile](categories/mobile.md) (4)
 - [DevTools](categories/devtools.md) (3)
@@ -170,6 +170,21 @@ Pake — это фреймворк, который автоматически п
 📢 [Telegram Post](https://t.me/github_trendovoe/121)
 
 ## AI Agents
+
+### [design.md](https://github.com/google-labs-code/design.md)
+
+🎯 Спецификация формата для описания визуальной идентичности агентам кодирования. DESIGN.md предоставляет явно структурированную информацию об интеграции дизайнерских элементов в процесс разработки, что помогает команде избегать путаницы и обеспечивает единство на всех этапах проекта. 
+
+✅ Комнатам важно для синхронизации усилий между дизайнерами и программистами, а также при разработке многопользовательских продуктов, где важно сохранить одинаковую стилистику.
+
+💡 Отличие DESIGN.md заключается в его гибкости. Разработчики могут адаптировать этот формат к своим потребностям и внедрять его в любые язык программирования или инструменты, что делает его универсальным и неограниченным в использовании.
+
+⭐ 17,306
+💻 TypeScript
+🏷 `typescript`
+📅 2026-06-25
+🔗 [GitHub](https://github.com/google-labs-code/design.md)
+📢 [Telegram Post](https://t.me/github_trendovoe/160)
 
 ### [hiring-agent](https://github.com/interviewstreet/hiring-agent)
 
