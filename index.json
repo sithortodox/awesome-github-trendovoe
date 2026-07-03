@@ -1516,5 +1516,21 @@
     "stars": 5217,
     "language": "Java",
     "featured_at": "2026-07-03"
+  },
+  {
+    "full_name": "safishamsi/graphify",
+    "name": "graphify",
+    "category": "Data Science",
+    "tags": [
+      "python",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "gemini",
+      "graphrag"
+    ],
+    "stars": 77023,
+    "language": "Python",
+    "featured_at": "2026-07-03"
   }
 ]

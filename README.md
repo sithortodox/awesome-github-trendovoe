@@ -6,7 +6,7 @@
 
 ---
 
-**104 репозиториев** в каталоге
+**105 репозиториев** в каталоге
 
 ## Категории
 
@@ -17,7 +17,7 @@
 - [Education](categories/education.md) (7)
 - [MCP](categories/mcp.md) (6)
 - [Cybersecurity](categories/cybersecurity.md) (5)
-- [Data Science](categories/data-science.md) (4)
+- [Data Science](categories/data-science.md) (5)
 - [DevOps](categories/devops.md) (4)
 - [Mobile](categories/mobile.md) (4)
 - [Self-Hosted](categories/self-hosted.md) (4)
@@ -794,6 +794,17 @@ Open-source AI penetration testing tool to find and fix your app’s vulnerabili
 📢 [Telegram Post](https://t.me/github_trendovoe/138)
 
 ## Data Science
+
+### [graphify](https://github.com/safishamsi/graphify)
+
+🤖 🚀 Project Graphify — это AI-фреймворк для автоматического трансформирования различных типов файлов (код, SQL, R-скрипты, изображения) в графический формат знаний. Он поддерживает 50+ форматов и позволяет быстро создавать интегрированные системы управления знаниями без необходимости копирования данных в отдельные базы или репозитории. Функция запроса к графу из любой точки системы делает его идеальным для аналитиков, поддержки кода и DevOps-специалистов. Ключевая фича — интеграция с различными платформами AI и автоматическое преобразование данных в граф, что упрощает работу с большими данными для людей без когнитивных загрузок.
+
+⭐ 77,023
+💻 Python
+🏷 `python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
+📅 2026-07-03
+🔗 [GitHub](https://github.com/safishamsi/graphify)
+📢 [Telegram Post](https://t.me/github_trendovoe/222)
 
 ### [olmocr](https://github.com/allenai/olmocr)
 
