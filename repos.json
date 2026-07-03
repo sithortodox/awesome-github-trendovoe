@@ -1776,5 +1776,20 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/218",
     "featured_at": "2026-07-03"
+  },
+  {
+    "name": "ansible",
+    "full_name": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "description": "🔍 Ansible — это инструмент для автоматизации настроек и управления IT-инфраструктурой в DevOps. Открывает API для удаленных систем, не требует установки агентов, поддерживает 50+ типов ресурсов и более 30 сценариев планирования. 🌐 Позволяет структурированно оправляться с большими масштабами настройки в развертывании приложений. Компактный, но мощный инструмент для тех, кто хочет автоматизировать все процессы, чтобы уделить больше времени развитию. https://docs.ansible.com.",
+    "language": "Python",
+    "stars": 69110,
+    "category": "DevOps",
+    "tags": [
+      "python",
+      "ansible"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/219",
+    "featured_at": "2026-07-03"
   }
 ]

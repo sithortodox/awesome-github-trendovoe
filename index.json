@@ -1473,5 +1473,17 @@
     "stars": 77231,
     "language": "Java",
     "featured_at": "2026-07-03"
+  },
+  {
+    "full_name": "ansible/ansible",
+    "name": "ansible",
+    "category": "DevOps",
+    "tags": [
+      "python",
+      "ansible"
+    ],
+    "stars": 69110,
+    "language": "Python",
+    "featured_at": "2026-07-03"
   }
 ]
