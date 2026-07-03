@@ -6,7 +6,7 @@
 
 ---
 
-**103 репозиториев** в каталоге
+**104 репозиториев** в каталоге
 
 ## Категории
 
@@ -16,7 +16,7 @@
 - [DevTools](categories/devtools.md) (9)
 - [Education](categories/education.md) (7)
 - [MCP](categories/mcp.md) (6)
-- [Cybersecurity](categories/cybersecurity.md) (4)
+- [Cybersecurity](categories/cybersecurity.md) (5)
 - [Data Science](categories/data-science.md) (4)
 - [DevOps](categories/devops.md) (4)
 - [Mobile](categories/mobile.md) (4)
@@ -725,6 +725,17 @@ ECC обладает мощными возможностями для обуче
 📢 [Telegram Post](https://t.me/github_trendovoe/122)
 
 ## Cybersecurity
+
+### [maven](https://github.com/apache/maven)
+
+Ядро Apache Maven
+
+⭐ 5,217
+💻 Java
+🏷 `java` `apache-maven` `build-management` `hacktoberfest` `maven`
+📅 2026-07-03
+🔗 [GitHub](https://github.com/apache/maven)
+📢 [Telegram Post](https://t.me/github_trendovoe/221)
 
 ### [strix](https://github.com/usestrix/strix)
 

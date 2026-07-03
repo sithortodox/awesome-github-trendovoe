@@ -1810,5 +1810,23 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/220",
     "featured_at": "2026-07-03"
+  },
+  {
+    "name": "maven",
+    "full_name": "apache/maven",
+    "url": "https://github.com/apache/maven",
+    "description": "Ядро Apache Maven",
+    "language": "Java",
+    "stars": 5217,
+    "category": "Cybersecurity",
+    "tags": [
+      "java",
+      "apache-maven",
+      "build-management",
+      "hacktoberfest",
+      "maven"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/221",
+    "featured_at": "2026-07-03"
   }
 ]

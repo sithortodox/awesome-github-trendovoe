@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**4 репозиториев**
+**5 репозиториев**
+
+### [maven](https://github.com/apache/maven)
+
+Ядро Apache Maven
+
+⭐ 5,217
+💻 Java
+🏷 `java` `apache-maven` `build-management` `hacktoberfest` `maven`
+📅 2026-07-03
+🔗 [GitHub](https://github.com/apache/maven)
+📢 [Telegram Post](https://t.me/github_trendovoe/221)
 
 ### [strix](https://github.com/usestrix/strix)
 

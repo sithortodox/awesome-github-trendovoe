@@ -1501,5 +1501,20 @@
     "stars": 9681,
     "language": "Python",
     "featured_at": "2026-07-03"
+  },
+  {
+    "full_name": "apache/maven",
+    "name": "maven",
+    "category": "Cybersecurity",
+    "tags": [
+      "java",
+      "apache-maven",
+      "build-management",
+      "hacktoberfest",
+      "maven"
+    ],
+    "stars": 5217,
+    "language": "Java",
+    "featured_at": "2026-07-03"
   }
 ]
