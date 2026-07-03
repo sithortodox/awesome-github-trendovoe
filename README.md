@@ -6,13 +6,13 @@
 
 ---
 
-**99 репозиториев** в каталоге
+**100 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (24)
 - [AI](categories/ai.md) (18)
-- [Web Development](categories/web-development.md) (12)
+- [Web Development](categories/web-development.md) (13)
 - [DevTools](categories/devtools.md) (9)
 - [Education](categories/education.md) (7)
 - [MCP](categories/mcp.md) (6)
@@ -317,6 +317,17 @@ Langflow поддерживает создание рабочих процесс
 
 ## Web Development
 
+### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+📖 Проект ryanmcdermott/clean-code-javascript объединяет ключевые концепции чистого кода в видеочресной форме для JavaScript разработчиков. Он раскрывает практики композиции, иерархий, наследования и других ключевых элементов чистой архитектуры без перехода на язык Java. Это позволяет командам быстро внедрить эти концепции в их проекты, что особенно полезно для тех, кто работает с JavaScript и стремится к более чистому коду. 🚀
+
+⭐ 94,633
+💻 JavaScript
+🏷 `javascript` `best-practices` `clean-architecture` `clean-code` `composition` `inheritance`
+📅 2026-07-03
+🔗 [GitHub](https://github.com/ryanmcdermott/clean-code-javascript)
+📢 [Telegram Post](https://t.me/github_trendovoe/217)
+
 ### [codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
 
 🤖 Отправка кода на проверку с помощью Codex от Claude Code — теперь быстрее и точнее. Позволяет разработчикам, DevOps-менеджерам и data-инженерам оптимизировать процесс обнаружения ошибок в коде. Ключевая фича: автоматическая выгода предварительной проверки кода на соответствие стилям и конвенциям, что ускоряет интеграцию новых модулей в проекты. Благодаря этому команда может быть более продуктивной и уверенной в качестве выпускаемого кода.
@@ -425,17 +436,6 @@ Langflow поддерживает создание рабочих процесс
 📅 2026-06-22
 🔗 [GitHub](https://github.com/heygen-com/hyperframes)
 📢 [Telegram Post](https://t.me/github_trendovoe/146)
-
-### [biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
-
-b站会员购购票辅助工具
-
-⭐ 3,698
-💻 Python
-🏷 `python` `bilibili` `bilibili-api` `manga` `tickets`
-📅 2026-06-21
-🔗 [GitHub](https://github.com/mikumifa/biliTickerBuy)
-📢 [Telegram Post](https://t.me/github_trendovoe/139)
 
 ## DevTools
 

@@ -1741,5 +1741,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/216",
     "featured_at": "2026-07-03"
+  },
+  {
+    "name": "clean-code-javascript",
+    "full_name": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "📖 Проект ryanmcdermott/clean-code-javascript объединяет ключевые концепции чистого кода в видеочресной форме для JavaScript разработчиков. Он раскрывает практики композиции, иерархий, наследования и других ключевых элементов чистой архитектуры без перехода на язык Java. Это позволяет командам быстро внедрить эти концепции в их проекты, что особенно полезно для тех, кто работает с JavaScript и стремится к более чистому коду. 🚀",
+    "language": "JavaScript",
+    "stars": 94633,
+    "category": "Web Development",
+    "tags": [
+      "javascript",
+      "best-practices",
+      "clean-architecture",
+      "clean-code",
+      "composition",
+      "inheritance"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/217",
+    "featured_at": "2026-07-03"
   }
 ]

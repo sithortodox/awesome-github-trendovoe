@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**12 репозиториев**
+**13 репозиториев**
+
+### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+📖 Проект ryanmcdermott/clean-code-javascript объединяет ключевые концепции чистого кода в видеочресной форме для JavaScript разработчиков. Он раскрывает практики композиции, иерархий, наследования и других ключевых элементов чистой архитектуры без перехода на язык Java. Это позволяет командам быстро внедрить эти концепции в их проекты, что особенно полезно для тех, кто работает с JavaScript и стремится к более чистому коду. 🚀
+
+⭐ 94,633
+💻 JavaScript
+🏷 `javascript` `best-practices` `clean-architecture` `clean-code` `composition` `inheritance`
+📅 2026-07-03
+🔗 [GitHub](https://github.com/ryanmcdermott/clean-code-javascript)
+📢 [Telegram Post](https://t.me/github_trendovoe/217)
 
 ### [codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
 
