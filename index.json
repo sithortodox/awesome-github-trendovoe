@@ -1485,5 +1485,21 @@
     "stars": 69110,
     "language": "Python",
     "featured_at": "2026-07-03"
+  },
+  {
+    "full_name": "rommapp/romm",
+    "name": "romm",
+    "category": "Self-Hosted",
+    "tags": [
+      "python",
+      "emulation",
+      "open-source",
+      "retrogaming",
+      "rommapp",
+      "self-hosted"
+    ],
+    "stars": 9681,
+    "language": "Python",
+    "featured_at": "2026-07-03"
   }
 ]

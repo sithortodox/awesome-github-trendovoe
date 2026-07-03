@@ -6,7 +6,7 @@
 
 ---
 
-**102 репозиториев** в каталоге
+**103 репозиториев** в каталоге
 
 ## Категории
 
@@ -20,8 +20,8 @@
 - [Data Science](categories/data-science.md) (4)
 - [DevOps](categories/devops.md) (4)
 - [Mobile](categories/mobile.md) (4)
+- [Self-Hosted](categories/self-hosted.md) (4)
 - [Other](categories/other.md) (3)
-- [Self-Hosted](categories/self-hosted.md) (3)
 - [Automation](categories/automation.md) (2)
 
 ## AI Agents
@@ -932,6 +932,58 @@ Open-source AI penetration testing tool to find and fix your app’s vulnerabili
 🔗 [GitHub](https://github.com/pppscn/SmsForwarder)
 📢 [Telegram Post](https://t.me/github_trendovoe/134)
 
+## Self-Hosted
+
+### [romm](https://github.com/rommapp/romm)
+
+📱 Автономный менеджер и игрок для распознавания образцов данных. 🛠
+
+romm - это инструмент, который позволяет автоматически обучать классификаторы и шаблонные модели на основе загружаемых пользователем обучающих наборов. Это особенно полезно для тех, кто работает с машинным обучением и хочет быстро развернуть решения без необходимости в больших стэках инфраструктуры. 🚀
+
+romm поддерживает распознавание образцов на основе различных типов данных — от текстовых до изображений и даже звуковых файлов. Его автономность делает его идеальным выбором для разработчиков, которые работают в ограниченных условиях или хотят создать решение, которое может быть запущено на удалённом сервере без участия IT-менеджеров.
+
+🔑 Ключевая фича: autoML — он позволяет пользователям обучать классификаторы и шаблонные модели непосредственно внутри инструмента, что ускоряет процесс разработки и упрощает его.
+
+⭐ 9,681
+💻 Python
+🏷 `python` `emulation` `open-source` `retrogaming` `rommapp` `self-hosted`
+📅 2026-07-03
+🔗 [GitHub](https://github.com/rommapp/romm)
+📢 [Telegram Post](https://t.me/github_trendovoe/220)
+
+### [FluidVoice](https://github.com/altic-dev/FluidVoice)
+
+⚡️ FluidVoice — самое быстрое приложение для диктовки в автономном режиме для macOS. Оно преобразует голос пользователя в текст полностью локально без необходимости подключения к интернету, обеспечивая высокую скорость и надежность даже при отсутствии стабильного Wi-Fi или 4G. Команда разработчиков подчеркивает его удобство для тех, кто проводит много времени за границей или в условиях с ограниченным доступом к интернету. Для пользователей удобно, что все данные хранятся локально и ни капли не требуются внешние сети. Отличие от конкурентов заключается в высокой скорости преобразования голоса, при котором процесс записи и обработки происходит мгновенно.
+
+⭐ 4,738
+💻 Swift
+🏷 `swift`
+📅 2026-06-30
+🔗 [GitHub](https://github.com/altic-dev/FluidVoice)
+📢 [Telegram Post](https://t.me/github_trendovoe/190)
+
+### [TREK](https://github.com/mauriceboe/TREK)
+
+🎯 MauriceBoe/TREK - автономный планировщик путешествий с совместной работой в реальном времени, интерактивными картами, поддержкой Progressive Web Apps (PWA), аутентификацией через SSO и автоматическим формированием бюджетов. Добавляет упаковочные списки для каждой поездки, что позволяет эффективно планировать расходы заранее. Отличие от конкурентов — возможность работы с более чем 30 различными типами путешествий и маршрутов, что делает его универсальным инструментом для тех, кто планирует поездки как для себя, так и для команды.
+
+⭐ 6,326
+💻 TypeScript
+🏷 `typescript` `budget-tracker` `collaborative` `open-source` `opensource` `packing-list`
+📅 2026-06-25
+🔗 [GitHub](https://github.com/mauriceboe/TREK)
+📢 [Telegram Post](https://t.me/github_trendovoe/164)
+
+### [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
+
+Для разработчиков мобильных приложений и веб-страниц это особенно полезно для создания интерфейсов, где требуется перевести текст с различных языков сразу после загрузки или получения данных.
+
+⭐ 14,909
+💻 Python
+🏷 `python` `api` `machine` `translate` `translation` `translator`
+📅 2026-06-18
+🔗 [GitHub](https://github.com/LibreTranslate/LibreTranslate)
+📢 [Telegram Post](https://t.me/github_trendovoe/120)
+
 ## Other
 
 ### [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)
@@ -978,41 +1030,6 @@ Open-source AI penetration testing tool to find and fix your app’s vulnerabili
 📅 2026-06-20
 🔗 [GitHub](https://github.com/mattpocock/skills)
 📢 [Telegram Post](https://t.me/github_trendovoe/133)
-
-## Self-Hosted
-
-### [FluidVoice](https://github.com/altic-dev/FluidVoice)
-
-⚡️ FluidVoice — самое быстрое приложение для диктовки в автономном режиме для macOS. Оно преобразует голос пользователя в текст полностью локально без необходимости подключения к интернету, обеспечивая высокую скорость и надежность даже при отсутствии стабильного Wi-Fi или 4G. Команда разработчиков подчеркивает его удобство для тех, кто проводит много времени за границей или в условиях с ограниченным доступом к интернету. Для пользователей удобно, что все данные хранятся локально и ни капли не требуются внешние сети. Отличие от конкурентов заключается в высокой скорости преобразования голоса, при котором процесс записи и обработки происходит мгновенно.
-
-⭐ 4,738
-💻 Swift
-🏷 `swift`
-📅 2026-06-30
-🔗 [GitHub](https://github.com/altic-dev/FluidVoice)
-📢 [Telegram Post](https://t.me/github_trendovoe/190)
-
-### [TREK](https://github.com/mauriceboe/TREK)
-
-🎯 MauriceBoe/TREK - автономный планировщик путешествий с совместной работой в реальном времени, интерактивными картами, поддержкой Progressive Web Apps (PWA), аутентификацией через SSO и автоматическим формированием бюджетов. Добавляет упаковочные списки для каждой поездки, что позволяет эффективно планировать расходы заранее. Отличие от конкурентов — возможность работы с более чем 30 различными типами путешествий и маршрутов, что делает его универсальным инструментом для тех, кто планирует поездки как для себя, так и для команды.
-
-⭐ 6,326
-💻 TypeScript
-🏷 `typescript` `budget-tracker` `collaborative` `open-source` `opensource` `packing-list`
-📅 2026-06-25
-🔗 [GitHub](https://github.com/mauriceboe/TREK)
-📢 [Telegram Post](https://t.me/github_trendovoe/164)
-
-### [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
-
-Для разработчиков мобильных приложений и веб-страниц это особенно полезно для создания интерфейсов, где требуется перевести текст с различных языков сразу после загрузки или получения данных.
-
-⭐ 14,909
-💻 Python
-🏷 `python` `api` `machine` `translate` `translation` `translator`
-📅 2026-06-18
-🔗 [GitHub](https://github.com/LibreTranslate/LibreTranslate)
-📢 [Telegram Post](https://t.me/github_trendovoe/120)
 
 ## Automation
 
