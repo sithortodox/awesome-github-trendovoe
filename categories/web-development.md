@@ -2,7 +2,20 @@
 
 [← Назад](../README.md)
 
-**13 репозиториев**
+**14 репозиториев**
+
+### [elasticsearch](https://github.com/elastic/elasticsearch)
+
+🔍 Быстрая индексация миллиона записей за минуту с поддержкой 100+ типов данных благодаря инновационной системе парсинга Elasticsearch. Позволяет разработчикам, DevOps-менеджерам и data-инженерам быстро настроить и масштабировать поиск для огромных баз данных — от аналитики до веб-приложений. 🚀
+
+Для тех, кто хочет ускорить поисковые операции и минимизировать затраты на инструменты, это ключевая фича: интеграция с REST API для автоматического сканирования и хранения огромных объемов данных в реальном времени.
+
+⭐ 77,231
+💻 Java
+🏷 `java` `elasticsearch` `search-engine`
+📅 2026-07-03
+🔗 [GitHub](https://github.com/elastic/elasticsearch)
+📢 [Telegram Post](https://t.me/github_trendovoe/218)
 
 ### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 

@@ -6,13 +6,13 @@
 
 ---
 
-**100 репозиториев** в каталоге
+**101 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (24)
 - [AI](categories/ai.md) (18)
-- [Web Development](categories/web-development.md) (13)
+- [Web Development](categories/web-development.md) (14)
 - [DevTools](categories/devtools.md) (9)
 - [Education](categories/education.md) (7)
 - [MCP](categories/mcp.md) (6)
@@ -317,6 +317,19 @@ Langflow поддерживает создание рабочих процесс
 
 ## Web Development
 
+### [elasticsearch](https://github.com/elastic/elasticsearch)
+
+🔍 Быстрая индексация миллиона записей за минуту с поддержкой 100+ типов данных благодаря инновационной системе парсинга Elasticsearch. Позволяет разработчикам, DevOps-менеджерам и data-инженерам быстро настроить и масштабировать поиск для огромных баз данных — от аналитики до веб-приложений. 🚀
+
+Для тех, кто хочет ускорить поисковые операции и минимизировать затраты на инструменты, это ключевая фича: интеграция с REST API для автоматического сканирования и хранения огромных объемов данных в реальном времени.
+
+⭐ 77,231
+💻 Java
+🏷 `java` `elasticsearch` `search-engine`
+📅 2026-07-03
+🔗 [GitHub](https://github.com/elastic/elasticsearch)
+📢 [Telegram Post](https://t.me/github_trendovoe/218)
+
 ### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 📖 Проект ryanmcdermott/clean-code-javascript объединяет ключевые концепции чистого кода в видеочресной форме для JavaScript разработчиков. Он раскрывает практики композиции, иерархий, наследования и других ключевых элементов чистой архитектуры без перехода на язык Java. Это позволяет командам быстро внедрить эти концепции в их проекты, что особенно полезно для тех, кто работает с JavaScript и стремится к более чистому коду. 🚀
@@ -425,17 +438,6 @@ Langflow поддерживает создание рабочих процесс
 📅 2026-06-22
 🔗 [GitHub](https://github.com/JCodesMore/ai-website-cloner-template)
 📢 [Telegram Post](https://t.me/github_trendovoe/148)
-
-### [hyperframes](https://github.com/heygen-com/hyperframes)
-
-🎯 Heygen-com/hyperframes — фреймворк на TypeScript для создания автономных AI-агентов. Создан для тех, кто хочет автоматизировать процессы в видеообработке и управлении инфраструктурой. Поддерживает работу с FFMPEG и GSAP, что позволяет эффективно рендерить видео и управлять анимацией. Данный проект отличается интеграцией популярных библиотек для максимальной производительности и масштабируемости приложений, делая его идеальным выбором для разработчиков AI-систем и DevOps-специалистов.
-
-⭐ 29,814
-💻 TypeScript
-🏷 `typescript` `ai` `animation` `ffmpeg` `framework` `gsap`
-📅 2026-06-22
-🔗 [GitHub](https://github.com/heygen-com/hyperframes)
-📢 [Telegram Post](https://t.me/github_trendovoe/146)
 
 ## DevTools
 

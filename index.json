@@ -1460,5 +1460,18 @@
     "stars": 94633,
     "language": "JavaScript",
     "featured_at": "2026-07-03"
+  },
+  {
+    "full_name": "elastic/elasticsearch",
+    "name": "elasticsearch",
+    "category": "Web Development",
+    "tags": [
+      "java",
+      "elasticsearch",
+      "search-engine"
+    ],
+    "stars": 77231,
+    "language": "Java",
+    "featured_at": "2026-07-03"
   }
 ]

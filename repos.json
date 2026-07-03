@@ -1760,5 +1760,21 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/217",
     "featured_at": "2026-07-03"
+  },
+  {
+    "name": "elasticsearch",
+    "full_name": "elastic/elasticsearch",
+    "url": "https://github.com/elastic/elasticsearch",
+    "description": "🔍 Быстрая индексация миллиона записей за минуту с поддержкой 100+ типов данных благодаря инновационной системе парсинга Elasticsearch. Позволяет разработчикам, DevOps-менеджерам и data-инженерам быстро настроить и масштабировать поиск для огромных баз данных — от аналитики до веб-приложений. 🚀\n\nДля тех, кто хочет ускорить поисковые операции и минимизировать затраты на инструменты, это ключевая фича: интеграция с REST API для автоматического сканирования и хранения огромных объемов данных в реальном времени.",
+    "language": "Java",
+    "stars": 77231,
+    "category": "Web Development",
+    "tags": [
+      "java",
+      "elasticsearch",
+      "search-engine"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/218",
+    "featured_at": "2026-07-03"
   }
 ]
