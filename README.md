@@ -6,12 +6,12 @@
 
 ---
 
-**98 репозиториев** в каталоге
+**99 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (24)
-- [AI](categories/ai.md) (17)
+- [AI](categories/ai.md) (18)
 - [Web Development](categories/web-development.md) (12)
 - [DevTools](categories/devtools.md) (9)
 - [Education](categories/education.md) (7)
@@ -155,6 +155,17 @@ Langflow поддерживает создание рабочих процесс
 📢 [Telegram Post](https://t.me/github_trendovoe/187)
 
 ## AI
+
+### [cs249r_book](https://github.com/harvard-edge/cs249r_book)
+
+🎓 Публикация курсовой работы с учебником по CS249R (Computer Systems). Совершенно бесплатно и в расширенном формате. Задачи учеников упрощены, а сложности повышены, чтобы подготовить студентов к реальным проектам. Команда: преподаватели от Harvard.
+
+⭐ 25,699
+💻 Python
+🏷 `python` `artificial-intelligence` `cloud-ml` `computer-systems` `courseware` `deep-learning`
+📅 2026-07-03
+🔗 [GitHub](https://github.com/harvard-edge/cs249r_book)
+📢 [Telegram Post](https://t.me/github_trendovoe/216)
 
 ### [pytorch](https://github.com/pytorch/pytorch)
 
@@ -303,17 +314,6 @@ Langflow поддерживает создание рабочих процесс
 📅 2026-06-23
 🔗 [GitHub](https://github.com/shanraisshan/claude-code-best-practice)
 📢 [Telegram Post](https://t.me/github_trendovoe/151)
-
-### [airllm](https://github.com/lyogavin/airllm)
-
-🛠️ AirLLM 70B — это мощный язык модели, выполненный на одном графическом процессоре емкостью 4 ГБ. Он поддерживает быструю интеграцию в любые проекты, где требуется глубокое понимание и анализ данных на уровне язык-модели. 🔥 Команда разработчиков предлагает уникальный инструмент для ускорения процесса обучения и гиперпараметров тюнинга с использованием предварительно обученной модели. Этот проект особенно полезен для тех, кто занимается машинным обучением, нейронными сетями, и AI-инженерами. 🔑 Актуальное отличие от конкурентов заключается в том, что AirLLM 70B предоставляет доступ к мощной инфраструктуре модели без необходимости разворачивания собственных серверов, что снижает операционные затраты и ускоряет процесс экспериментирования.
-
-⭐ 21,050
-💻 Jupyter Notebook
-🏷 `jupyter notebook` `chinese-llm` `chinese-nlp` `finetune` `generative-ai` `instruct-gpt`
-📅 2026-06-23
-🔗 [GitHub](https://github.com/lyogavin/airllm)
-📢 [Telegram Post](https://t.me/github_trendovoe/149)
 
 ## Web Development
 

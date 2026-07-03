@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**17 репозиториев**
+**18 репозиториев**
+
+### [cs249r_book](https://github.com/harvard-edge/cs249r_book)
+
+🎓 Публикация курсовой работы с учебником по CS249R (Computer Systems). Совершенно бесплатно и в расширенном формате. Задачи учеников упрощены, а сложности повышены, чтобы подготовить студентов к реальным проектам. Команда: преподаватели от Harvard.
+
+⭐ 25,699
+💻 Python
+🏷 `python` `artificial-intelligence` `cloud-ml` `computer-systems` `courseware` `deep-learning`
+📅 2026-07-03
+🔗 [GitHub](https://github.com/harvard-edge/cs249r_book)
+📢 [Telegram Post](https://t.me/github_trendovoe/216)
 
 ### [pytorch](https://github.com/pytorch/pytorch)
 

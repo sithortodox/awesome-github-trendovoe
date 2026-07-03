@@ -1428,5 +1428,21 @@
     "stars": 101270,
     "language": "Python",
     "featured_at": "2026-07-03"
+  },
+  {
+    "full_name": "harvard-edge/cs249r_book",
+    "name": "cs249r_book",
+    "category": "AI",
+    "tags": [
+      "python",
+      "artificial-intelligence",
+      "cloud-ml",
+      "computer-systems",
+      "courseware",
+      "deep-learning"
+    ],
+    "stars": 25699,
+    "language": "Python",
+    "featured_at": "2026-07-03"
   }
 ]

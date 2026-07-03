@@ -1722,5 +1722,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/215",
     "featured_at": "2026-07-03"
+  },
+  {
+    "name": "cs249r_book",
+    "full_name": "harvard-edge/cs249r_book",
+    "url": "https://github.com/harvard-edge/cs249r_book",
+    "description": "🎓 Публикация курсовой работы с учебником по CS249R (Computer Systems). Совершенно бесплатно и в расширенном формате. Задачи учеников упрощены, а сложности повышены, чтобы подготовить студентов к реальным проектам. Команда: преподаватели от Harvard.",
+    "language": "Python",
+    "stars": 25699,
+    "category": "AI",
+    "tags": [
+      "python",
+      "artificial-intelligence",
+      "cloud-ml",
+      "computer-systems",
+      "courseware",
+      "deep-learning"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/216",
+    "featured_at": "2026-07-03"
   }
 ]
