@@ -2,7 +2,46 @@
 
 [← Назад](../README.md)
 
-**3 репозиториев**
+**6 репозиториев**
+
+### [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+
+🛠️ Платформа ChromeDevTools для мониторинга и управления агентами кодирования в режиме реального времени. Отслеживает трансляции экранов, синхронизирует состояние агентов на всех устройствах — идеально подходит для команд разработчиков и DevOps. 🚀
+
+Одним кликом управляешь несколькими устройствами, отслеживая все изменения и реакции в реальном времени. Нет необходимости переключаться между окнами или браузерами — всё находится в одном месте.
+
+🔥 Ключевое отличие: интеграция с агентами кодирования позволяет видеть действия изнутри, что значительно упрощает мониторинг и управление. Без этой функции сложно отслеживать изменение состояния приложения на разных устройствах и реагировать вовремя.
+
+Такой подход обеспечивает быстрое определение и корректировку проблем, избегая локальных тестирований. К тому же, совместимость с несколькими технологиями делает его универсальным инструментом для любой команды разработчиков.
+
+⭐ 45,010
+💻 TypeScript
+🏷 `typescript` `browser` `chrome` `chrome-devtools` `debugging` `devtools`
+📅 2026-07-02
+🔗 [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+📢 [Telegram Post](https://t.me/github_trendovoe/210)
+
+### [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+
+🛠️ Комплексный AI-интерфейс с более 160 провайдерами в один клик — от бесплатных до премиальных. Облегчает подключение Claude Code, Codex, Cursor, Cline & Copilot к БЕСПЛАТНОМУ Claude/GPT/Gemini. Стековое сжатие RTK+Caveman экономит токены на 15–95 %, интеллектуальный автоматический возврат и мультимодальные API. Отличие — поддержка более 160 провайдеров, начиная от бесплатных, что делает его универсальным инструментом для разработчиков и команд DevOps.
+
+⭐ 8,297
+💻 TypeScript
+🏷 `typescript` `a2a` `ai-agents` `ai-gateway` `anthropic` `claude`
+📅 2026-06-30
+🔗 [GitHub](https://github.com/diegosouzapw/OmniRoute)
+📢 [Telegram Post](https://t.me/github_trendovoe/191)
+
+### [open-seo](https://github.com/every-app/open-seo)
+
+🌟 Альтернатива Semrush и Ahrefs с открытым исходным кодом. Open-сайт анализирует backlink-структуру, собирает данные из Google Search Console MCP и проводит ключевую исследовательскую работу. Позволяет оценить SEO-позиции сайта без использования платных сервисов. Идеален для тех, кто хочет собственную систему анализа SEO.
+
+⭐ 2,420
+💻 TypeScript
+🏷 `typescript` `backlink-analysis` `google-search-console-mcp` `keyword-research` `mcp` `seo`
+📅 2026-06-25
+🔗 [GitHub](https://github.com/every-app/open-seo)
+📢 [Telegram Post](https://t.me/github_trendovoe/166)
 
 ### [ECC](https://github.com/affaan-m/ECC)
 

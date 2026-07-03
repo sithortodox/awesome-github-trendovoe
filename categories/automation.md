@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**1 репозиториев**
+**2 репозиториев**
+
+### [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+
+Наш MediaCrawler уникален тем, что объединяет все эти интеграции в один функциональный API-интерфейс, делая его простым и эффективным для автоматизации процессов сборки данных из различных платформ без необходимости настраивать каждый источник отдельно.
+
+⭐ 53,116
+💻 Python
+🏷 `python`
+📅 2026-06-26
+🔗 [GitHub](https://github.com/NanmiCoder/MediaCrawler)
+📢 [Telegram Post](https://t.me/github_trendovoe/171)
 
 ### [firecrawl](https://github.com/firecrawl/firecrawl)
 

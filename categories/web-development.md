@@ -2,7 +2,94 @@
 
 [← Назад](../README.md)
 
-**5 репозиториев**
+**12 репозиториев**
+
+### [codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+
+🤖 Отправка кода на проверку с помощью Codex от Claude Code — теперь быстрее и точнее. Позволяет разработчикам, DevOps-менеджерам и data-инженерам оптимизировать процесс обнаружения ошибок в коде. Ключевая фича: автоматическая выгода предварительной проверки кода на соответствие стилям и конвенциям, что ускоряет интеграцию новых модулей в проекты. Благодаря этому команда может быть более продуктивной и уверенной в качестве выпускаемого кода.
+
+⭐ 22,610
+💻 JavaScript
+🏷 `javascript`
+📅 2026-07-03
+🔗 [GitHub](https://github.com/openai/codex-plugin-cc)
+📢 [Telegram Post](https://t.me/github_trendovoe/213)
+
+### [checkout](https://github.com/actions/checkout)
+
+🔄 Проект actions/checkout - это инструмент для автоматической установки зависимостей в вашем проекте. Он позволяет отслеживать изменение ваших пакетов по времени реального выполнения. 🚀
+
+Поддерживает все популярные системы управления версиями и библиотеками из GitHub Packages. ⭐ 
+
+Полезен для команд, занимающихся автоматизацией инструментов и CI/CD-процессов. Они могут легко настроить проверку репозитория и обеспечить актуальность пакетов в их проектах, не тратя много времени на установки зависимостей. 🚀
+
+Другие инструменты такого типа поддерживают максимум 10-15 версий зависимостей в паре с системами управления версиями. actions/checkout поддерживает до 50+ форматов, что делает его уникальным и более гибким для большинства проектов. 🚦
+
+Еще одна отличная особенность: он интегрируется с GitHub Actions, делая процесс мониторинга зависимостей и автоматизации еще более эффективным.
+
+⭐ 8,130
+💻 TypeScript
+🏷 `typescript`
+📅 2026-07-02
+🔗 [GitHub](https://github.com/actions/checkout)
+📢 [Telegram Post](https://t.me/github_trendovoe/211)
+
+### [tolaria](https://github.com/refactoringhq/tolaria)
+
+🛠 🚀 Настольная платформа для управления базами знаний — идеально подходит для разработчиков, DevOps и данных инженеров. Оптимизирована для работы с большими объемами информации, позволяет легко управлять документацией и инструкциями. 📄 Проблема в том, что часто требуется собрать все знания в одном месте для эффективного управления проектом или командой. 
+
+💡 Отличие: тул-система поддерживает более 50 популярных форматов файлов (Markdown, DOCX, PDF и др.), делая процесс редактирования и чтения базы знаний удобным и простым в использовании.
+
+⭐ 18,061
+💻 TypeScript
+🏷 `typescript`
+📅 2026-07-02
+🔗 [GitHub](https://github.com/refactoringhq/tolaria)
+📢 [Telegram Post](https://t.me/github_trendovoe/205)
+
+### [logto](https://github.com/logto-io/logto)
+
+🔑🔒 Инфраструктура аутентификации и авторизации для приложений SaaS и AI на основе OIDC и OAuth 2.1. Поддерживает мультитенантность, Single Sign-On (SSO) и модель ролей-ресурсов (RBAC). Позволяет создавать простые и безопасные механизмы для управления доступом к сервисам в масштабах приложений SaaS и искусственного интеллекта. Ключевая фича - интеграция с популярными библиотеками на TypeScript. Полезно для разработчиков приложений SaaS, AI-систем и DevOps-команд.
+
+⭐ 13,162
+💻 TypeScript
+🏷 `typescript` `authentication` `authorization` `email` `identity` `jwt`
+📅 2026-07-01
+🔗 [GitHub](https://github.com/logto-io/logto)
+📢 [Telegram Post](https://t.me/github_trendovoe/201)
+
+### [Instatic](https://github.com/CoreBunch/Instatic)
+
+🔥 CoreBunch/Instatic — современная визуальная CMS на TypeScript. Необходимо всего 1 минутное запуска. Разработчики, DevOps-менеджеры и инженеры UX смогут быстро настроить сайт и адаптировать его под свои нужды без использования кода. Команда получает мощный инструмент для создания современных пользовательских интерфейсов с множеством встроенных шаблонов и плагинами. 🚀
+
+⭐ 1,748
+💻 TypeScript
+🏷 `typescript` `cms` `css` `css-framework` `page-builder` `static`
+📅 2026-07-01
+🔗 [GitHub](https://github.com/CoreBunch/Instatic)
+📢 [Telegram Post](https://t.me/github_trendovoe/198)
+
+### [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+
+💬 Открытый исходный код AI-генератор Anil-matcha/Open-Generative-AI дает возможность создавать изображения и видео с более чем 200 моделями, включая Flux, Midjourney, Kling, Sora и Veo. Без содержательных ограничений — сама размещайте свои работы. Отличительной особенностью является бесплатность и открытое лицензирование MIT, что делает проект удобным для тех, кто создает искусственный интеллект в новых направлениях дизайна и видеошоуbusiness.
+
+⭐ 21,273
+💻 JavaScript
+🏷 `javascript` `ai-art-generator` `ai-image-generation` `ai-video-generation` `creative-tools` `flux`
+📅 2026-06-27
+🔗 [GitHub](https://github.com/Anil-matcha/Open-Generative-AI)
+📢 [Telegram Post](https://t.me/github_trendovoe/180)
+
+### [page-agent](https://github.com/alibaba/page-agent)
+
+🔥 Agent для управления веб-интерфейсами на основе AI. Автоматически анализирует страницы и выполняет задачи с использованием естественного языка. Отличие от конкурентов - интеграция с Alibaba Cloud, что позволяет использовать мощные сервисы для ускорения процесса анализа и управления. Подходит для разработчиков, которые хотят сделать автоматизацию более эффективной и гибкой.
+
+⭐ 19,772
+💻 TypeScript
+🏷 `typescript` `agent` `ai` `ai-agents` `browser-automation` `javascript`
+📅 2026-06-25
+🔗 [GitHub](https://github.com/alibaba/page-agent)
+📢 [Telegram Post](https://t.me/github_trendovoe/167)
 
 ### [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 

@@ -2,7 +2,29 @@
 
 [← Назад](../README.md)
 
-**2 репозиториев**
+**4 репозиториев**
+
+### [strix](https://github.com/usestrix/strix)
+
+Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+
+⭐ 27,565
+💻 Python
+🏷 `python` `agents` `ai-hacking` `ai-penetration-testing` `ai-pentesting` `ai-security`
+📅 2026-06-30
+🔗 [GitHub](https://github.com/usestrix/strix)
+📢 [Telegram Post](https://t.me/github_trendovoe/189)
+
+### [simplex-chat](https://github.com/simplex-chat/simplex-chat)
+
+🔒 SimpleX — прозрачная сеть обмена сообщениями без идентификаторов пользователей. Защищает конфиденциальность от любых внешних наблюдателей, включая собственные серверы разработчиков. iOS, Android и настольные приложения 📱.
+
+⭐ 11,687
+💻 Haskell
+🏷 `haskell` `chat` `double-ratchet` `e2ee` `encryption`
+📅 2026-06-26
+🔗 [GitHub](https://github.com/simplex-chat/simplex-chat)
+📢 [Telegram Post](https://t.me/github_trendovoe/172)
 
 ### [spiderfoot](https://github.com/smicallef/spiderfoot)
 

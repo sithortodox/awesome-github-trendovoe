@@ -770,5 +770,957 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/160",
     "featured_at": "2026-06-25"
+  },
+  {
+    "name": "zapret-discord-youtube",
+    "full_name": "Flowseal/zapret-discord-youtube",
+    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "description": null,
+    "language": "Batchfile",
+    "stars": 30033,
+    "category": "Other",
+    "tags": [
+      "batchfile"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/161",
+    "featured_at": "2026-06-25"
+  },
+  {
+    "name": "no-mistakes",
+    "full_name": "kunchenguid/no-mistakes",
+    "url": "https://github.com/kunchenguid/no-mistakes",
+    "description": "git push без ошибок",
+    "language": "Go",
+    "stars": 2400,
+    "category": "DevTools",
+    "tags": [
+      "go"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/162",
+    "featured_at": "2026-06-25"
+  },
+  {
+    "name": "ai-berkshire",
+    "full_name": "xbtlin/ai-berkshire",
+    "url": "https://github.com/xbtlin/ai-berkshire",
+    "description": "💡 xbtlin/ai-berkshire - AI-фреймворк для анализа Berkshire Hathaway\n\n🚀 Это инструмент для тех, кто интересуется инвестициями в компании Berkshire Hathaway. 📈 Объединяет методы известных инвесторов: Беркшилла, Манагера, Сегуна и Ли-Рода. 🔑 Разработан на основе Claude Code, что позволяет выполнять масштабные исследования ценности акций.\n\n🤖 AI-фреймворк управляет многими Агентами для парсинга данных, моделирования сценариев и автоматического анализа. Используйте его для глубокого понимания стратегий и предсказаний Беркшилла.\n\n🔑 Преимущество: xbtlin/ai-berkshire — первая система AI-анализа Berkshire, объединяющая методы из 4 эпох инвесторов в одном инструменте. Идеален для тех, кто хочет автоматизировать и углубить свои инвестиционные исследования.",
+    "language": "Python",
+    "stars": 1554,
+    "category": "AI",
+    "tags": [
+      "python",
+      "ai",
+      "ai-agent",
+      "anthropic",
+      "berkshire-hathaway",
+      "charlie-munger"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/163",
+    "featured_at": "2026-06-25"
+  },
+  {
+    "name": "TREK",
+    "full_name": "mauriceboe/TREK",
+    "url": "https://github.com/mauriceboe/TREK",
+    "description": "🎯 MauriceBoe/TREK - автономный планировщик путешествий с совместной работой в реальном времени, интерактивными картами, поддержкой Progressive Web Apps (PWA), аутентификацией через SSO и автоматическим формированием бюджетов. Добавляет упаковочные списки для каждой поездки, что позволяет эффективно планировать расходы заранее. Отличие от конкурентов — возможность работы с более чем 30 различными типами путешествий и маршрутов, что делает его универсальным инструментом для тех, кто планирует поездки как для себя, так и для команды.",
+    "language": "TypeScript",
+    "stars": 6326,
+    "category": "Self-Hosted",
+    "tags": [
+      "typescript",
+      "budget-tracker",
+      "collaborative",
+      "open-source",
+      "opensource",
+      "packing-list"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/164",
+    "featured_at": "2026-06-25"
+  },
+  {
+    "name": "agent-toolkit-for-aws",
+    "full_name": "aws/agent-toolkit-for-aws",
+    "url": "https://github.com/aws/agent-toolkit-for-aws",
+    "description": "🛠 aws/official-mcp-tools — специальный набор плагинов, навыков и серверов, который позволяет агентам искусственного интеллекта работать на платформе AWS. 🚀\n\nЭтот проект помогает разработчикам и командам управлять их системами управления привилегиями (MCP), без необходимости переписывать код или использовать ручную технику. Они подключают свои собственные навыки и сервера к официальным AWS-серверам, автоматически передавая метаданные для эффективной работы. \n\nЭто полезно разработчикам, кто использует агентов AI для управления инфраструктурой или операций на платформе AWS, чтобы уменьшить время на настройку и сделать процесс более автоматизированным. Они могут концентрироваться на создании полезных функций, без необходимости переноса и миграции своих существующих решений.\n\naws/official-mcp-tools выделяется наличием большого числа поддерживаемых плагинов и навыков, включая популярные AWS-серверы и агенты. Это позволяет пользователям легко настроить и начать использовать набор для своих нужд с минимальными усилиями, что делает его",
+    "language": "Python",
+    "stars": 1080,
+    "category": "AI Agents",
+    "tags": [
+      "python"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/165",
+    "featured_at": "2026-06-25"
+  },
+  {
+    "name": "open-seo",
+    "full_name": "every-app/open-seo",
+    "url": "https://github.com/every-app/open-seo",
+    "description": "🌟 Альтернатива Semrush и Ahrefs с открытым исходным кодом. Open-сайт анализирует backlink-структуру, собирает данные из Google Search Console MCP и проводит ключевую исследовательскую работу. Позволяет оценить SEO-позиции сайта без использования платных сервисов. Идеален для тех, кто хочет собственную систему анализа SEO.",
+    "language": "TypeScript",
+    "stars": 2420,
+    "category": "MCP",
+    "tags": [
+      "typescript",
+      "backlink-analysis",
+      "google-search-console-mcp",
+      "keyword-research",
+      "mcp",
+      "seo"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/166",
+    "featured_at": "2026-06-25"
+  },
+  {
+    "name": "page-agent",
+    "full_name": "alibaba/page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "description": "🔥 Agent для управления веб-интерфейсами на основе AI. Автоматически анализирует страницы и выполняет задачи с использованием естественного языка. Отличие от конкурентов - интеграция с Alibaba Cloud, что позволяет использовать мощные сервисы для ускорения процесса анализа и управления. Подходит для разработчиков, которые хотят сделать автоматизацию более эффективной и гибкой.",
+    "language": "TypeScript",
+    "stars": 19772,
+    "category": "Web Development",
+    "tags": [
+      "typescript",
+      "agent",
+      "ai",
+      "ai-agents",
+      "browser-automation",
+      "javascript"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/167",
+    "featured_at": "2026-06-25"
+  },
+  {
+    "name": "CasaOS",
+    "full_name": "IceWhaleTech/CasaOS",
+    "url": "https://github.com/IceWhaleTech/CasaOS",
+    "description": "🔄 CasaOS — легкая персональная облачная система на Go. Поддерживает 100+ типов устройств в одном месте, автоматически управляя ими без необходимости в настройках. Помогает разработчикам и DevOps-персонал эффективнее работать с домашней инфраструктурой, без отказа от безопасности. Идеален для тех, кто хочет управление дома легко и просто. 💡 Отличие: CasaOS использует блокчейн для обмена транзакциями между устройствами, обеспечивая повышенную безопасность и непрерывность сервисов даже при сбоях.",
+    "language": "Go",
+    "stars": 34833,
+    "category": "DevOps",
+    "tags": [
+      "go",
+      "casaos",
+      "docker",
+      "golang",
+      "home-automation",
+      "home-cloud"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/168",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "name": "MinerU",
+    "full_name": "opendatalab/MinerU",
+    "url": "https://github.com/opendatalab/MinerU",
+    "description": "otas 📄 Программа MinerU opendatalab/MinerU преобразует сложные документы PDF и Office в упрощенный JSON с поддержкой технологий LLM. Это позволяет пользователям автоматически извлекать данные, без необходимости ручного ввода, что экономит время и усилия для агентских проектов. МинерУ удобно использовать как инструмент для аналитиков и технических команд, которые хотят обрабатывать большие объемы данных с минимальной human-in-the-loop. В отличие от других PDF-дизайнеров, MinerU поддерживает не только текстовые данные в форматах docx, но также извлекает информацию о структуре документов и разметку (layout-analysis). Это делает его идеальным решением для задач управления данными в институтах и научных проектах.",
+    "language": "Python",
+    "stars": 69715,
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "ai4science",
+      "document-analysis",
+      "docx",
+      "extract-data",
+      "layout-analysis"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/169",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "name": "IPTV",
+    "full_name": "Free-TV/IPTV",
+    "url": "https://github.com/Free-TV/IPTV",
+    "description": "📢 🎥 Бесплатный плейлист M3U для бесплатных телеканалов. Поддерживает десятки популярных каналов, включая НТВ, РЕН ТВ, Муз电视. Позволяет быстро настроить IPTV-туннели и передать сигнал через спутник или кабель.\n\n✅ Основное преимущество: плейлист поддерживает 50+ популярных телеканалов в режиме реального времени, что значительно ускоряет процесс установки системы IPTV. \n\n👨‍💻 Кому полезно: разработчикам и кураторам бесплатных IPTV-сервисов, а также любителям TV-приложений для Android телевизоров. Представляет собой простое решение для тех, кто хочет создать собственный эфир без необходимости привлекать множество каналов.",
+    "language": "Python",
+    "stars": 18301,
+    "category": "Education",
+    "tags": [
+      "python",
+      "help-wanted",
+      "looking-for-contributors"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/170",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "name": "MediaCrawler",
+    "full_name": "NanmiCoder/MediaCrawler",
+    "url": "https://github.com/NanmiCoder/MediaCrawler",
+    "description": "Наш MediaCrawler уникален тем, что объединяет все эти интеграции в один функциональный API-интерфейс, делая его простым и эффективным для автоматизации процессов сборки данных из различных платформ без необходимости настраивать каждый источник отдельно.",
+    "language": "Python",
+    "stars": 53116,
+    "category": "Automation",
+    "tags": [
+      "python"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/171",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "name": "simplex-chat",
+    "full_name": "simplex-chat/simplex-chat",
+    "url": "https://github.com/simplex-chat/simplex-chat",
+    "description": "🔒 SimpleX — прозрачная сеть обмена сообщениями без идентификаторов пользователей. Защищает конфиденциальность от любых внешних наблюдателей, включая собственные серверы разработчиков. iOS, Android и настольные приложения 📱.",
+    "language": "Haskell",
+    "stars": 11687,
+    "category": "Cybersecurity",
+    "tags": [
+      "haskell",
+      "chat",
+      "double-ratchet",
+      "e2ee",
+      "encryption"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/172",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "name": "openpilot",
+    "full_name": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "description": "🎯 openpilot — операционная система для автономных транспортных систем. Поддерживает более 300 автомобилей, позволяя разработчикам создавать системы помощи водителю без дополнительного программирования. Отличается глубокой интеграцией с существующими моделями и способностью автоматически настраиваться под различные типы транспортных средств. Это идеально подходит для разработчиков автономной техники, автопилотов и робототехнических команд, стремящихся внедрить эти системы в свои проекты без значительных затрат на программирование.",
+    "language": "Python",
+    "stars": 61645,
+    "category": "DevTools",
+    "tags": [
+      "python",
+      "advanced-driver-assistance-systems",
+      "driver-assistance-systems",
+      "robotics"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/173",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "name": "grafana",
+    "full_name": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "description": "📊 Платформа grafana/grafana позволяет визуализировать метрики, журналы и трассировки из различных источников, таких как Prometheus, Loki, Elasticsearch, InfluxDB и Postgres. 🌐 Поддерживает более 50 форматов данных и интеграции с большинством современных систем отслеживания. Это идеально подходит для разработчиков, DevOps-специалистов и data-инженеров, которые стремятся улучшить мониторинг и анализ производительности их приложений. 💡 С помощью графана/grafana вы сможете легко интегрировать собственные системы и видеть ключевые метрики в одном месте, что значительно упростит управление проектами.",
+    "language": "TypeScript",
+    "stars": 74789,
+    "category": "DevOps",
+    "tags": [
+      "typescript",
+      "alerting",
+      "analytics",
+      "business-intelligence",
+      "dashboard",
+      "data-visualization"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/174",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "name": "free-for-dev",
+    "full_name": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "🔒 Ripienaar/free-for-dev - каталог бесплатных решений для разработки и инфраструктуры. 🔸 Позволяет находить сервисы от Google Cloud, AWS и Azure с доступом до 10 аккаунтов на уровне Free/Standard в одну строку. 🛠️ Подходит для DevOps-менеджеров и команд разработки, стремящихся экономить время на выбор облачных решений. 💡 Как отличие от конкурентов: удобный инструментарий с быстрым поиском среди 50+ сервисов, включая VPC, EKS, Firestore и многое другое.",
+    "language": "HTML",
+    "stars": 123644,
+    "category": "Education",
+    "tags": [
+      "html",
+      "awesome-list",
+      "free-for-developers"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/175",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "name": "zhangxuefeng-skill",
+    "full_name": "alchaincyf/zhangxuefeng-skill",
+    "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+    "description": "💥 张雪峰.skill — инструмент для студентов и молодых специалистов. Он помогает с高考志愿、考研以及职业规划，提供实战思维框架。张雪峰.skill由女娲.skill生成。\n\n解决了什么问题：解决了考生和学生在填报志愿、准备考试及未来职业选择时的困惑与压力，提供了一个系统的解决方案。\n\n给谁带来好处：帮助学生更好地理解自己的兴趣和目标，做出更明智的选择。适合所有希望提高高考和考研成功率的学生，以及正在规划职业生涯发展的个人或团队。\n\n独特之处：张雪峰.skill采用女娲技能生成的先进AI技术，不仅提供了详细的思维导图和策略建议，还能根据用户的输入进行个性化定制，确保用户获得最适合自己的规划方案。",
+    "language": "",
+    "stars": 9234,
+    "category": "Other",
+    "tags": [],
+    "telegram_post_url": "https://t.me/github_trendovoe/176",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "name": "Agent-Reach",
+    "full_name": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "description": "⚡️ ПаньнианТонг/AllInOneSearch — инструмент для поиска на всемирной платформе. Подключает 50+ популярных ресурсов в один интерфейс командной строки, без необходимости использовать каждый отдельно. Отличительная особенность — поддержка Bilibili и XiaoHongShu, что делает его идеальным инструментом для мониторинга онлайн-сообществ и управления инцидентами. Теперь поиск всего Интернета — это легко и просто.",
+    "language": "Python",
+    "stars": 42315,
+    "category": "DevTools",
+    "tags": [
+      "python",
+      "agent-infrastructure",
+      "ai-agent",
+      "ai-search",
+      "automation",
+      "bilibili"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/177",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "name": "PowerToys",
+    "full_name": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "🛠️ Microsoft PowerToys — это набор инструментов для улучшения производительности Windows. Он позволяет настроить системные параметры, сделать процесс работы более удобным и быстрым для разработчиков, пользователей с большими данными и команд работников удаленных мест. Команда Microsoft поддерживает до 20 дополнений — от перетаскивания текста с большим размером шрифта до редактора изображений, фильтрации окон и системы управления рабочим столом. Разработчики и DevOps-специалисты могут легко настроить Windows, не отвлекаясь от основных задач. Пользователи с большими объемами данных получат больше контроля над системными параметрами для оптимизации производительности. 💡 Microsoft PowerToys уникален тем, что поддерживает до 20 дополнений, что делает его мощным инструментом для настройки системы Windows.",
+    "language": "C",
+    "stars": 135593,
+    "category": "Education",
+    "tags": [
+      "c",
+      "advanced-paste",
+      "color-picker",
+      "command-palette",
+      "desktop",
+      "fancyzones"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/178",
+    "featured_at": "2026-06-27"
+  },
+  {
+    "name": "ppt-master",
+    "full_name": "hugohe3/ppt-master",
+    "url": "https://github.com/hugohe3/ppt-master",
+    "description": "🤖 Создание настоящих PowerPoint презентаций из любого документа с поддержкой множества форматов входящих данных — текста, графики, изображений. Возможность редактировать формы, добавлять анимацию и включать звуковые озвучки. Используйте собственный шаблон .pptx вместо стандартных слайдов. Автор: hugohe3/ppt-master · Разработчики, команды, DevOps, data-инженеры — это отличное решение для автоматизации создания презентаций.",
+    "language": "Python",
+    "stars": 32778,
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "ai-agent",
+      "aippt",
+      "office",
+      "powerpoint",
+      "powerpoint-generation"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/179",
+    "featured_at": "2026-06-27"
+  },
+  {
+    "name": "Open-Generative-AI",
+    "full_name": "Anil-matcha/Open-Generative-AI",
+    "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+    "description": "💬 Открытый исходный код AI-генератор Anil-matcha/Open-Generative-AI дает возможность создавать изображения и видео с более чем 200 моделями, включая Flux, Midjourney, Kling, Sora и Veo. Без содержательных ограничений — сама размещайте свои работы. Отличительной особенностью является бесплатность и открытое лицензирование MIT, что делает проект удобным для тех, кто создает искусственный интеллект в новых направлениях дизайна и видеошоуbusiness.",
+    "language": "JavaScript",
+    "stars": 21273,
+    "category": "Web Development",
+    "tags": [
+      "javascript",
+      "ai-art-generator",
+      "ai-image-generation",
+      "ai-video-generation",
+      "creative-tools",
+      "flux"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/180",
+    "featured_at": "2026-06-27"
+  },
+  {
+    "name": "dbt-core",
+    "full_name": "dbt-labs/dbt-core",
+    "url": "https://github.com/dbt-labs/dbt-core",
+    "description": "🔍 dbt-labs/dbt-core — это инструмент разработки данных на Rust, который позволяет ускорить процесс преобразования данных для аналитиков и инженеров. 🚀 dbt Core поддерживает интеграцию с различными источниками данных (например, Snowflake, BigQuery) и автоматически создает макеты моделей данных, что значительно упрощает работу с обширными данными для бизнес-интеллекта.\n\n✅ Команда dbt Core предлагает простую инфраструктуру для создания цепочек транзакций (ETL/ELT), инициирующих преобразование, визуализацию и обработку данных. Вместо необходимости напрямую определять эти процедуры, dbt Core автоматически генерирует необходимые скрипты, что делает процесс более эффективным и менее болезненным.\n\n📊 Поддерживает 50+ форматов датасета (CSV, JSON, Parquet) и подгружает данные без необходимости вручную их подготовки. Это позволяет сделать анализ данных более оперативным для команды, работающей с разнообразными источниками информации.\n\n💡 Основные отличия от конкурентов заключаются в его интеграции с большим количеством источников и быстр",
+    "language": "Rust",
+    "stars": 13181,
+    "category": "Data Science",
+    "tags": [
+      "rust",
+      "analytics",
+      "business-intelligence",
+      "data-modeling",
+      "dbt-viewpoint",
+      "elt"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/181",
+    "featured_at": "2026-06-27"
+  },
+  {
+    "name": "claude-howto",
+    "full_name": "luongnv89/claude-howto",
+    "url": "https://github.com/luongnv89/claude-howto",
+    "description": "🎯 Пакет руководств \"Claude HowTo\" от luongnv89/claude-howto — это визуальное пособие на примерах для начинающих в Claude Code. Оно объединяет базовые концепции, продвинутые агенты и множество полезных шаблонов. Эти руководства помогут пользователям начать планирование и управление собственными AI-агентами быстро и легко. 🤖 Командам, работающим над автономными системами, особенно полезно это пособие для внедрения Claude Code в повседневную работу без особых усилий.",
+    "language": "Python",
+    "stars": 38593,
+    "category": "Education",
+    "tags": [
+      "python",
+      "claude-code",
+      "guide",
+      "tutorial"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/182",
+    "featured_at": "2026-06-27"
+  },
+  {
+    "name": "opencode",
+    "full_name": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "description": "anomalycode/anomalyco-open-code 🚀\n\nанomalyco/opencode — это открытый репозиторий с инструментами для автоматического генерирования кода на TypeScript. Он решает проблему быстрого создания базовых веб-приложений и микросервисов из исходного кода, предоставляя готовые шаблоны и структуры.\n\nКлючевой фича — возможность использовать pre-trained модели для генерации кода, что позволяет значительно сократить время разработки. Этот проект особенно полезен для команд, создающих веб-приложения или микросервисы, которым нужно быстро опубликовать готовый продукт.\n\nот anomalyco/opencode можно начать собирать простые веб-приложения и микросервисы на TypeScript за несколько минут. Он подходит для разработчиков, которые хотят ускорить процесс создания новых проектов без необходимости напрямую кодировать каждый шартик.",
+    "language": "TypeScript",
+    "stars": 179752,
+    "category": "AI Agents",
+    "tags": [
+      "typescript"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/183",
+    "featured_at": "2026-06-28"
+  },
+  {
+    "name": "OpenSpec",
+    "full_name": "Fission-AI/OpenSpec",
+    "url": "https://github.com/Fission-AI/OpenSpec",
+    "description": "🛠️ Разработка на основе спецификаций (SDD) для помощников по программированию с использованием искусственного интеллекта 🚀\n\nПроект Fission-AI/OpenSpec разработан специально для тех, кто хочет создавать эффективные AI-помощники без необходимости в сложных специализированных знаниях. Он автоматизирует процесс создания спецификаций, что позволяет программистам сфокусироваться на самом программировании и ускоряет выпуск новых версий AI.\n\nИдея заключается в том, чтобы использовать интеллектуальные алгоритмы для поддержки разработчиков при создании точных спецификаций. Это минимизирует человеческий факторы ошибок во время разработки и ускоряет процесс проектирования и тестирования помощников по программированию.\n\nКлючевой фича — интеграция искусственного интеллекта, который анализирует данные и генерирует точные спецификации, минимизируя необходимость вручную редактировать документацию. Этот метод значительно упрощает процесс для команды разработчиков.\n\nГлядя на конкуренты на рынке помощников по программированию с использованием AI, OpenSpec предлагает инновационный подход, который обеспечивает точность и",
+    "language": "TypeScript",
+    "stars": 57172,
+    "category": "AI",
+    "tags": [
+      "typescript",
+      "ai",
+      "context-engineering",
+      "engineering",
+      "planning",
+      "prd"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/184",
+    "featured_at": "2026-06-28"
+  },
+  {
+    "name": "Vibe-Trading",
+    "full_name": "HKUDS/Vibe-Trading",
+    "url": "https://github.com/HKUDS/Vibe-Trading",
+    "description": "📢 Видео и трейдинг в одном окне! 📊 Vibe-Trading автоматически создает торговые агентов на базе AI для финалистов. 🤖 Программа анализирует рынки, выполняет аналитические расчеты и генерирует стратегии торговли без участия человека. 🔗 Узнать больше: [ссылка]",
+    "language": "Python",
+    "stars": 13815,
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "ai-agent",
+      "algorithmic-trading",
+      "backtesting",
+      "fintech",
+      "llm"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/185",
+    "featured_at": "2026-06-28"
+  },
+  {
+    "name": "keycloak",
+    "full_name": "keycloak/keycloak",
+    "url": "https://github.com/keycloak/keycloak",
+    "description": "🔑 Keycloak — это открытый исходный код управление идентификацией и доступом для современных приложений и услуг. 🚀 Поддерживает более 1000 приложений и услуг в реальном мире, обеспечивая простую настройку OAuth2 и OpenID Connect с десятками различных протоколов аутентификации (SAML, WS-Fed). 💪 Сравнительно легче масштабировать Keycloak по сравнению с другими системами, что позволяет значительно снизить затраты и упростить разработку на новой платформе. Командам, которые работают с множеством протоколов, особенно полезно использовать Keycloak.",
+    "language": "Java",
+    "stars": 35361,
+    "category": "DevTools",
+    "tags": [
+      "java",
+      "keycloak",
+      "oidc",
+      "saml"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/186",
+    "featured_at": "2026-06-28"
+  },
+  {
+    "name": "agency-agents",
+    "full_name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "description": "🤖 Полное агентство искусственного интеллекта под рукой — от волшебников внешнего интерфейса до ниндзя сообщества Reddit, от причудливых инжекторов до специалистов по проверке реальности. Каждый агент — это уникальный, гибкий и обучаемый AI-сообщество для автоматизации задач в разработке программного обеспечения, управления инфраструктурой и анализа данных. Подходит для тех, кто хочет не просто автоматизировать процессы, но и управлять целыми армиями интеллектуальных помощников.",
+    "language": "Shell",
+    "stars": 119460,
+    "category": "AI Agents",
+    "tags": [
+      "shell"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/187",
+    "featured_at": "2026-06-30"
+  },
+  {
+    "name": "cupy",
+    "full_name": "cupy/cupy",
+    "url": "https://github.com/cupy/cupy",
+    "description": "🔍 Пакет управления памятью для GPU на Python. cupy/cupy позволяет создавать большие многопутевые массивы и матрицы, поддерживает 50+ форматов данных и операций над ними. В отличие от NumPy, он полностью интегрирован с CUDA и доступен через стандартные Python-библиотеки без необходимости в установке дополнительных системных зависимостей.\n\n👨‍💻 Особенно полезно для разработчиков, использующих графические платформы и машинное обучение. cupy позволяет создавать и выполнять сложные вычисления прямо на GPU без отхода на процессор, что значительно увеличивает производительность.\n\n🚀 Загрузите cupy/cupy в свой проект и синхронизируйте работу с данными между CPU и GPU, получив мощный инструмент для разработки современных многопоточных и распределенных систем.",
+    "language": "Python",
+    "stars": 11944,
+    "category": "DevTools",
+    "tags": [
+      "python",
+      "cublas",
+      "cuda",
+      "cudnn",
+      "cupy",
+      "curand"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/188",
+    "featured_at": "2026-06-30"
+  },
+  {
+    "name": "strix",
+    "full_name": "usestrix/strix",
+    "url": "https://github.com/usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "language": "Python",
+    "stars": 27565,
+    "category": "Cybersecurity",
+    "tags": [
+      "python",
+      "agents",
+      "ai-hacking",
+      "ai-penetration-testing",
+      "ai-pentesting",
+      "ai-security"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/189",
+    "featured_at": "2026-06-30"
+  },
+  {
+    "name": "FluidVoice",
+    "full_name": "altic-dev/FluidVoice",
+    "url": "https://github.com/altic-dev/FluidVoice",
+    "description": "⚡️ FluidVoice — самое быстрое приложение для диктовки в автономном режиме для macOS. Оно преобразует голос пользователя в текст полностью локально без необходимости подключения к интернету, обеспечивая высокую скорость и надежность даже при отсутствии стабильного Wi-Fi или 4G. Команда разработчиков подчеркивает его удобство для тех, кто проводит много времени за границей или в условиях с ограниченным доступом к интернету. Для пользователей удобно, что все данные хранятся локально и ни капли не требуются внешние сети. Отличие от конкурентов заключается в высокой скорости преобразования голоса, при котором процесс записи и обработки происходит мгновенно.",
+    "language": "Swift",
+    "stars": 4738,
+    "category": "Self-Hosted",
+    "tags": [
+      "swift"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/190",
+    "featured_at": "2026-06-30"
+  },
+  {
+    "name": "OmniRoute",
+    "full_name": "diegosouzapw/OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "description": "🛠️ Комплексный AI-интерфейс с более 160 провайдерами в один клик — от бесплатных до премиальных. Облегчает подключение Claude Code, Codex, Cursor, Cline & Copilot к БЕСПЛАТНОМУ Claude/GPT/Gemini. Стековое сжатие RTK+Caveman экономит токены на 15–95 %, интеллектуальный автоматический возврат и мультимодальные API. Отличие — поддержка более 160 провайдеров, начиная от бесплатных, что делает его универсальным инструментом для разработчиков и команд DevOps.",
+    "language": "TypeScript",
+    "stars": 8297,
+    "category": "MCP",
+    "tags": [
+      "typescript",
+      "a2a",
+      "ai-agents",
+      "ai-gateway",
+      "anthropic",
+      "claude"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/191",
+    "featured_at": "2026-06-30"
+  },
+  {
+    "name": "exercises-dataset",
+    "full_name": "hasaneyldrm/exercises-dataset",
+    "url": "https://github.com/hasaneyldrm/exercises-dataset",
+    "description": "🏋️‍♂️ Полный набор данных из 433 фитнес-упражнений с подробными инструкциями и анимационными видео. Доступен для разработчиков мобильных приложений, веб-сайтов и игр, которые хотят добавить тренировочные модули в свои продукты. 📊 Оптимизирован для аналитиков фитнеса и специалистов по созданию инструкторских курсов. 🔗 Отличие от конкурентов — уникальный набор данных с подробными описаниями, что позволяет максимально точно адаптировать тренировки под разные целевые группы.",
+    "language": "HTML",
+    "stars": 6191,
+    "category": "Data Science",
+    "tags": [
+      "html",
+      "excercises",
+      "fitness",
+      "fitness-app"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/192",
+    "featured_at": "2026-06-30"
+  },
+  {
+    "name": "video-use",
+    "full_name": "browser-use/video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "description": "👀 🎥 Редактируйте видео с помощью AI-агентов. Новая инструментария для веб-разработчиков и видеомонтажеров. Позволяет автоматически обработать и загрузить множество видео за один мах手。无需手动编辑，大幅提升工作效率。特别适合需要大量视频处理的项目团队，告别繁重的重复任务。🚀 browser-use/video-use: AI-driven video processing toolkit, handles 50+ common formats with lightning speed.",
+    "language": "Python",
+    "stars": 12530,
+    "category": "AI Agents",
+    "tags": [
+      "python"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/193",
+    "featured_at": "2026-06-30"
+  },
+  {
+    "name": "cupp",
+    "full_name": "Mebus/cupp",
+    "url": "https://github.com/Mebus/cupp",
+    "description": "🔒 Профилировщик общих паролей пользователей (CUPP) 🚀\n\nMebus/cupp проще всего расшифровывается как профилировщик (Profiler), который анализирует пароли, которые часто используют пользователи. Этот проект позволяет выявлять самые распространенные и слабые пароли в базе данных с помощью различных словlist.\n\nКак ключевая фича: Mebus/cupp поддерживает 50+ известных словлистов, что значительно расширяет возможности анализа паролей. Позволяет пользователям лучше понять свою текущую безопасность и предотвратить утечку персональной информации.\n\nКому полезно: Разработчики, системы управления доступом (IAM), администраторы сайтов, которые хотят повысить уровень безопасности своих систем. Это инструмент поможет им выявлять слабые места в текущем паролевом запасе и предотвращать потенциальные утечки данных.\n\nCupp: 🔐 Подходит для тех, кто хочет анализировать пароли на наличие общих, подключить дополнительные словалисты и внедрить собственные. Программа имеет простой интерфейс для визуализации результатов и предоставления рекомендаций по улучшению",
+    "language": "Python",
+    "stars": 6095,
+    "category": "Education",
+    "tags": [
+      "python",
+      "dictionary-attack",
+      "password",
+      "password-strength",
+      "weak-passwords",
+      "wordlist"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/194",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "name": "agents-cli",
+    "full_name": "google/agents-cli",
+    "url": "https://github.com/google/agents-cli",
+    "description": "🤖 Шаблонный редактор команд для создания машинных агентов с помощью Googles AI-platform.\n\n🚀 Открывает возможности для разработчиков, создавших собственные агенты искусственного интеллекта. Имеет мощные инструменты и API для управления и расширения функциональности, без необходимости в глубоком понимании Google Cloud Platform.\n\n👩‍💻 Подходит как для отдельных разработчиков, так и для команд, работающих над крупными проектами. Упрощает процесс создания автономных систем, которые могут самостоятельно управлять различными задачами — начиная с анализа данных до управления инфраструктурой.\n\n🌐 Преимущество в простоте использования и гибкости: можно настроить агенты под конкретные потребности проекта, не затрагивая базовые функции. Более того, интерфейс командной строки делает процесс управления еще более интуитивным для новичков.\n\n💡 Главная фича — возможность использования Go в качестве языка программирования для создания агентов, что открывает новые горизонты для разработчиков, и не требует привыкания к сложной системе Google Cloud.",
+    "language": "Python",
+    "stars": 4257,
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "adk",
+      "agent-development-kit",
+      "agents",
+      "coding-agent",
+      "gemini"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/195",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "name": "supervision",
+    "full_name": "roboflow/supervision",
+    "url": "https://github.com/roboflow/supervision",
+    "description": "🛠️ Supervision от RoboFlow: удобный инструмент для автоматизации процессов машинного обучения и компьютерной визуализации. 💡\n\nПрограмма позволяет легко создавать модели AI, а также управлять данными из разных источников — просто сконфигурировав параметры и подключив новые источники данных. Он подходит не только для финальных AI-решений, но и для процессов сборки моделей на этапе тренировки.\n\n🔥 Ключевая особенность Supervision - его мощные инструменты управления данными и автоматизированный подход к разработке моделей, который сокращает время подготовки данных до формирования полноценной модели. Это отличается от других фреймворков своего рода, так как он предоставляет встроенные инструменты для работы с разными типами данных и автоматически делит работу между различными моделями.\n\nПодходит для разработчиков AI, машинного обучения, data-инженеров и DevOps, которые хотят ускорить процесс создания и поддержки машинных измерений. Применяется в компаниях, занимающихся созданием AI-решений для разных сфер бизнеса — от медицины до аутсорсинга.",
+    "language": "Python",
+    "stars": 45992,
+    "category": "AI",
+    "tags": [
+      "python",
+      "classification",
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "hacktoberfest"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/196",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "name": "herdr",
+    "full_name": "ogulcancelik/herdr",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "description": "🛠️ Мультипlexer-агент для Rust — инструмент, который позволяет разработчикам легко создавать автономные AI-агенты прямо в терминале. Синтаксис простой и ясной ассинхронности делает его идеальным для работы с различными API и библиотеками на Rust. 🚀\n\n✅ Основная проблема, решаемая этим проектом: автоматическое создание и управление многопоточными AI-агентами внутри одного процесса. Экономит время и ресурсы для тех, кто использует Rust для создания автономных систем, включая команды разработчиков, DevOps и data-инженеров.\n\n🔑 Ключевое отличие от конкурентов: интеграция с различными API и библиотеками на Rust, возможность работы с многопоточностью и распределением задач между различными агентами. Более того, поддержка более 20 различных форматов данных делает этот мультипlexer универсальным инструментом для разработчиков.\n\nРазработчики и команды DevOps уже начали тестировать это решение и осознают его потенциал в области создания автономных систем и автоматизации процессов.",
+    "language": "Rust",
+    "stars": 9198,
+    "category": "DevTools",
+    "tags": [
+      "rust",
+      "agent",
+      "agent-orchestration",
+      "ai",
+      "ai-agents",
+      "claude-code"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/197",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "name": "Instatic",
+    "full_name": "CoreBunch/Instatic",
+    "url": "https://github.com/CoreBunch/Instatic",
+    "description": "🔥 CoreBunch/Instatic — современная визуальная CMS на TypeScript. Необходимо всего 1 минутное запуска. Разработчики, DevOps-менеджеры и инженеры UX смогут быстро настроить сайт и адаптировать его под свои нужды без использования кода. Команда получает мощный инструмент для создания современных пользовательских интерфейсов с множеством встроенных шаблонов и плагинами. 🚀",
+    "language": "TypeScript",
+    "stars": 1748,
+    "category": "Web Development",
+    "tags": [
+      "typescript",
+      "cms",
+      "css",
+      "css-framework",
+      "page-builder",
+      "static"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/198",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "name": "astryx",
+    "full_name": "facebook/astryx",
+    "url": "https://github.com/facebook/astryx",
+    "description": "🚧 Система проектирования на основе открытого исходного кода, полностью настраиваемая для работы с различными агентами в реальных условиях. Позволяет создавать инструменты управления и взаимодействия с динамичными системами без необходимости отслеживать множество сторонних библиотек или решений.\n\n🤖 Команда разработчиков фокусируется на повышении эффективности работы агентов, минимизируя избыточное программирование и ускоряя интеграцию новых компонентов. Подходит для ведущих разработчиков систем управления бизнесом, DevOps-специалистов и технических специалистов в области данных, которые стремятся создать гибкие решения, адаптируемые к различным технологическим средам.\n\n🔧 Facebook/astryx выделяется тем, что предлагает полностью настраиваемый фреймворк для работы с 200+ разными агентами и интеграциями. Особое внимание уделяется удобству эксплуатации и минимизации требований к внешним зависимостям, обеспечивая стабильность и высокую производительность в сложных системах управления.",
+    "language": "TypeScript",
+    "stars": 2151,
+    "category": "AI Agents",
+    "tags": [
+      "typescript"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/199",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "name": "olmocr",
+    "full_name": "allenai/olmocr",
+    "url": "https://github.com/allenai/olmocr",
+    "description": "🎯 AllenAI/olmocr — инструмент для линеаризации PDF-файлов прямо внутри LLM (Large Language Models). Уникальность в автоматическом преобразовании сложных структур данных из PDF в формат, поддерживаемый моделями. Позволяет аналитикам и исследователям быстрее анализировать большие наборы данных без промежуточного хранения. Потрясающе полезный для data-инженеров, кто работает с разными форматами и требуется гибкость в обработке информации.",
+    "language": "Python",
+    "stars": 18136,
+    "category": "Data Science",
+    "tags": [
+      "python"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/200",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "name": "logto",
+    "full_name": "logto-io/logto",
+    "url": "https://github.com/logto-io/logto",
+    "description": "🔑🔒 Инфраструктура аутентификации и авторизации для приложений SaaS и AI на основе OIDC и OAuth 2.1. Поддерживает мультитенантность, Single Sign-On (SSO) и модель ролей-ресурсов (RBAC). Позволяет создавать простые и безопасные механизмы для управления доступом к сервисам в масштабах приложений SaaS и искусственного интеллекта. Ключевая фича - интеграция с популярными библиотеками на TypeScript. Полезно для разработчиков приложений SaaS, AI-систем и DevOps-команд.",
+    "language": "TypeScript",
+    "stars": 13162,
+    "category": "Web Development",
+    "tags": [
+      "typescript",
+      "authentication",
+      "authorization",
+      "email",
+      "identity",
+      "jwt"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/201",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "name": "karukan",
+    "full_name": "togatoga/karukan",
+    "url": "https://github.com/togatoga/karukan",
+    "description": "🎯 Японская система методов ввода для Linux, macOS и нейронный механизм преобразования кана-кандзи. 🤖 Позволяет подключать японскую клавиатуру и автоматически распознавать текст в форматах кана и кандзи, обеспечивая удобство и точность при вводе на нескольких платформах. Подходит для разработчиков ЯПО, системных администраторов и любителей японской культуры, которым нужна быстрая работа с языком. 🌏💡 Karukan отличается от конкурентов тем, что полностью поддерживает все 14 форматов кана-кандзи, включая нежесткие форматы, и обеспечивает стабильную работу даже при высокой нагрузке.",
+    "language": "Rust",
+    "stars": 561,
+    "category": "AI",
+    "tags": [
+      "rust",
+      "fcitx5",
+      "ime",
+      "input-method",
+      "inputmethod",
+      "japanese"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/202",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "name": "VulnClaw",
+    "full_name": "Unclecheng-li/VulnClaw",
+    "url": "https://github.com/Unclecheng-li/VulnClaw",
+    "description": "🚨 Unclecheng-li/VulnClaw — AI-инструментарий для автоматизации процессов исследований уязвимостей и интеграции в цикл CTF. Он использует先进的AI Agent框架，结合MCP工具链和渗透测试技能，实现信息收集、漏洞发现、利用及报告生成的自动化流程。该项目显著区别于传统工具，能够自动处理复杂的安全检测任务，极大地提高了数据处理效率和安全性分析水平。🚀",
+    "language": "Python",
+    "stars": 1557,
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "ai",
+      "ai-agent",
+      "ai-tools",
+      "ctf",
+      "cybersecurity"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/203",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "name": "AI-For-Beginners",
+    "full_name": "microsoft/AI-For-Beginners",
+    "url": "https://github.com/microsoft/AI-For-Beginners",
+    "description": "💻 Microsoft Bot Framework - универсальный инструмент для создания веб-ботов, мобильных приложений и служб внутри органайзеров.\n\n🤖 Создает эффективные автономные ботов, которые могут обрабатывать множество задач от приема заказов до управления домашними устройствами. \n\n✅ Позволяет разработчикам и командам с легкостью встраивать AI-функции без необходимости знать сложные алгоритмы искусственного интеллекта.\n\n🔑 Ключевая фича — поддержка более 400 форматов сообщений, что обеспечивает максимальную гибкость при создании ботов для различных платформ и устройств.\n\n🚀 Использование Microsoft Bot Framework позволяет начать создание веб-бота или мобильного приложения за несколько минут, масштабируя проект с минимальными затратами времени и усилий.",
+    "language": "Jupyter Notebook",
+    "stars": 50471,
+    "category": "AI",
+    "tags": [
+      "jupyter notebook",
+      "ai",
+      "artificial-intelligence",
+      "cnn",
+      "computer-vision",
+      "deep-learning"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/204",
+    "featured_at": "2026-07-02"
+  },
+  {
+    "name": "tolaria",
+    "full_name": "refactoringhq/tolaria",
+    "url": "https://github.com/refactoringhq/tolaria",
+    "description": "🛠 🚀 Настольная платформа для управления базами знаний — идеально подходит для разработчиков, DevOps и данных инженеров. Оптимизирована для работы с большими объемами информации, позволяет легко управлять документацией и инструкциями. 📄 Проблема в том, что часто требуется собрать все знания в одном месте для эффективного управления проектом или командой. \n\n💡 Отличие: тул-система поддерживает более 50 популярных форматов файлов (Markdown, DOCX, PDF и др.), делая процесс редактирования и чтения базы знаний удобным и простым в использовании.",
+    "language": "TypeScript",
+    "stars": 18061,
+    "category": "Web Development",
+    "tags": [
+      "typescript"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/205",
+    "featured_at": "2026-07-02"
+  },
+  {
+    "name": "council-of-high-intelligence",
+    "full_name": "0xNyk/council-of-high-intelligence",
+    "url": "https://github.com/0xNyk/council-of-high-intelligence",
+    "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+    "language": "Shell",
+    "stars": 2770,
+    "category": "AI Agents",
+    "tags": [
+      "shell",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "decision-making",
+      "deliberation"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/206",
+    "featured_at": "2026-07-02"
+  },
+  {
+    "name": "CubeSandbox",
+    "full_name": "TencentCloud/CubeSandbox",
+    "url": "https://github.com/TencentCloud/CubeSandbox",
+    "description": "🛠️ Мгновенная, параллельная, безопасная и легкая «песочница» для агентов ИИ. Подходит для разработчиков, инженеров и команд, которые хотят тестировать и интегрировать AI-агенты без риска воздействия на производственные системы. Более 20 безопасных сред параллельно запускаются одновременно, что позволяет быстрее протестировать различные сценарии и оптимизировать эффективность инженерной работы. 🚀",
+    "language": "Rust",
+    "stars": 6955,
+    "category": "AI Agents",
+    "tags": [
+      "rust",
+      "agents",
+      "container",
+      "sandbox"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/207",
+    "featured_at": "2026-07-02"
+  },
+  {
+    "name": "caveman",
+    "full_name": "JuliusBrussee/caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "description": "🪖 Проект JuliusBrussee/caveman предлагает уникальное программное обеспечение для сокращения токенов Claude до 65% их объема без потери информации. Это навык, который позволяет переписываться как пещерный человек, сохраняя при этом смысл и стиль оригинала. 🌟 Клиентам проекта полезно использовать это для сокращения количества токенов, не теряя при этом качество общения. Это отличное решение для тех, кто хочет экономить на подписках Claude без потери функциональности и галактического расхода энергии. 📈",
+    "language": "JavaScript",
+    "stars": 79451,
+    "category": "AI",
+    "tags": [
+      "javascript",
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/208",
+    "featured_at": "2026-07-02"
+  },
+  {
+    "name": "career-ops",
+    "full_name": "santifer/career-ops",
+    "url": "https://github.com/santifer/career-ops",
+    "description": "🤖 Сантифер/сantifer/career-ops — система поиска работы на основе искусственного интеллекта, использующая Claude Code. Позволяет создавать собственные режимы навыков с 14 различными функциями, включая автоматическую рассылку панели управления Go и возможность создания PDF-файлов для документов. Поддерживает запуск пакетных задач и обработки множества работодателей за один проход. Идеально подходит для начинающих, которые хотят ускорить процесс поиска работы с помощью AI, а также для профессиональных поисковиков и рекрутеров, которым необходим инструмент для мгновенного анализа CV-шек. Ключевая фича — возможность создания уникальных навыков на основе обучающих данных, что делает систему привлекательной для пользователей любого уровня мастерства.",
+    "language": "JavaScript",
+    "stars": 57418,
+    "category": "AI Agents",
+    "tags": [
+      "javascript",
+      "ai-agent",
+      "anthropic",
+      "automation",
+      "beginner-friendly",
+      "career"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/209",
+    "featured_at": "2026-07-02"
+  },
+  {
+    "name": "chrome-devtools-mcp",
+    "full_name": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "🛠️ Платформа ChromeDevTools для мониторинга и управления агентами кодирования в режиме реального времени. Отслеживает трансляции экранов, синхронизирует состояние агентов на всех устройствах — идеально подходит для команд разработчиков и DevOps. 🚀\n\nОдним кликом управляешь несколькими устройствами, отслеживая все изменения и реакции в реальном времени. Нет необходимости переключаться между окнами или браузерами — всё находится в одном месте.\n\n🔥 Ключевое отличие: интеграция с агентами кодирования позволяет видеть действия изнутри, что значительно упрощает мониторинг и управление. Без этой функции сложно отслеживать изменение состояния приложения на разных устройствах и реагировать вовремя.\n\nТакой подход обеспечивает быстрое определение и корректировку проблем, избегая локальных тестирований. К тому же, совместимость с несколькими технологиями делает его универсальным инструментом для любой команды разработчиков.",
+    "language": "TypeScript",
+    "stars": 45010,
+    "category": "MCP",
+    "tags": [
+      "typescript",
+      "browser",
+      "chrome",
+      "chrome-devtools",
+      "debugging",
+      "devtools"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/210",
+    "featured_at": "2026-07-02"
+  },
+  {
+    "name": "checkout",
+    "full_name": "actions/checkout",
+    "url": "https://github.com/actions/checkout",
+    "description": "🔄 Проект actions/checkout - это инструмент для автоматической установки зависимостей в вашем проекте. Он позволяет отслеживать изменение ваших пакетов по времени реального выполнения. 🚀\n\nПоддерживает все популярные системы управления версиями и библиотеками из GitHub Packages. ⭐ \n\nПолезен для команд, занимающихся автоматизацией инструментов и CI/CD-процессов. Они могут легко настроить проверку репозитория и обеспечить актуальность пакетов в их проектах, не тратя много времени на установки зависимостей. 🚀\n\nДругие инструменты такого типа поддерживают максимум 10-15 версий зависимостей в паре с системами управления версиями. actions/checkout поддерживает до 50+ форматов, что делает его уникальным и более гибким для большинства проектов. 🚦\n\nЕще одна отличная особенность: он интегрируется с GitHub Actions, делая процесс мониторинга зависимостей и автоматизации еще более эффективным.",
+    "language": "TypeScript",
+    "stars": 8130,
+    "category": "Web Development",
+    "tags": [
+      "typescript"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/211",
+    "featured_at": "2026-07-02"
+  },
+  {
+    "name": "agentskills",
+    "full_name": "agentskills/agentskills",
+    "url": "https://github.com/agentskills/agentskills",
+    "description": "🌟 Поддерживает более 50 различных языковых моделей с автоматической подстановкой параметров. Создает интегрированную среду для работы с разными NLP-технологиями, что значительно ускоряет процесс разработки и экспериментирования для data-инженеров и машинного обучения. 🛠️",
+    "language": "Python",
+    "stars": 21563,
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "agent-skills"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/212",
+    "featured_at": "2026-07-02"
+  },
+  {
+    "name": "codex-plugin-cc",
+    "full_name": "openai/codex-plugin-cc",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "description": "🤖 Отправка кода на проверку с помощью Codex от Claude Code — теперь быстрее и точнее. Позволяет разработчикам, DevOps-менеджерам и data-инженерам оптимизировать процесс обнаружения ошибок в коде. Ключевая фича: автоматическая выгода предварительной проверки кода на соответствие стилям и конвенциям, что ускоряет интеграцию новых модулей в проекты. Благодаря этому команда может быть более продуктивной и уверенной в качестве выпускаемого кода.",
+    "language": "JavaScript",
+    "stars": 22610,
+    "category": "Web Development",
+    "tags": [
+      "javascript"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/213",
+    "featured_at": "2026-07-03"
+  },
+  {
+    "name": "langflow",
+    "full_name": "langflow-ai/langflow",
+    "url": "https://github.com/langflow-ai/langflow",
+    "description": "🔧 🔬 Langflow — инструмент для создания и развертывания агентов на базе искусственного интеллекта.\n\nLangflow поддерживает создание рабочих процессов, включающих до 100 различных шагов, автоматизированных с помощью готовых инструкций или собственных обученных моделей. Это позволяет пользователям строить сложные AI-системы для управления различными задачами без необходимости напрямую программировать.\n\nПроект отличается от конкурентов тем, что он поддерживает до 100 различных типов шагов и интеграции с популярными платформами. Подходит для разработчиков, DevOps-менеджеров и технических команд, которые хотят внедрить искусственный интеллект в свои системы без необходимости глубокого понимания алгоритмической части.\n\n🔥 🔌 Создавайте мощные AI-системы с Langflow и ускоряйте процесс внедрения технологии.",
+    "language": "Python",
+    "stars": 150780,
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "agents",
+      "chatgpt",
+      "generative-ai",
+      "large-language-models",
+      "multiagent"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/214",
+    "featured_at": "2026-07-03"
+  },
+  {
+    "name": "pytorch",
+    "full_name": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "description": "🔍 💡 Тензоры и динамические нейронные сети на Python с мощным ускорением графического процессора. Это не просто библиотека для машинного обучения — это инструмент для создания сложных, масштабируемых AI-систем.\n\n✅ Открывает горизонт возможностей для разработчиков и команд данных, DevOps-специалистов и исследователей в области искусственного интеллекта. Позволяет создавать глубокоуровневые модели обучения без прямого участия разработчика кода.\n\n👑 Особенность — поддержка более 50 различных динамических моделей и форматов данных, что делает его универсальным инструментом для работы с различными данными. \n\n🚀 Ключевая фича: автоматическая оптимизация алгоритмов с графическим процессором, что обеспечивает до 10 раз быстрее обучения нейронных сетей и уменьшает необходимость в дополнительном вычислительном оборудовании. \n\nИспользуйте pytorch — идеальный инструмент для создания автономных AI-систем и расшифровки сложных данных.",
+    "language": "Python",
+    "stars": 101270,
+    "category": "AI",
+    "tags": [
+      "python",
+      "autograd",
+      "deep-learning",
+      "gpu",
+      "machine-learning",
+      "neural-network"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/215",
+    "featured_at": "2026-07-03"
   }
 ]

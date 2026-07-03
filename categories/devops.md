@@ -2,7 +2,29 @@
 
 [← Назад](../README.md)
 
-**1 репозиториев**
+**3 репозиториев**
+
+### [grafana](https://github.com/grafana/grafana)
+
+📊 Платформа grafana/grafana позволяет визуализировать метрики, журналы и трассировки из различных источников, таких как Prometheus, Loki, Elasticsearch, InfluxDB и Postgres. 🌐 Поддерживает более 50 форматов данных и интеграции с большинством современных систем отслеживания. Это идеально подходит для разработчиков, DevOps-специалистов и data-инженеров, которые стремятся улучшить мониторинг и анализ производительности их приложений. 💡 С помощью графана/grafana вы сможете легко интегрировать собственные системы и видеть ключевые метрики в одном месте, что значительно упростит управление проектами.
+
+⭐ 74,789
+💻 TypeScript
+🏷 `typescript` `alerting` `analytics` `business-intelligence` `dashboard` `data-visualization`
+📅 2026-06-26
+🔗 [GitHub](https://github.com/grafana/grafana)
+📢 [Telegram Post](https://t.me/github_trendovoe/174)
+
+### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+
+🔄 CasaOS — легкая персональная облачная система на Go. Поддерживает 100+ типов устройств в одном месте, автоматически управляя ими без необходимости в настройках. Помогает разработчикам и DevOps-персонал эффективнее работать с домашней инфраструктурой, без отказа от безопасности. Идеален для тех, кто хочет управление дома легко и просто. 💡 Отличие: CasaOS использует блокчейн для обмена транзакциями между устройствами, обеспечивая повышенную безопасность и непрерывность сервисов даже при сбоях.
+
+⭐ 34,833
+💻 Go
+🏷 `go` `casaos` `docker` `golang` `home-automation` `home-cloud`
+📅 2026-06-26
+🔗 [GitHub](https://github.com/IceWhaleTech/CasaOS)
+📢 [Telegram Post](https://t.me/github_trendovoe/168)
 
 ### [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 

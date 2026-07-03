@@ -2,7 +2,33 @@
 
 [← Назад](../README.md)
 
-**1 репозиториев**
+**3 репозиториев**
+
+### [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)
+
+💥 张雪峰.skill — инструмент для студентов и молодых специалистов. Он помогает с高考志愿、考研以及职业规划，提供实战思维框架。张雪峰.skill由女娲.skill生成。
+
+解决了什么问题：解决了考生和学生在填报志愿、准备考试及未来职业选择时的困惑与压力，提供了一个系统的解决方案。
+
+给谁带来好处：帮助学生更好地理解自己的兴趣和目标，做出更明智的选择。适合所有希望提高高考和考研成功率的学生，以及正在规划职业生涯发展的个人或团队。
+
+独特之处：张雪峰.skill采用女娲技能生成的先进AI技术，不仅提供了详细的思维导图和策略建议，还能根据用户的输入进行个性化定制，确保用户获得最适合自己的规划方案。
+
+⭐ 9,234
+📅 2026-06-26
+🔗 [GitHub](https://github.com/alchaincyf/zhangxuefeng-skill)
+📢 [Telegram Post](https://t.me/github_trendovoe/176)
+
+### [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+
+
+
+⭐ 30,033
+💻 Batchfile
+🏷 `batchfile`
+📅 2026-06-25
+🔗 [GitHub](https://github.com/Flowseal/zapret-discord-youtube)
+📢 [Telegram Post](https://t.me/github_trendovoe/161)
 
 ### [skills](https://github.com/mattpocock/skills)
 

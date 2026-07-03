@@ -641,5 +641,792 @@
     "stars": 17306,
     "language": "TypeScript",
     "featured_at": "2026-06-25"
+  },
+  {
+    "full_name": "Flowseal/zapret-discord-youtube",
+    "name": "zapret-discord-youtube",
+    "category": "Other",
+    "tags": [
+      "batchfile"
+    ],
+    "stars": 30033,
+    "language": "Batchfile",
+    "featured_at": "2026-06-25"
+  },
+  {
+    "full_name": "kunchenguid/no-mistakes",
+    "name": "no-mistakes",
+    "category": "DevTools",
+    "tags": [
+      "go"
+    ],
+    "stars": 2400,
+    "language": "Go",
+    "featured_at": "2026-06-25"
+  },
+  {
+    "full_name": "xbtlin/ai-berkshire",
+    "name": "ai-berkshire",
+    "category": "AI",
+    "tags": [
+      "python",
+      "ai",
+      "ai-agent",
+      "anthropic",
+      "berkshire-hathaway",
+      "charlie-munger"
+    ],
+    "stars": 1554,
+    "language": "Python",
+    "featured_at": "2026-06-25"
+  },
+  {
+    "full_name": "mauriceboe/TREK",
+    "name": "TREK",
+    "category": "Self-Hosted",
+    "tags": [
+      "typescript",
+      "budget-tracker",
+      "collaborative",
+      "open-source",
+      "opensource",
+      "packing-list"
+    ],
+    "stars": 6326,
+    "language": "TypeScript",
+    "featured_at": "2026-06-25"
+  },
+  {
+    "full_name": "aws/agent-toolkit-for-aws",
+    "name": "agent-toolkit-for-aws",
+    "category": "AI Agents",
+    "tags": [
+      "python"
+    ],
+    "stars": 1080,
+    "language": "Python",
+    "featured_at": "2026-06-25"
+  },
+  {
+    "full_name": "every-app/open-seo",
+    "name": "open-seo",
+    "category": "MCP",
+    "tags": [
+      "typescript",
+      "backlink-analysis",
+      "google-search-console-mcp",
+      "keyword-research",
+      "mcp",
+      "seo"
+    ],
+    "stars": 2420,
+    "language": "TypeScript",
+    "featured_at": "2026-06-25"
+  },
+  {
+    "full_name": "alibaba/page-agent",
+    "name": "page-agent",
+    "category": "Web Development",
+    "tags": [
+      "typescript",
+      "agent",
+      "ai",
+      "ai-agents",
+      "browser-automation",
+      "javascript"
+    ],
+    "stars": 19772,
+    "language": "TypeScript",
+    "featured_at": "2026-06-25"
+  },
+  {
+    "full_name": "IceWhaleTech/CasaOS",
+    "name": "CasaOS",
+    "category": "DevOps",
+    "tags": [
+      "go",
+      "casaos",
+      "docker",
+      "golang",
+      "home-automation",
+      "home-cloud"
+    ],
+    "stars": 34833,
+    "language": "Go",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "full_name": "opendatalab/MinerU",
+    "name": "MinerU",
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "ai4science",
+      "document-analysis",
+      "docx",
+      "extract-data",
+      "layout-analysis"
+    ],
+    "stars": 69715,
+    "language": "Python",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "full_name": "Free-TV/IPTV",
+    "name": "IPTV",
+    "category": "Education",
+    "tags": [
+      "python",
+      "help-wanted",
+      "looking-for-contributors"
+    ],
+    "stars": 18301,
+    "language": "Python",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "full_name": "NanmiCoder/MediaCrawler",
+    "name": "MediaCrawler",
+    "category": "Automation",
+    "tags": [
+      "python"
+    ],
+    "stars": 53116,
+    "language": "Python",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "full_name": "simplex-chat/simplex-chat",
+    "name": "simplex-chat",
+    "category": "Cybersecurity",
+    "tags": [
+      "haskell",
+      "chat",
+      "double-ratchet",
+      "e2ee",
+      "encryption"
+    ],
+    "stars": 11687,
+    "language": "Haskell",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "full_name": "commaai/openpilot",
+    "name": "openpilot",
+    "category": "DevTools",
+    "tags": [
+      "python",
+      "advanced-driver-assistance-systems",
+      "driver-assistance-systems",
+      "robotics"
+    ],
+    "stars": 61645,
+    "language": "Python",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "full_name": "grafana/grafana",
+    "name": "grafana",
+    "category": "DevOps",
+    "tags": [
+      "typescript",
+      "alerting",
+      "analytics",
+      "business-intelligence",
+      "dashboard",
+      "data-visualization"
+    ],
+    "stars": 74789,
+    "language": "TypeScript",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "full_name": "ripienaar/free-for-dev",
+    "name": "free-for-dev",
+    "category": "Education",
+    "tags": [
+      "html",
+      "awesome-list",
+      "free-for-developers"
+    ],
+    "stars": 123644,
+    "language": "HTML",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "full_name": "alchaincyf/zhangxuefeng-skill",
+    "name": "zhangxuefeng-skill",
+    "category": "Other",
+    "tags": [],
+    "stars": 9234,
+    "language": "",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "full_name": "Panniantong/Agent-Reach",
+    "name": "Agent-Reach",
+    "category": "DevTools",
+    "tags": [
+      "python",
+      "agent-infrastructure",
+      "ai-agent",
+      "ai-search",
+      "automation",
+      "bilibili"
+    ],
+    "stars": 42315,
+    "language": "Python",
+    "featured_at": "2026-06-26"
+  },
+  {
+    "full_name": "microsoft/PowerToys",
+    "name": "PowerToys",
+    "category": "Education",
+    "tags": [
+      "c",
+      "advanced-paste",
+      "color-picker",
+      "command-palette",
+      "desktop",
+      "fancyzones"
+    ],
+    "stars": 135593,
+    "language": "C",
+    "featured_at": "2026-06-27"
+  },
+  {
+    "full_name": "hugohe3/ppt-master",
+    "name": "ppt-master",
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "ai-agent",
+      "aippt",
+      "office",
+      "powerpoint",
+      "powerpoint-generation"
+    ],
+    "stars": 32778,
+    "language": "Python",
+    "featured_at": "2026-06-27"
+  },
+  {
+    "full_name": "Anil-matcha/Open-Generative-AI",
+    "name": "Open-Generative-AI",
+    "category": "Web Development",
+    "tags": [
+      "javascript",
+      "ai-art-generator",
+      "ai-image-generation",
+      "ai-video-generation",
+      "creative-tools",
+      "flux"
+    ],
+    "stars": 21273,
+    "language": "JavaScript",
+    "featured_at": "2026-06-27"
+  },
+  {
+    "full_name": "dbt-labs/dbt-core",
+    "name": "dbt-core",
+    "category": "Data Science",
+    "tags": [
+      "rust",
+      "analytics",
+      "business-intelligence",
+      "data-modeling",
+      "dbt-viewpoint",
+      "elt"
+    ],
+    "stars": 13181,
+    "language": "Rust",
+    "featured_at": "2026-06-27"
+  },
+  {
+    "full_name": "luongnv89/claude-howto",
+    "name": "claude-howto",
+    "category": "Education",
+    "tags": [
+      "python",
+      "claude-code",
+      "guide",
+      "tutorial"
+    ],
+    "stars": 38593,
+    "language": "Python",
+    "featured_at": "2026-06-27"
+  },
+  {
+    "full_name": "anomalyco/opencode",
+    "name": "opencode",
+    "category": "AI Agents",
+    "tags": [
+      "typescript"
+    ],
+    "stars": 179752,
+    "language": "TypeScript",
+    "featured_at": "2026-06-28"
+  },
+  {
+    "full_name": "Fission-AI/OpenSpec",
+    "name": "OpenSpec",
+    "category": "AI",
+    "tags": [
+      "typescript",
+      "ai",
+      "context-engineering",
+      "engineering",
+      "planning",
+      "prd"
+    ],
+    "stars": 57172,
+    "language": "TypeScript",
+    "featured_at": "2026-06-28"
+  },
+  {
+    "full_name": "HKUDS/Vibe-Trading",
+    "name": "Vibe-Trading",
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "ai-agent",
+      "algorithmic-trading",
+      "backtesting",
+      "fintech",
+      "llm"
+    ],
+    "stars": 13815,
+    "language": "Python",
+    "featured_at": "2026-06-28"
+  },
+  {
+    "full_name": "keycloak/keycloak",
+    "name": "keycloak",
+    "category": "DevTools",
+    "tags": [
+      "java",
+      "keycloak",
+      "oidc",
+      "saml"
+    ],
+    "stars": 35361,
+    "language": "Java",
+    "featured_at": "2026-06-28"
+  },
+  {
+    "full_name": "msitarzewski/agency-agents",
+    "name": "agency-agents",
+    "category": "AI Agents",
+    "tags": [
+      "shell"
+    ],
+    "stars": 119460,
+    "language": "Shell",
+    "featured_at": "2026-06-30"
+  },
+  {
+    "full_name": "cupy/cupy",
+    "name": "cupy",
+    "category": "DevTools",
+    "tags": [
+      "python",
+      "cublas",
+      "cuda",
+      "cudnn",
+      "cupy",
+      "curand"
+    ],
+    "stars": 11944,
+    "language": "Python",
+    "featured_at": "2026-06-30"
+  },
+  {
+    "full_name": "usestrix/strix",
+    "name": "strix",
+    "category": "Cybersecurity",
+    "tags": [
+      "python",
+      "agents",
+      "ai-hacking",
+      "ai-penetration-testing",
+      "ai-pentesting",
+      "ai-security"
+    ],
+    "stars": 27565,
+    "language": "Python",
+    "featured_at": "2026-06-30"
+  },
+  {
+    "full_name": "altic-dev/FluidVoice",
+    "name": "FluidVoice",
+    "category": "Self-Hosted",
+    "tags": [
+      "swift"
+    ],
+    "stars": 4738,
+    "language": "Swift",
+    "featured_at": "2026-06-30"
+  },
+  {
+    "full_name": "diegosouzapw/OmniRoute",
+    "name": "OmniRoute",
+    "category": "MCP",
+    "tags": [
+      "typescript",
+      "a2a",
+      "ai-agents",
+      "ai-gateway",
+      "anthropic",
+      "claude"
+    ],
+    "stars": 8297,
+    "language": "TypeScript",
+    "featured_at": "2026-06-30"
+  },
+  {
+    "full_name": "hasaneyldrm/exercises-dataset",
+    "name": "exercises-dataset",
+    "category": "Data Science",
+    "tags": [
+      "html",
+      "excercises",
+      "fitness",
+      "fitness-app"
+    ],
+    "stars": 6191,
+    "language": "HTML",
+    "featured_at": "2026-06-30"
+  },
+  {
+    "full_name": "browser-use/video-use",
+    "name": "video-use",
+    "category": "AI Agents",
+    "tags": [
+      "python"
+    ],
+    "stars": 12530,
+    "language": "Python",
+    "featured_at": "2026-06-30"
+  },
+  {
+    "full_name": "Mebus/cupp",
+    "name": "cupp",
+    "category": "Education",
+    "tags": [
+      "python",
+      "dictionary-attack",
+      "password",
+      "password-strength",
+      "weak-passwords",
+      "wordlist"
+    ],
+    "stars": 6095,
+    "language": "Python",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "full_name": "google/agents-cli",
+    "name": "agents-cli",
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "adk",
+      "agent-development-kit",
+      "agents",
+      "coding-agent",
+      "gemini"
+    ],
+    "stars": 4257,
+    "language": "Python",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "full_name": "roboflow/supervision",
+    "name": "supervision",
+    "category": "AI",
+    "tags": [
+      "python",
+      "classification",
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "hacktoberfest"
+    ],
+    "stars": 45992,
+    "language": "Python",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "full_name": "ogulcancelik/herdr",
+    "name": "herdr",
+    "category": "DevTools",
+    "tags": [
+      "rust",
+      "agent",
+      "agent-orchestration",
+      "ai",
+      "ai-agents",
+      "claude-code"
+    ],
+    "stars": 9198,
+    "language": "Rust",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "full_name": "CoreBunch/Instatic",
+    "name": "Instatic",
+    "category": "Web Development",
+    "tags": [
+      "typescript",
+      "cms",
+      "css",
+      "css-framework",
+      "page-builder",
+      "static"
+    ],
+    "stars": 1748,
+    "language": "TypeScript",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "full_name": "facebook/astryx",
+    "name": "astryx",
+    "category": "AI Agents",
+    "tags": [
+      "typescript"
+    ],
+    "stars": 2151,
+    "language": "TypeScript",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "full_name": "allenai/olmocr",
+    "name": "olmocr",
+    "category": "Data Science",
+    "tags": [
+      "python"
+    ],
+    "stars": 18136,
+    "language": "Python",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "full_name": "logto-io/logto",
+    "name": "logto",
+    "category": "Web Development",
+    "tags": [
+      "typescript",
+      "authentication",
+      "authorization",
+      "email",
+      "identity",
+      "jwt"
+    ],
+    "stars": 13162,
+    "language": "TypeScript",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "full_name": "togatoga/karukan",
+    "name": "karukan",
+    "category": "AI",
+    "tags": [
+      "rust",
+      "fcitx5",
+      "ime",
+      "input-method",
+      "inputmethod",
+      "japanese"
+    ],
+    "stars": 561,
+    "language": "Rust",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "full_name": "Unclecheng-li/VulnClaw",
+    "name": "VulnClaw",
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "ai",
+      "ai-agent",
+      "ai-tools",
+      "ctf",
+      "cybersecurity"
+    ],
+    "stars": 1557,
+    "language": "Python",
+    "featured_at": "2026-07-01"
+  },
+  {
+    "full_name": "microsoft/AI-For-Beginners",
+    "name": "AI-For-Beginners",
+    "category": "AI",
+    "tags": [
+      "jupyter notebook",
+      "ai",
+      "artificial-intelligence",
+      "cnn",
+      "computer-vision",
+      "deep-learning"
+    ],
+    "stars": 50471,
+    "language": "Jupyter Notebook",
+    "featured_at": "2026-07-02"
+  },
+  {
+    "full_name": "refactoringhq/tolaria",
+    "name": "tolaria",
+    "category": "Web Development",
+    "tags": [
+      "typescript"
+    ],
+    "stars": 18061,
+    "language": "TypeScript",
+    "featured_at": "2026-07-02"
+  },
+  {
+    "full_name": "0xNyk/council-of-high-intelligence",
+    "name": "council-of-high-intelligence",
+    "category": "AI Agents",
+    "tags": [
+      "shell",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "decision-making",
+      "deliberation"
+    ],
+    "stars": 2770,
+    "language": "Shell",
+    "featured_at": "2026-07-02"
+  },
+  {
+    "full_name": "TencentCloud/CubeSandbox",
+    "name": "CubeSandbox",
+    "category": "AI Agents",
+    "tags": [
+      "rust",
+      "agents",
+      "container",
+      "sandbox"
+    ],
+    "stars": 6955,
+    "language": "Rust",
+    "featured_at": "2026-07-02"
+  },
+  {
+    "full_name": "JuliusBrussee/caveman",
+    "name": "caveman",
+    "category": "AI",
+    "tags": [
+      "javascript",
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code"
+    ],
+    "stars": 79451,
+    "language": "JavaScript",
+    "featured_at": "2026-07-02"
+  },
+  {
+    "full_name": "santifer/career-ops",
+    "name": "career-ops",
+    "category": "AI Agents",
+    "tags": [
+      "javascript",
+      "ai-agent",
+      "anthropic",
+      "automation",
+      "beginner-friendly",
+      "career"
+    ],
+    "stars": 57418,
+    "language": "JavaScript",
+    "featured_at": "2026-07-02"
+  },
+  {
+    "full_name": "ChromeDevTools/chrome-devtools-mcp",
+    "name": "chrome-devtools-mcp",
+    "category": "MCP",
+    "tags": [
+      "typescript",
+      "browser",
+      "chrome",
+      "chrome-devtools",
+      "debugging",
+      "devtools"
+    ],
+    "stars": 45010,
+    "language": "TypeScript",
+    "featured_at": "2026-07-02"
+  },
+  {
+    "full_name": "actions/checkout",
+    "name": "checkout",
+    "category": "Web Development",
+    "tags": [
+      "typescript"
+    ],
+    "stars": 8130,
+    "language": "TypeScript",
+    "featured_at": "2026-07-02"
+  },
+  {
+    "full_name": "agentskills/agentskills",
+    "name": "agentskills",
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "agent-skills"
+    ],
+    "stars": 21563,
+    "language": "Python",
+    "featured_at": "2026-07-02"
+  },
+  {
+    "full_name": "openai/codex-plugin-cc",
+    "name": "codex-plugin-cc",
+    "category": "Web Development",
+    "tags": [
+      "javascript"
+    ],
+    "stars": 22610,
+    "language": "JavaScript",
+    "featured_at": "2026-07-03"
+  },
+  {
+    "full_name": "langflow-ai/langflow",
+    "name": "langflow",
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "agents",
+      "chatgpt",
+      "generative-ai",
+      "large-language-models",
+      "multiagent"
+    ],
+    "stars": 150780,
+    "language": "Python",
+    "featured_at": "2026-07-03"
+  },
+  {
+    "full_name": "pytorch/pytorch",
+    "name": "pytorch",
+    "category": "AI",
+    "tags": [
+      "python",
+      "autograd",
+      "deep-learning",
+      "gpu",
+      "machine-learning",
+      "neural-network"
+    ],
+    "stars": 101270,
+    "language": "Python",
+    "featured_at": "2026-07-03"
   }
 ]
