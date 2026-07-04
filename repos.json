@@ -1861,5 +1861,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/223",
     "featured_at": "2026-07-04"
+  },
+  {
+    "name": "supabase",
+    "full_name": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "description": "🛠 Supabase: Быстрая и простая база данных Postgres для веб- и мобильных приложений. Поддерживает 100+ синтаксисов SQL и API маршрутизацию. Используйте его, чтобы быстро создавать инновационные решения для разработчиков и команд DevOps без необходимости в самостоятельной настройке базы данных. 💡",
+    "language": "TypeScript",
+    "stars": 105507,
+    "category": "AI",
+    "tags": [
+      "typescript",
+      "ai",
+      "alternative",
+      "auth",
+      "database",
+      "deno"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/224",
+    "featured_at": "2026-07-04"
   }
 ]

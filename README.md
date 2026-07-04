@@ -6,12 +6,12 @@
 
 ---
 
-**106 репозиториев** в каталоге
+**107 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (24)
-- [AI](categories/ai.md) (18)
+- [AI](categories/ai.md) (19)
 - [Web Development](categories/web-development.md) (14)
 - [DevTools](categories/devtools.md) (10)
 - [Education](categories/education.md) (7)
@@ -156,6 +156,17 @@ Langflow поддерживает создание рабочих процесс
 
 ## AI
 
+### [supabase](https://github.com/supabase/supabase)
+
+🛠 Supabase: Быстрая и простая база данных Postgres для веб- и мобильных приложений. Поддерживает 100+ синтаксисов SQL и API маршрутизацию. Используйте его, чтобы быстро создавать инновационные решения для разработчиков и команд DevOps без необходимости в самостоятельной настройке базы данных. 💡
+
+⭐ 105,507
+💻 TypeScript
+🏷 `typescript` `ai` `alternative` `auth` `database` `deno`
+📅 2026-07-04
+🔗 [GitHub](https://github.com/supabase/supabase)
+📢 [Telegram Post](https://t.me/github_trendovoe/224)
+
 ### [cs249r_book](https://github.com/harvard-edge/cs249r_book)
 
 🎓 Публикация курсовой работы с учебником по CS249R (Computer Systems). Совершенно бесплатно и в расширенном формате. Задачи учеников упрощены, а сложности повышены, чтобы подготовить студентов к реальным проектам. Команда: преподаватели от Harvard.
@@ -297,23 +308,6 @@ Langflow поддерживает создание рабочих процесс
 📅 2026-06-23
 🔗 [GitHub](https://github.com/NousResearch/hermes-agent)
 📢 [Telegram Post](https://t.me/github_trendovoe/153)
-
-### [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
-
-🔧 Императивный кросс-платформенный код, от вайб-кодирования до агентной инженерии — практика делает Клода идеальным.
-
-🛠️ Claude Code Best Practice охватывает весь процесс разработки от простых форматирований до создания автономных AI-агентов. Позволяет использовать Claude для автоматизации и оптимизации процессов в команде, что помогает ускорить разработку, минимизировать ошибки и сделать процессы более эффективными.
-
-🚀 Ключевая фича — поддержка десятков различных форматирований кода и инструментов, что позволяет работать с различными языками программирования и технологиями одновременно. Это удобно для разработчиков, DevOps-менеджеров и data-инженеров.
-
-✅ Этот проект идеален для тех, кто хочет использовать Claude на практике, автоматизировать процессы разработки и ускорить внедрение инновационных решений. К тому же, он позволяет начать с простых задач и逐步扩展到更复杂的项目管理场景。
-
-⭐ 59,189
-💻 HTML
-🏷 `html` `agentic-ai` `agentic-coding` `agentic-engineering` `agentic-workflow` `ai`
-📅 2026-06-23
-🔗 [GitHub](https://github.com/shanraisshan/claude-code-best-practice)
-📢 [Telegram Post](https://t.me/github_trendovoe/151)
 
 ## Web Development
 

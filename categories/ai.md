@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**18 репозиториев**
+**19 репозиториев**
+
+### [supabase](https://github.com/supabase/supabase)
+
+🛠 Supabase: Быстрая и простая база данных Postgres для веб- и мобильных приложений. Поддерживает 100+ синтаксисов SQL и API маршрутизацию. Используйте его, чтобы быстро создавать инновационные решения для разработчиков и команд DevOps без необходимости в самостоятельной настройке базы данных. 💡
+
+⭐ 105,507
+💻 TypeScript
+🏷 `typescript` `ai` `alternative` `auth` `database` `deno`
+📅 2026-07-04
+🔗 [GitHub](https://github.com/supabase/supabase)
+📢 [Telegram Post](https://t.me/github_trendovoe/224)
 
 ### [cs249r_book](https://github.com/harvard-edge/cs249r_book)
 
