@@ -1559,5 +1559,21 @@
     "stars": 105507,
     "language": "TypeScript",
     "featured_at": "2026-07-04"
+  },
+  {
+    "full_name": "Zackriya-Solutions/meetily",
+    "name": "meetily",
+    "category": "AI",
+    "tags": [
+      "rust",
+      "ai",
+      "ai-meeting-assistant",
+      "llm",
+      "local-ai",
+      "mac"
+    ],
+    "stars": 14517,
+    "language": "Rust",
+    "featured_at": "2026-07-04"
   }
 ]

@@ -1880,5 +1880,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/224",
     "featured_at": "2026-07-04"
+  },
+  {
+    "name": "meetily",
+    "full_name": "Zackriya-Solutions/meetily",
+    "url": "https://github.com/Zackriya-Solutions/meetily",
+    "description": "🤖 Открытый исходный код автономного AI помощника для совещаний на основе Rust. Продуманная структура позволяет собирать заметки и обобщать информацию в режиме реального времени с использованием моделей LLM. Встроенные алгоритмы автоматически транскрибируют доклады, а система поддерживает 100% местную обработку данных — без необходимости использования облачных сервисов. Perfect для тех, кто ценит конфиденциальность и управление своей инфраструктурой. 🌟",
+    "language": "Rust",
+    "stars": 14517,
+    "category": "AI",
+    "tags": [
+      "rust",
+      "ai",
+      "ai-meeting-assistant",
+      "llm",
+      "local-ai",
+      "mac"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/225",
+    "featured_at": "2026-07-04"
   }
 ]
