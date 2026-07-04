@@ -1619,5 +1619,21 @@
     "stars": 973,
     "language": "TypeScript",
     "featured_at": "2026-07-04"
+  },
+  {
+    "full_name": "CoplayDev/unity-mcp",
+    "name": "unity-mcp",
+    "category": "MCP",
+    "tags": [
+      "c#",
+      "ai",
+      "ai-integration",
+      "anthropic",
+      "claude",
+      "copilot"
+    ],
+    "stars": 11572,
+    "language": "C#",
+    "featured_at": "2026-07-04"
   }
 ]

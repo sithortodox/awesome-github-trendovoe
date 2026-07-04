@@ -1952,5 +1952,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/228",
     "featured_at": "2026-07-04"
+  },
+  {
+    "name": "unity-mcp",
+    "full_name": "CoplayDev/unity-mcp",
+    "url": "https://github.com/CoplayDev/unity-mcp",
+    "description": "着手🚀 CoplayDev/unity-mcp теперь позволяет легко интегрировать ваш редактор Unity с любыми ИИ помощниками без дополнительных кастомных инструментов. Теперь ваши LLM (LLM - Large Language Model) могут не только отвечать на вопросы и создавать текст, но и управлять активами, сценами и даже автоматизировать процессы в Unity прямо из браузера! Это делает разработку более удобной и повышает скорость проектирования. Такой подход особенно полезен для команд, работающих над автономными системами или проектами с большим объемом данных. Отличается от конкурентов тем, что сразу поддерживает интеграцию с различными LLM без дополнительных усилий.",
+    "language": "C#",
+    "stars": 11572,
+    "category": "MCP",
+    "tags": [
+      "c#",
+      "ai",
+      "ai-integration",
+      "anthropic",
+      "claude",
+      "copilot"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/229",
+    "featured_at": "2026-07-04"
   }
 ]
