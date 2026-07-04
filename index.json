@@ -1575,5 +1575,17 @@
     "stars": 14517,
     "language": "Rust",
     "featured_at": "2026-07-04"
+  },
+  {
+    "full_name": "dotnet/skills",
+    "name": "skills",
+    "category": "AI Agents",
+    "tags": [
+      "c#",
+      "agent-skills"
+    ],
+    "stars": 3714,
+    "language": "C#",
+    "featured_at": "2026-07-04"
   }
 ]

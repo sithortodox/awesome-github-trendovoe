@@ -6,11 +6,11 @@
 
 ---
 
-**108 репозиториев** в каталоге
+**109 репозиториев** в каталоге
 
 ## Категории
 
-- [AI Agents](categories/agents.md) (24)
+- [AI Agents](categories/agents.md) (25)
 - [AI](categories/ai.md) (20)
 - [Web Development](categories/web-development.md) (14)
 - [DevTools](categories/devtools.md) (10)
@@ -25,6 +25,19 @@
 - [Automation](categories/automation.md) (2)
 
 ## AI Agents
+
+### [skills](https://github.com/dotnet/skills)
+
+🤖 Dotnet/skills — это набор навыков для агентов искусственного интеллекта, созданных на основе .NET и C#. Он позволяет программистам легко интегрировать эти навыки в AI-агенты, автоматизируя процесс обучения и управления агентами. Этот проект особенно полезен для разработчиков ИИ и DevOps, которые стремятся создавать эффективные системы с управляемыми действиями — от анализа данных до взаимодействия с базами данных. 🚀
+
+Проект выделяется наличием более 50 навыков, поддерживающих различные функции, что позволяет создавать агентов с широкими возможностями для автоматизации и интеграции в существующие системы.
+
+⭐ 3,714
+💻 C#
+🏷 `c#` `agent-skills`
+📅 2026-07-04
+🔗 [GitHub](https://github.com/dotnet/skills)
+📢 [Telegram Post](https://t.me/github_trendovoe/226)
 
 ### [langflow](https://github.com/langflow-ai/langflow)
 
@@ -142,17 +155,6 @@ Langflow поддерживает создание рабочих процесс
 📅 2026-06-30
 🔗 [GitHub](https://github.com/browser-use/video-use)
 📢 [Telegram Post](https://t.me/github_trendovoe/193)
-
-### [agency-agents](https://github.com/msitarzewski/agency-agents)
-
-🤖 Полное агентство искусственного интеллекта под рукой — от волшебников внешнего интерфейса до ниндзя сообщества Reddit, от причудливых инжекторов до специалистов по проверке реальности. Каждый агент — это уникальный, гибкий и обучаемый AI-сообщество для автоматизации задач в разработке программного обеспечения, управления инфраструктурой и анализа данных. Подходит для тех, кто хочет не просто автоматизировать процессы, но и управлять целыми армиями интеллектуальных помощников.
-
-⭐ 119,460
-💻 Shell
-🏷 `shell`
-📅 2026-06-30
-🔗 [GitHub](https://github.com/msitarzewski/agency-agents)
-📢 [Telegram Post](https://t.me/github_trendovoe/187)
 
 ## AI
 
