@@ -6,13 +6,13 @@
 
 ---
 
-**110 репозиториев** в каталоге
+**111 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (25)
 - [AI](categories/ai.md) (20)
-- [Web Development](categories/web-development.md) (15)
+- [Web Development](categories/web-development.md) (16)
 - [DevTools](categories/devtools.md) (10)
 - [Education](categories/education.md) (7)
 - [MCP](categories/mcp.md) (6)
@@ -306,6 +306,17 @@ Langflow поддерживает создание рабочих процесс
 
 ## Web Development
 
+### [folia-major](https://github.com/chthollyphile/folia-major)
+
+🎵 🚀 folia-major - новый музыкальный клиент на TypeScript с шикарными анимированными текстовыми плейлистами для Navidrome и сторонних сервисов. Поддерживает 100+ форматов файлов, включая WAV, FLAC и APEv2. Уникальная функция - создание анимированных текстовых плейлистов прямо внутри приложения без необходимости установки дополнительных плагинов или сторонних сервисов. Анимация встроена непосредственно в folia-major, что позволяет пользователю видеть изменения темпа музыки на месте прослушивания. Отличное решение для тех, кто ценит красоту и удобство использования Navidrome с анимацией текста.
+
+⭐ 973
+💻 TypeScript
+🏷 `typescript` `ai` `music` `music-player` `navidrome-client` `netease-music`
+📅 2026-07-04
+🔗 [GitHub](https://github.com/chthollyphile/folia-major)
+📢 [Telegram Post](https://t.me/github_trendovoe/228)
+
 ### [immich](https://github.com/immich-app/immich)
 
 🛠 Высокопроизводительный автономный инструмент управления фотографиями и видео с поддержкой нескольких облачных хранений, включая Google Photos. 🚀 Позволяет автоматически резервировать данные для восстановления при необходимости, независимо от используемого сервиса. Подходит для разработчиков мобильных приложений и инженеров, работающих с данными на серверах, кто хочет минимизировать ручные процессы в управлении медиаконтентом. 🎯 Проект выделяется благодаря своей универсальности и автономному функционированию вне зависимости от конкретного хранилища данных — это гарантия стабильности и надежности для всех типов проектов, работающих с медиа.
@@ -416,17 +427,6 @@ Langflow поддерживает создание рабочих процесс
 📅 2026-06-27
 🔗 [GitHub](https://github.com/Anil-matcha/Open-Generative-AI)
 📢 [Telegram Post](https://t.me/github_trendovoe/180)
-
-### [page-agent](https://github.com/alibaba/page-agent)
-
-🔥 Agent для управления веб-интерфейсами на основе AI. Автоматически анализирует страницы и выполняет задачи с использованием естественного языка. Отличие от конкурентов - интеграция с Alibaba Cloud, что позволяет использовать мощные сервисы для ускорения процесса анализа и управления. Подходит для разработчиков, которые хотят сделать автоматизацию более эффективной и гибкой.
-
-⭐ 19,772
-💻 TypeScript
-🏷 `typescript` `agent` `ai` `ai-agents` `browser-automation` `javascript`
-📅 2026-06-25
-🔗 [GitHub](https://github.com/alibaba/page-agent)
-📢 [Telegram Post](https://t.me/github_trendovoe/167)
 
 ## DevTools
 

@@ -1933,5 +1933,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/227",
     "featured_at": "2026-07-04"
+  },
+  {
+    "name": "folia-major",
+    "full_name": "chthollyphile/folia-major",
+    "url": "https://github.com/chthollyphile/folia-major",
+    "description": "🎵 🚀 folia-major - новый музыкальный клиент на TypeScript с шикарными анимированными текстовыми плейлистами для Navidrome и сторонних сервисов. Поддерживает 100+ форматов файлов, включая WAV, FLAC и APEv2. Уникальная функция - создание анимированных текстовых плейлистов прямо внутри приложения без необходимости установки дополнительных плагинов или сторонних сервисов. Анимация встроена непосредственно в folia-major, что позволяет пользователю видеть изменения темпа музыки на месте прослушивания. Отличное решение для тех, кто ценит красоту и удобство использования Navidrome с анимацией текста.",
+    "language": "TypeScript",
+    "stars": 973,
+    "category": "Web Development",
+    "tags": [
+      "typescript",
+      "ai",
+      "music",
+      "music-player",
+      "navidrome-client",
+      "netease-music"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/228",
+    "featured_at": "2026-07-04"
   }
 ]
