@@ -6,13 +6,13 @@
 
 ---
 
-**109 репозиториев** в каталоге
+**110 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (25)
 - [AI](categories/ai.md) (20)
-- [Web Development](categories/web-development.md) (14)
+- [Web Development](categories/web-development.md) (15)
 - [DevTools](categories/devtools.md) (10)
 - [Education](categories/education.md) (7)
 - [MCP](categories/mcp.md) (6)
@@ -306,6 +306,17 @@ Langflow поддерживает создание рабочих процесс
 
 ## Web Development
 
+### [immich](https://github.com/immich-app/immich)
+
+🛠 Высокопроизводительный автономный инструмент управления фотографиями и видео с поддержкой нескольких облачных хранений, включая Google Photos. 🚀 Позволяет автоматически резервировать данные для восстановления при необходимости, независимо от используемого сервиса. Подходит для разработчиков мобильных приложений и инженеров, работающих с данными на серверах, кто хочет минимизировать ручные процессы в управлении медиаконтентом. 🎯 Проект выделяется благодаря своей универсальности и автономному функционированию вне зависимости от конкретного хранилища данных — это гарантия стабильности и надежности для всех типов проектов, работающих с медиа.
+
+⭐ 105,507
+💻 TypeScript
+🏷 `typescript` `backup-tool` `flutter` `google-photos` `google-photos-alternative` `javascript`
+📅 2026-07-04
+🔗 [GitHub](https://github.com/immich-app/immich)
+📢 [Telegram Post](https://t.me/github_trendovoe/227)
+
 ### [elasticsearch](https://github.com/elastic/elasticsearch)
 
 🔍 Быстрая индексация миллиона записей за минуту с поддержкой 100+ типов данных благодаря инновационной системе парсинга Elasticsearch. Позволяет разработчикам, DevOps-менеджерам и data-инженерам быстро настроить и масштабировать поиск для огромных баз данных — от аналитики до веб-приложений. 🚀
@@ -416,17 +427,6 @@ Langflow поддерживает создание рабочих процесс
 📅 2026-06-25
 🔗 [GitHub](https://github.com/alibaba/page-agent)
 📢 [Telegram Post](https://t.me/github_trendovoe/167)
-
-### [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
-
-🎯 Клонируйте любой веб-сайт одним щелчком кнопки с помощью инновационного AI-плагина JCodesMore/ai-website-cloner-template. Этот инструмент автоматически анализирует исходный код и создает точную копию сайта, подключая все необходимые стилизации и встраиваемые скрипты. Подходит для разработчиков, которые хотят сэкономить время на ручное копирование структуры сайтов и быстро запускать новые проекты без потери качества. Более 100-ти готовых шаблонов и возможность подключения пользовательского CSS делают это решение универсальным для разного типа веб-сайтов.
-
-⭐ 17,665
-💻 TypeScript
-🏷 `typescript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
-📅 2026-06-22
-🔗 [GitHub](https://github.com/JCodesMore/ai-website-cloner-template)
-📢 [Telegram Post](https://t.me/github_trendovoe/148)
 
 ## DevTools
 

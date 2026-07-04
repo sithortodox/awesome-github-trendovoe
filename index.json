@@ -1587,5 +1587,21 @@
     "stars": 3714,
     "language": "C#",
     "featured_at": "2026-07-04"
+  },
+  {
+    "full_name": "immich-app/immich",
+    "name": "immich",
+    "category": "Web Development",
+    "tags": [
+      "typescript",
+      "backup-tool",
+      "flutter",
+      "google-photos",
+      "google-photos-alternative",
+      "javascript"
+    ],
+    "stars": 105507,
+    "language": "TypeScript",
+    "featured_at": "2026-07-04"
   }
 ]
