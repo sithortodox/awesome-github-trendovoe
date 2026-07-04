@@ -6,14 +6,14 @@
 
 ---
 
-**105 репозиториев** в каталоге
+**106 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (24)
 - [AI](categories/ai.md) (18)
 - [Web Development](categories/web-development.md) (14)
-- [DevTools](categories/devtools.md) (9)
+- [DevTools](categories/devtools.md) (10)
 - [Education](categories/education.md) (7)
 - [MCP](categories/mcp.md) (6)
 - [Cybersecurity](categories/cybersecurity.md) (5)
@@ -440,6 +440,17 @@ Langflow поддерживает создание рабочих процесс
 📢 [Telegram Post](https://t.me/github_trendovoe/148)
 
 ## DevTools
+
+### [claude-code](https://github.com/anthropics/claude-code)
+
+🛠️ Claude Code — инструмент, который выполняет рутинные задачи в терминале на естественном языке. Он понимает ваш кодовую базу и помогает быстрее кодировать, объясняет сложный код и автоматически управляет процессами Git. Это идеально подходит для разработчиков, которые хотят ускорить свои процессы программирования без необходимости писать скрипты или использовать командные строки. Разделен на простые шаги и интуитивно понятный — Claude Code избавляет от головной боли с рутиной, освобождая время для более важных задач. 🚀
+
+⭐ 135,839
+💻 Python
+🏷 `python`
+📅 2026-07-04
+🔗 [GitHub](https://github.com/anthropics/claude-code)
+📢 [Telegram Post](https://t.me/github_trendovoe/223)
 
 ### [herdr](https://github.com/ogulcancelik/herdr)
 

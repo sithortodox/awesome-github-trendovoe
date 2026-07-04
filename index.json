@@ -1532,5 +1532,16 @@
     "stars": 77023,
     "language": "Python",
     "featured_at": "2026-07-03"
+  },
+  {
+    "full_name": "anthropics/claude-code",
+    "name": "claude-code",
+    "category": "DevTools",
+    "tags": [
+      "python"
+    ],
+    "stars": 135839,
+    "language": "Python",
+    "featured_at": "2026-07-04"
   }
 ]
