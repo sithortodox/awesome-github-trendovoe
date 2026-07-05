@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**25 репозиториев**
+**26 репозиториев**
+
+### [terax-ai](https://github.com/crynta/terax-ai)
+
+🎯 crynta/terax - миниатюрная IDE с интегрированным редактором AI, специально разработанная для быстрой разработки на терминалах. Поддерживает 50+ языков программирования и автоматически генерирует код по запросу. Это отличное решение для команд разработчиков, работающих в условиях ограниченного пространства или узкого доступа к файловой системе. 🔬 🚀
+
+⭐ 8,091
+💻 TypeScript
+🏷 `typescript` `agents` `ai` `code-editor` `linux` `macos`
+📅 2026-07-05
+🔗 [GitHub](https://github.com/crynta/terax-ai)
+📢 [Telegram Post](https://t.me/github_trendovoe/231)
 
 ### [skills](https://github.com/dotnet/skills)
 

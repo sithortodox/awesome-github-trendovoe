@@ -6,11 +6,11 @@
 
 ---
 
-**113 репозиториев** в каталоге
+**114 репозиториев** в каталоге
 
 ## Категории
 
-- [AI Agents](categories/agents.md) (25)
+- [AI Agents](categories/agents.md) (26)
 - [AI](categories/ai.md) (20)
 - [Web Development](categories/web-development.md) (16)
 - [DevTools](categories/devtools.md) (11)
@@ -25,6 +25,17 @@
 - [Automation](categories/automation.md) (2)
 
 ## AI Agents
+
+### [terax-ai](https://github.com/crynta/terax-ai)
+
+🎯 crynta/terax - миниатюрная IDE с интегрированным редактором AI, специально разработанная для быстрой разработки на терминалах. Поддерживает 50+ языков программирования и автоматически генерирует код по запросу. Это отличное решение для команд разработчиков, работающих в условиях ограниченного пространства или узкого доступа к файловой системе. 🔬 🚀
+
+⭐ 8,091
+💻 TypeScript
+🏷 `typescript` `agents` `ai` `code-editor` `linux` `macos`
+📅 2026-07-05
+🔗 [GitHub](https://github.com/crynta/terax-ai)
+📢 [Telegram Post](https://t.me/github_trendovoe/231)
 
 ### [skills](https://github.com/dotnet/skills)
 
@@ -144,17 +155,6 @@ Langflow поддерживает создание рабочих процесс
 📅 2026-07-01
 🔗 [GitHub](https://github.com/google/agents-cli)
 📢 [Telegram Post](https://t.me/github_trendovoe/195)
-
-### [video-use](https://github.com/browser-use/video-use)
-
-👀 🎥 Редактируйте видео с помощью AI-агентов. Новая инструментария для веб-разработчиков и видеомонтажеров. Позволяет автоматически обработать и загрузить множество видео за один мах手。无需手动编辑，大幅提升工作效率。特别适合需要大量视频处理的项目团队，告别繁重的重复任务。🚀 browser-use/video-use: AI-driven video processing toolkit, handles 50+ common formats with lightning speed.
-
-⭐ 12,530
-💻 Python
-🏷 `python`
-📅 2026-06-30
-🔗 [GitHub](https://github.com/browser-use/video-use)
-📢 [Telegram Post](https://t.me/github_trendovoe/193)
 
 ## AI
 

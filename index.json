@@ -1651,5 +1651,21 @@
     "stars": 20169,
     "language": "Python",
     "featured_at": "2026-07-05"
+  },
+  {
+    "full_name": "crynta/terax-ai",
+    "name": "terax-ai",
+    "category": "AI Agents",
+    "tags": [
+      "typescript",
+      "agents",
+      "ai",
+      "code-editor",
+      "linux",
+      "macos"
+    ],
+    "stars": 8091,
+    "language": "TypeScript",
+    "featured_at": "2026-07-05"
   }
 ]

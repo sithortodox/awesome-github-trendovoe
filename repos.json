@@ -1990,5 +1990,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/230",
     "featured_at": "2026-07-05"
+  },
+  {
+    "name": "terax-ai",
+    "full_name": "crynta/terax-ai",
+    "url": "https://github.com/crynta/terax-ai",
+    "description": "🎯 crynta/terax - миниатюрная IDE с интегрированным редактором AI, специально разработанная для быстрой разработки на терминалах. Поддерживает 50+ языков программирования и автоматически генерирует код по запросу. Это отличное решение для команд разработчиков, работающих в условиях ограниченного пространства или узкого доступа к файловой системе. 🔬 🚀",
+    "language": "TypeScript",
+    "stars": 8091,
+    "category": "AI Agents",
+    "tags": [
+      "typescript",
+      "agents",
+      "ai",
+      "code-editor",
+      "linux",
+      "macos"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/231",
+    "featured_at": "2026-07-05"
   }
 ]
