@@ -2047,5 +2047,22 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/233",
     "featured_at": "2026-07-05"
+  },
+  {
+    "name": "marketingskills",
+    "full_name": "coreyhaines31/marketingskills",
+    "url": "https://github.com/coreyhaines31/marketingskills",
+    "description": "🎯 Маркетинговые навыки для Claude и AI-агентов. Пользователи получают доступ к CRO, копирайтингу, SEO, аналитике и инженерии роста. Эти инструменты помогут создателям чат-ботов эффективнее взаимодействовать с пользователями, что повысит конверсию и лояльность. 🚀\n\nЯвное отличие от конкурентов заключается в том, что проект поддерживает автоматическую структурированную аналитику (ASO) для отслеживания результатов маркетинговых кампаний на платформах Google и Bing. Это позволяет пользователям получать реалистичные и оперативные данные о воздействии их работ.",
+    "language": "JavaScript",
+    "stars": 36278,
+    "category": "AI Agents",
+    "tags": [
+      "javascript",
+      "claude",
+      "codex",
+      "marketing"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/234",
+    "featured_at": "2026-07-05"
   }
 ]

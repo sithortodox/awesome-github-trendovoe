@@ -1699,5 +1699,19 @@
     "stars": 48141,
     "language": "Python",
     "featured_at": "2026-07-05"
+  },
+  {
+    "full_name": "coreyhaines31/marketingskills",
+    "name": "marketingskills",
+    "category": "AI Agents",
+    "tags": [
+      "javascript",
+      "claude",
+      "codex",
+      "marketing"
+    ],
+    "stars": 36278,
+    "language": "JavaScript",
+    "featured_at": "2026-07-05"
   }
 ]
