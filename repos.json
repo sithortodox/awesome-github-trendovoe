@@ -2083,5 +2083,19 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/235",
     "featured_at": "2026-07-05"
+  },
+  {
+    "name": "gastown",
+    "full_name": "gastownhall/gastown",
+    "url": "https://github.com/gastownhall/gastown",
+    "description": "🔧 Мультиагентный менеджер рабочего пространства Gas Town - идеальный инструмент для DevOps и Data Engineers. Благодаря автономным агентам он автоматизирует задачи управления ресурсами, отслеживанием статусов до планирования работ по времени. Позволяет эффективно управлять несколькими рабочими пространствами одновременно и масштабировать инфраструктуру без переработок. 🚀",
+    "language": "Go",
+    "stars": 16342,
+    "category": "AI Agents",
+    "tags": [
+      "go"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/236",
+    "featured_at": "2026-07-05"
   }
 ]

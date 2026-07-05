@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**28 репозиториев**
+**29 репозиториев**
+
+### [gastown](https://github.com/gastownhall/gastown)
+
+🔧 Мультиагентный менеджер рабочего пространства Gas Town - идеальный инструмент для DevOps и Data Engineers. Благодаря автономным агентам он автоматизирует задачи управления ресурсами, отслеживанием статусов до планирования работ по времени. Позволяет эффективно управлять несколькими рабочими пространствами одновременно и масштабировать инфраструктуру без переработок. 🚀
+
+⭐ 16,342
+💻 Go
+🏷 `go`
+📅 2026-07-05
+🔗 [GitHub](https://github.com/gastownhall/gastown)
+📢 [Telegram Post](https://t.me/github_trendovoe/236)
 
 ### [marketingskills](https://github.com/coreyhaines31/marketingskills)
 

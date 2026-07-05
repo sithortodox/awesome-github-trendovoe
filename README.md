@@ -6,11 +6,11 @@
 
 ---
 
-**118 репозиториев** в каталоге
+**119 репозиториев** в каталоге
 
 ## Категории
 
-- [AI Agents](categories/agents.md) (28)
+- [AI Agents](categories/agents.md) (29)
 - [AI](categories/ai.md) (20)
 - [Web Development](categories/web-development.md) (17)
 - [DevTools](categories/devtools.md) (11)
@@ -25,6 +25,17 @@
 - [Automation](categories/automation.md) (2)
 
 ## AI Agents
+
+### [gastown](https://github.com/gastownhall/gastown)
+
+🔧 Мультиагентный менеджер рабочего пространства Gas Town - идеальный инструмент для DevOps и Data Engineers. Благодаря автономным агентам он автоматизирует задачи управления ресурсами, отслеживанием статусов до планирования работ по времени. Позволяет эффективно управлять несколькими рабочими пространствами одновременно и масштабировать инфраструктуру без переработок. 🚀
+
+⭐ 16,342
+💻 Go
+🏷 `go`
+📅 2026-07-05
+🔗 [GitHub](https://github.com/gastownhall/gastown)
+📢 [Telegram Post](https://t.me/github_trendovoe/236)
 
 ### [marketingskills](https://github.com/coreyhaines31/marketingskills)
 
@@ -134,17 +145,6 @@ Langflow поддерживает создание рабочих процесс
 📅 2026-07-02
 🔗 [GitHub](https://github.com/0xNyk/council-of-high-intelligence)
 📢 [Telegram Post](https://t.me/github_trendovoe/206)
-
-### [VulnClaw](https://github.com/Unclecheng-li/VulnClaw)
-
-🚨 Unclecheng-li/VulnClaw — AI-инструментарий для автоматизации процессов исследований уязвимостей и интеграции в цикл CTF. Он использует先进的AI Agent框架，结合MCP工具链和渗透测试技能，实现信息收集、漏洞发现、利用及报告生成的自动化流程。该项目显著区别于传统工具，能够自动处理复杂的安全检测任务，极大地提高了数据处理效率和安全性分析水平。🚀
-
-⭐ 1,557
-💻 Python
-🏷 `python` `ai` `ai-agent` `ai-tools` `ctf` `cybersecurity`
-📅 2026-07-01
-🔗 [GitHub](https://github.com/Unclecheng-li/VulnClaw)
-📢 [Telegram Post](https://t.me/github_trendovoe/203)
 
 ## AI
 

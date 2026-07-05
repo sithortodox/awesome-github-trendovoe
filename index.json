@@ -1729,5 +1729,16 @@
     "stars": 76629,
     "language": "Rust",
     "featured_at": "2026-07-05"
+  },
+  {
+    "full_name": "gastownhall/gastown",
+    "name": "gastown",
+    "category": "AI Agents",
+    "tags": [
+      "go"
+    ],
+    "stars": 16342,
+    "language": "Go",
+    "featured_at": "2026-07-05"
   }
 ]
