@@ -6,14 +6,14 @@
 
 ---
 
-**112 репозиториев** в каталоге
+**113 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (25)
 - [AI](categories/ai.md) (20)
 - [Web Development](categories/web-development.md) (16)
-- [DevTools](categories/devtools.md) (10)
+- [DevTools](categories/devtools.md) (11)
 - [Education](categories/education.md) (7)
 - [MCP](categories/mcp.md) (7)
 - [Cybersecurity](categories/cybersecurity.md) (5)
@@ -430,6 +430,17 @@ Langflow поддерживает создание рабочих процесс
 
 ## DevTools
 
+### [claude-skills](https://github.com/alirezarezvani/claude-skills)
+
+🛠️ 337 навыков Claude Code, более 70 пользовательских команд и 330 настраиваемых ссылок для агентов Claude Code, Codex, Gemini CLI, Cursor и других 8 агентов. Отличие от конкурентов в глубокой интеграции с различными областями — от маркетинга до коммерции, финансовых операций, исследований и разработки. Позволяет создавать автономные системы управления процессами без необходимости писать код самостоятельно. Подходит для тех, кто хочет эффективно автоматизировать бизнес-процессы и повысить производительность команды.
+
+⭐ 20,169
+💻 Python
+🏷 `python` `agent-plugins` `agent-skills` `agentic-ai` `ai-coding-agent` `anthropic-claude`
+📅 2026-07-05
+🔗 [GitHub](https://github.com/alirezarezvani/claude-skills)
+📢 [Telegram Post](https://t.me/github_trendovoe/230)
+
 ### [claude-code](https://github.com/anthropics/claude-code)
 
 🛠️ Claude Code — инструмент, который выполняет рутинные задачи в терминале на естественном языке. Он понимает ваш кодовую базу и помогает быстрее кодировать, объясняет сложный код и автоматически управляет процессами Git. Это идеально подходит для разработчиков, которые хотят ускорить свои процессы программирования без необходимости писать скрипты или использовать командные строки. Разделен на простые шаги и интуитивно понятный — Claude Code избавляет от головной боли с рутиной, освобождая время для более важных задач. 🚀
@@ -538,17 +549,6 @@ git push без ошибок
 📅 2026-06-22
 🔗 [GitHub](https://github.com/garrytan/gstack)
 📢 [Telegram Post](https://t.me/github_trendovoe/145)
-
-### [penpot](https://github.com/penpot/penpot)
-
-Penpot: The open-source design tool for design and code collaboration
-
-⭐ 50,467
-💻 Clojure
-🏷 `clojure` `clojurescript` `design` `prototyping` `ui`
-📅 2026-06-19
-🔗 [GitHub](https://github.com/penpot/penpot)
-📢 [Telegram Post](https://t.me/github_trendovoe/128)
 
 ## Education
 

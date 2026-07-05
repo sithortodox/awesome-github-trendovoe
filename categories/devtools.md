@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**10 репозиториев**
+**11 репозиториев**
+
+### [claude-skills](https://github.com/alirezarezvani/claude-skills)
+
+🛠️ 337 навыков Claude Code, более 70 пользовательских команд и 330 настраиваемых ссылок для агентов Claude Code, Codex, Gemini CLI, Cursor и других 8 агентов. Отличие от конкурентов в глубокой интеграции с различными областями — от маркетинга до коммерции, финансовых операций, исследований и разработки. Позволяет создавать автономные системы управления процессами без необходимости писать код самостоятельно. Подходит для тех, кто хочет эффективно автоматизировать бизнес-процессы и повысить производительность команды.
+
+⭐ 20,169
+💻 Python
+🏷 `python` `agent-plugins` `agent-skills` `agentic-ai` `ai-coding-agent` `anthropic-claude`
+📅 2026-07-05
+🔗 [GitHub](https://github.com/alirezarezvani/claude-skills)
+📢 [Telegram Post](https://t.me/github_trendovoe/230)
 
 ### [claude-code](https://github.com/anthropics/claude-code)
 

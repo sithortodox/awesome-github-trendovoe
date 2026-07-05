@@ -1635,5 +1635,21 @@
     "stars": 11572,
     "language": "C#",
     "featured_at": "2026-07-04"
+  },
+  {
+    "full_name": "alirezarezvani/claude-skills",
+    "name": "claude-skills",
+    "category": "DevTools",
+    "tags": [
+      "python",
+      "agent-plugins",
+      "agent-skills",
+      "agentic-ai",
+      "ai-coding-agent",
+      "anthropic-claude"
+    ],
+    "stars": 20169,
+    "language": "Python",
+    "featured_at": "2026-07-05"
   }
 ]

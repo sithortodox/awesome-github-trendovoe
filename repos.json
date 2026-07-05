@@ -1971,5 +1971,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/229",
     "featured_at": "2026-07-04"
+  },
+  {
+    "name": "claude-skills",
+    "full_name": "alirezarezvani/claude-skills",
+    "url": "https://github.com/alirezarezvani/claude-skills",
+    "description": "🛠️ 337 навыков Claude Code, более 70 пользовательских команд и 330 настраиваемых ссылок для агентов Claude Code, Codex, Gemini CLI, Cursor и других 8 агентов. Отличие от конкурентов в глубокой интеграции с различными областями — от маркетинга до коммерции, финансовых операций, исследований и разработки. Позволяет создавать автономные системы управления процессами без необходимости писать код самостоятельно. Подходит для тех, кто хочет эффективно автоматизировать бизнес-процессы и повысить производительность команды.",
+    "language": "Python",
+    "stars": 20169,
+    "category": "DevTools",
+    "tags": [
+      "python",
+      "agent-plugins",
+      "agent-skills",
+      "agentic-ai",
+      "ai-coding-agent",
+      "anthropic-claude"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/230",
+    "featured_at": "2026-07-05"
   }
 ]
