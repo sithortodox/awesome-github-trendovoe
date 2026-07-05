@@ -2097,5 +2097,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/236",
     "featured_at": "2026-07-05"
+  },
+  {
+    "name": "planning-with-files",
+    "full_name": "OthmanAdi/planning-with-files",
+    "url": "https://github.com/OthmanAdi/planning-with-files",
+    "description": "🎯 ОthmanAdi/planning-with-files: Умные файловые планировщики для агентов ИИ\n\n\nПроект поддерживает работу с более чем 60 различными агентами и интеграциями, включая Claude Code, Codex CLI, Cursor, Kiro и OpenCode. Он позволяет создавать системы, которые могут планировать задачи без человеческого участия — от простых операций до сложных архитектур.\n\n✅ Основная фича — устойчивость к сбоям: программа сохраняет контекст и возможность продолжить работу даже после потери информации или команды. Это идеально подходит для разработчиков ИИ, DevOps-менеджеров и исследователей искусственного интеллекта, которые хотят создать автономные системы управления файловой системой.\n\n🔥 Отличие от конкурентов: проект предлагает уникаль",
+    "language": "Python",
+    "stars": 24690,
+    "category": "DevTools",
+    "tags": [
+      "python",
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "autonomous-agents",
+      "claude"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/237",
+    "featured_at": "2026-07-05"
   }
 ]

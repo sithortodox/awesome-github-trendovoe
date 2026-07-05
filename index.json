@@ -1740,5 +1740,21 @@
     "stars": 16342,
     "language": "Go",
     "featured_at": "2026-07-05"
+  },
+  {
+    "full_name": "OthmanAdi/planning-with-files",
+    "name": "planning-with-files",
+    "category": "DevTools",
+    "tags": [
+      "python",
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "autonomous-agents",
+      "claude"
+    ],
+    "stars": 24690,
+    "language": "Python",
+    "featured_at": "2026-07-05"
   }
 ]

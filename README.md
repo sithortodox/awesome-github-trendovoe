@@ -6,14 +6,14 @@
 
 ---
 
-**119 репозиториев** в каталоге
+**120 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (29)
 - [AI](categories/ai.md) (20)
 - [Web Development](categories/web-development.md) (17)
-- [DevTools](categories/devtools.md) (11)
+- [DevTools](categories/devtools.md) (12)
 - [Education](categories/education.md) (8)
 - [MCP](categories/mcp.md) (7)
 - [Cybersecurity](categories/cybersecurity.md) (5)
@@ -420,6 +420,24 @@ Langflow поддерживает создание рабочих процесс
 
 ## DevTools
 
+### [planning-with-files](https://github.com/OthmanAdi/planning-with-files)
+
+🎯 ОthmanAdi/planning-with-files: Умные файловые планировщики для агентов ИИ
+
+
+Проект поддерживает работу с более чем 60 различными агентами и интеграциями, включая Claude Code, Codex CLI, Cursor, Kiro и OpenCode. Он позволяет создавать системы, которые могут планировать задачи без человеческого участия — от простых операций до сложных архитектур.
+
+✅ Основная фича — устойчивость к сбоям: программа сохраняет контекст и возможность продолжить работу даже после потери информации или команды. Это идеально подходит для разработчиков ИИ, DevOps-менеджеров и исследователей искусственного интеллекта, которые хотят создать автономные системы управления файловой системой.
+
+🔥 Отличие от конкурентов: проект предлагает уникаль
+
+⭐ 24,690
+💻 Python
+🏷 `python` `agent-skills` `agentic-ai` `ai-agents` `autonomous-agents` `claude`
+📅 2026-07-05
+🔗 [GitHub](https://github.com/OthmanAdi/planning-with-files)
+📢 [Telegram Post](https://t.me/github_trendovoe/237)
+
 ### [claude-skills](https://github.com/alirezarezvani/claude-skills)
 
 🛠️ 337 навыков Claude Code, более 70 пользовательских команд и 330 настраиваемых ссылок для агентов Claude Code, Codex, Gemini CLI, Cursor и других 8 агентов. Отличие от конкурентов в глубокой интеграции с различными областями — от маркетинга до коммерции, финансовых операций, исследований и разработки. Позволяет создавать автономные системы управления процессами без необходимости писать код самостоятельно. Подходит для тех, кто хочет эффективно автоматизировать бизнес-процессы и повысить производительность команды.
@@ -528,17 +546,6 @@ git push без ошибок
 📅 2026-06-24
 🔗 [GitHub](https://github.com/stablyai/orca)
 📢 [Telegram Post](https://t.me/github_trendovoe/159)
-
-### [gstack](https://github.com/garrytan/gstack)
-
-🎯 23 самоуверенных инструмента на основе Claude Code от Гарри Тана. Эти уникальные инструменты автоматически выполняют функции генерального директора, дизайнера, инженер-менеджера, менеджера по выпуску и контроля качества. Позволяет структурировать проекты без участия человека, обеспечивая надежность и масштабируемость. Команда, разработчики и Data-инженеры получат автоматизацию задач, обычно требующих много времени и усилий. 🚀
-
-⭐ 112,786
-💻 TypeScript
-🏷 `typescript`
-📅 2026-06-22
-🔗 [GitHub](https://github.com/garrytan/gstack)
-📢 [Telegram Post](https://t.me/github_trendovoe/145)
 
 ## Education
 

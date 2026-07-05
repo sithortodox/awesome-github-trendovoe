@@ -2,7 +2,25 @@
 
 [← Назад](../README.md)
 
-**11 репозиториев**
+**12 репозиториев**
+
+### [planning-with-files](https://github.com/OthmanAdi/planning-with-files)
+
+🎯 ОthmanAdi/planning-with-files: Умные файловые планировщики для агентов ИИ
+
+
+Проект поддерживает работу с более чем 60 различными агентами и интеграциями, включая Claude Code, Codex CLI, Cursor, Kiro и OpenCode. Он позволяет создавать системы, которые могут планировать задачи без человеческого участия — от простых операций до сложных архитектур.
+
+✅ Основная фича — устойчивость к сбоям: программа сохраняет контекст и возможность продолжить работу даже после потери информации или команды. Это идеально подходит для разработчиков ИИ, DevOps-менеджеров и исследователей искусственного интеллекта, которые хотят создать автономные системы управления файловой системой.
+
+🔥 Отличие от конкурентов: проект предлагает уникаль
+
+⭐ 24,690
+💻 Python
+🏷 `python` `agent-skills` `agentic-ai` `ai-agents` `autonomous-agents` `claude`
+📅 2026-07-05
+🔗 [GitHub](https://github.com/OthmanAdi/planning-with-files)
+📢 [Telegram Post](https://t.me/github_trendovoe/237)
 
 ### [claude-skills](https://github.com/alirezarezvani/claude-skills)
 
