@@ -1667,5 +1667,21 @@
     "stars": 8091,
     "language": "TypeScript",
     "featured_at": "2026-07-05"
+  },
+  {
+    "full_name": "Leonxlnx/taste-skill",
+    "name": "taste-skill",
+    "category": "AI Agents",
+    "tags": [
+      "javascript",
+      "agent",
+      "ai",
+      "claude",
+      "claude-code",
+      "codex"
+    ],
+    "stars": 56843,
+    "language": "JavaScript",
+    "featured_at": "2026-07-05"
   }
 ]
