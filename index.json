@@ -1713,5 +1713,21 @@
     "stars": 36278,
     "language": "JavaScript",
     "featured_at": "2026-07-05"
+  },
+  {
+    "full_name": "ruvnet/RuView",
+    "name": "RuView",
+    "category": "Web Development",
+    "tags": [
+      "rust",
+      "awesome",
+      "claude",
+      "densepose",
+      "esp32",
+      "firmware"
+    ],
+    "stars": 76629,
+    "language": "Rust",
+    "featured_at": "2026-07-05"
   }
 ]

@@ -6,13 +6,13 @@
 
 ---
 
-**117 репозиториев** в каталоге
+**118 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (28)
 - [AI](categories/ai.md) (20)
-- [Web Development](categories/web-development.md) (16)
+- [Web Development](categories/web-development.md) (17)
 - [DevTools](categories/devtools.md) (11)
 - [Education](categories/education.md) (8)
 - [MCP](categories/mcp.md) (7)
@@ -296,6 +296,17 @@ Langflow поддерживает создание рабочих процесс
 
 ## Web Development
 
+### [RuView](https://github.com/ruvnet/RuView)
+
+🔄 RuView превращает Wi-Fi сигналы в реальное время, предоставляя интеллектуальную картографию помещений — без использования камер или дополнительного оборудования. Это решает проблему мониторинга жизненно важных процессов и обнаружения присутствия в помещениях. Подходит для инженеров ИТ, систем менеджеров, специалистов по контролю производственных процессов — особенно полезно для предприятий с большим количеством помещений. Отличие RuView от конкурентов заключается в его способности работать без видеокамер и дополнительных устройств, предоставляя точную информацию только на основе Wi-Fi сигналов.
+
+⭐ 76,629
+💻 Rust
+🏷 `rust` `awesome` `claude` `densepose` `esp32` `firmware`
+📅 2026-07-05
+🔗 [GitHub](https://github.com/ruvnet/RuView)
+📢 [Telegram Post](https://t.me/github_trendovoe/235)
+
 ### [folia-major](https://github.com/chthollyphile/folia-major)
 
 🎵 🚀 folia-major - новый музыкальный клиент на TypeScript с шикарными анимированными текстовыми плейлистами для Navidrome и сторонних сервисов. Поддерживает 100+ форматов файлов, включая WAV, FLAC и APEv2. Уникальная функция - создание анимированных текстовых плейлистов прямо внутри приложения без необходимости установки дополнительных плагинов или сторонних сервисов. Анимация встроена непосредственно в folia-major, что позволяет пользователю видеть изменения темпа музыки на месте прослушивания. Отличное решение для тех, кто ценит красоту и удобство использования Navidrome с анимацией текста.
@@ -406,17 +417,6 @@ Langflow поддерживает создание рабочих процесс
 📅 2026-07-01
 🔗 [GitHub](https://github.com/CoreBunch/Instatic)
 📢 [Telegram Post](https://t.me/github_trendovoe/198)
-
-### [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
-
-💬 Открытый исходный код AI-генератор Anil-matcha/Open-Generative-AI дает возможность создавать изображения и видео с более чем 200 моделями, включая Flux, Midjourney, Kling, Sora и Veo. Без содержательных ограничений — сама размещайте свои работы. Отличительной особенностью является бесплатность и открытое лицензирование MIT, что делает проект удобным для тех, кто создает искусственный интеллект в новых направлениях дизайна и видеошоуbusiness.
-
-⭐ 21,273
-💻 JavaScript
-🏷 `javascript` `ai-art-generator` `ai-image-generation` `ai-video-generation` `creative-tools` `flux`
-📅 2026-06-27
-🔗 [GitHub](https://github.com/Anil-matcha/Open-Generative-AI)
-📢 [Telegram Post](https://t.me/github_trendovoe/180)
 
 ## DevTools
 
