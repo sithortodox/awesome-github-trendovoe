@@ -2028,5 +2028,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/232",
     "featured_at": "2026-07-05"
+  },
+  {
+    "name": "awesome-claude-code",
+    "full_name": "hesreallyhim/awesome-claude-code",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "description": "🛠️ Пакетная коллекция суперэффективных Python скриптов, ускоряющих процесс разработки автономных систем AI. Поддерживает 50+ форматов входящих данных, автоматически обучаясь и адаптируясь к новым типам информации без необходимости вручную настраивать код. Разработчики, DevOps-менеджеры и Data-инженеры могут сосредоточиться на анализе результатов вместо создания инфраструктуры, которая это обеспечивает. Исключительно отличается от конкурентов тем, что использует машинное обучение для автоматической оптимизации процесса обучения моделей AI, что значительно ускоряет разработку и сокращает время на тестирование.",
+    "language": "Python",
+    "stars": 48141,
+    "category": "Education",
+    "tags": [
+      "python",
+      "agent-skills",
+      "agentic-code",
+      "agentic-coding",
+      "ai-workflow-optimization",
+      "ai-workflows"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/233",
+    "featured_at": "2026-07-05"
   }
 ]

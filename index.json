@@ -1683,5 +1683,21 @@
     "stars": 56843,
     "language": "JavaScript",
     "featured_at": "2026-07-05"
+  },
+  {
+    "full_name": "hesreallyhim/awesome-claude-code",
+    "name": "awesome-claude-code",
+    "category": "Education",
+    "tags": [
+      "python",
+      "agent-skills",
+      "agentic-code",
+      "agentic-coding",
+      "ai-workflow-optimization",
+      "ai-workflows"
+    ],
+    "stars": 48141,
+    "language": "Python",
+    "featured_at": "2026-07-05"
   }
 ]

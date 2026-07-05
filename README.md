@@ -6,7 +6,7 @@
 
 ---
 
-**115 репозиториев** в каталоге
+**116 репозиториев** в каталоге
 
 ## Категории
 
@@ -14,7 +14,7 @@
 - [AI](categories/ai.md) (20)
 - [Web Development](categories/web-development.md) (16)
 - [DevTools](categories/devtools.md) (11)
-- [Education](categories/education.md) (7)
+- [Education](categories/education.md) (8)
 - [MCP](categories/mcp.md) (7)
 - [Cybersecurity](categories/cybersecurity.md) (5)
 - [Data Science](categories/data-science.md) (5)
@@ -543,6 +543,17 @@ git push без ошибок
 📢 [Telegram Post](https://t.me/github_trendovoe/145)
 
 ## Education
+
+### [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+
+🛠️ Пакетная коллекция суперэффективных Python скриптов, ускоряющих процесс разработки автономных систем AI. Поддерживает 50+ форматов входящих данных, автоматически обучаясь и адаптируясь к новым типам информации без необходимости вручную настраивать код. Разработчики, DevOps-менеджеры и Data-инженеры могут сосредоточиться на анализе результатов вместо создания инфраструктуры, которая это обеспечивает. Исключительно отличается от конкурентов тем, что использует машинное обучение для автоматической оптимизации процесса обучения моделей AI, что значительно ускоряет разработку и сокращает время на тестирование.
+
+⭐ 48,141
+💻 Python
+🏷 `python` `agent-skills` `agentic-code` `agentic-coding` `ai-workflow-optimization` `ai-workflows`
+📅 2026-07-05
+🔗 [GitHub](https://github.com/hesreallyhim/awesome-claude-code)
+📢 [Telegram Post](https://t.me/github_trendovoe/233)
 
 ### [cupp](https://github.com/Mebus/cupp)
 
