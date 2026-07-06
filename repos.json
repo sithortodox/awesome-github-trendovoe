@@ -2185,5 +2185,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/241",
     "featured_at": "2026-07-06"
+  },
+  {
+    "name": "karakeep",
+    "full_name": "karakeep-app/karakeep",
+    "url": "https://github.com/karakeep-app/karakeep",
+    "description": "🔥 Автономное приложение Karakeep для создания закладок (ссылки, заметки и изображения). Использует AI для автоматической пометки контента и интеграции с полнотекстовым поиском. Полезно для разработчиков, технических команд и данных-инженеров, которые хотят упростить управление большими наборами информации. Отличие от конкурентов — поддержка множества форматов (более 50) в одном месте, а также возможность интеграции с Next.js и React Native для разнообразных платформ.",
+    "language": "TypeScript",
+    "stars": 26817,
+    "category": "Self-Hosted",
+    "tags": [
+      "typescript",
+      "bookmark-manager",
+      "bookmarks",
+      "bookmarks-manager",
+      "nextjs",
+      "react-native"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/242",
+    "featured_at": "2026-07-06"
   }
 ]

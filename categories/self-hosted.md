@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**4 репозиториев**
+**5 репозиториев**
+
+### [karakeep](https://github.com/karakeep-app/karakeep)
+
+🔥 Автономное приложение Karakeep для создания закладок (ссылки, заметки и изображения). Использует AI для автоматической пометки контента и интеграции с полнотекстовым поиском. Полезно для разработчиков, технических команд и данных-инженеров, которые хотят упростить управление большими наборами информации. Отличие от конкурентов — поддержка множества форматов (более 50) в одном месте, а также возможность интеграции с Next.js и React Native для разнообразных платформ.
+
+⭐ 26,817
+💻 TypeScript
+🏷 `typescript` `bookmark-manager` `bookmarks` `bookmarks-manager` `nextjs` `react-native`
+📅 2026-07-06
+🔗 [GitHub](https://github.com/karakeep-app/karakeep)
+📢 [Telegram Post](https://t.me/github_trendovoe/242)
 
 ### [romm](https://github.com/rommapp/romm)
 

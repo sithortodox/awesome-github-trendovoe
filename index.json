@@ -1813,5 +1813,21 @@
     "stars": 4027,
     "language": "Python",
     "featured_at": "2026-07-06"
+  },
+  {
+    "full_name": "karakeep-app/karakeep",
+    "name": "karakeep",
+    "category": "Self-Hosted",
+    "tags": [
+      "typescript",
+      "bookmark-manager",
+      "bookmarks",
+      "bookmarks-manager",
+      "nextjs",
+      "react-native"
+    ],
+    "stars": 26817,
+    "language": "TypeScript",
+    "featured_at": "2026-07-06"
   }
 ]
