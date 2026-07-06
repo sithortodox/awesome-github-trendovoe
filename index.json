@@ -1770,5 +1770,21 @@
     "stars": 16272,
     "language": "Swift",
     "featured_at": "2026-07-06"
+  },
+  {
+    "full_name": "addyosmani/agent-skills",
+    "name": "agent-skills",
+    "category": "AI Agents",
+    "tags": [
+      "shell",
+      "agent-skills",
+      "antigravity",
+      "antigravity-ide",
+      "claude-code",
+      "cursor"
+    ],
+    "stars": 70287,
+    "language": "Shell",
+    "featured_at": "2026-07-06"
   }
 ]

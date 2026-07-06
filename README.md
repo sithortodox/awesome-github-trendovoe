@@ -6,11 +6,11 @@
 
 ---
 
-**121 репозиториев** в каталоге
+**122 репозиториев** в каталоге
 
 ## Категории
 
-- [AI Agents](categories/agents.md) (29)
+- [AI Agents](categories/agents.md) (30)
 - [AI](categories/ai.md) (20)
 - [Web Development](categories/web-development.md) (17)
 - [DevTools](categories/devtools.md) (12)
@@ -25,6 +25,23 @@
 - [Automation](categories/automation.md) (2)
 
 ## AI Agents
+
+### [agent-skills](https://github.com/addyosmani/agent-skills)
+
+📚 Издание документации с интеллектом. Автоматически генерирует пошаговые инструкции из исходного кода. Предназначен для разработчиков мобильных приложений и веб-сайтов.
+
+🤖 Подходит для тех, кто хочет экономить время на создание документации и фокусироваться на развитии продукта. Упрощает процесс создания руководств, даже если исходный код сложен или длинен.
+
+✨ Ключевая фича: возможность сгенерировать документацию на основе непростого или большого кода в несколько кликов. Сохраняет до 20% времени разработчиков, помогает упростить обучение клиентов и коллег.
+
+📝 Закрытый репозиторий доступен для подписчиков с уникальным API-ключом для интеграции в проекты.
+
+⭐ 70,287
+💻 Shell
+🏷 `shell` `agent-skills` `antigravity` `antigravity-ide` `claude-code` `cursor`
+📅 2026-07-06
+🔗 [GitHub](https://github.com/addyosmani/agent-skills)
+📢 [Telegram Post](https://t.me/github_trendovoe/239)
 
 ### [gastown](https://github.com/gastownhall/gastown)
 
@@ -134,17 +151,6 @@ Langflow поддерживает создание рабочих процесс
 📅 2026-07-02
 🔗 [GitHub](https://github.com/TencentCloud/CubeSandbox)
 📢 [Telegram Post](https://t.me/github_trendovoe/207)
-
-### [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence)
-
-18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council
-
-⭐ 2,770
-💻 Shell
-🏷 `shell` `ai-agents` `claude` `claude-code` `decision-making` `deliberation`
-📅 2026-07-02
-🔗 [GitHub](https://github.com/0xNyk/council-of-high-intelligence)
-📢 [Telegram Post](https://t.me/github_trendovoe/206)
 
 ## AI
 
