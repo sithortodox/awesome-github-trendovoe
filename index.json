@@ -1756,5 +1756,19 @@
     "stars": 24690,
     "language": "Python",
     "featured_at": "2026-07-05"
+  },
+  {
+    "full_name": "steipete/CodexBar",
+    "name": "CodexBar",
+    "category": "Mobile",
+    "tags": [
+      "swift",
+      "ai",
+      "claude-code",
+      "codex"
+    ],
+    "stars": 16272,
+    "language": "Swift",
+    "featured_at": "2026-07-06"
   }
 ]

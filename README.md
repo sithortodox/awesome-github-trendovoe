@@ -6,7 +6,7 @@
 
 ---
 
-**120 репозиториев** в каталоге
+**121 репозиториев** в каталоге
 
 ## Категории
 
@@ -18,8 +18,8 @@
 - [MCP](categories/mcp.md) (7)
 - [Cybersecurity](categories/cybersecurity.md) (5)
 - [Data Science](categories/data-science.md) (5)
+- [Mobile](categories/mobile.md) (5)
 - [DevOps](categories/devops.md) (4)
-- [Mobile](categories/mobile.md) (4)
 - [Self-Hosted](categories/self-hosted.md) (4)
 - [Other](categories/other.md) (3)
 - [Automation](categories/automation.md) (2)
@@ -875,53 +875,24 @@ Open-source AI penetration testing tool to find and fix your app’s vulnerabili
 🔗 [GitHub](https://github.com/tursodatabase/turso)
 📢 [Telegram Post](https://t.me/github_trendovoe/129)
 
-## DevOps
-
-### [ansible](https://github.com/ansible/ansible)
-
-🔍 Ansible — это инструмент для автоматизации настроек и управления IT-инфраструктурой в DevOps. Открывает API для удаленных систем, не требует установки агентов, поддерживает 50+ типов ресурсов и более 30 сценариев планирования. 🌐 Позволяет структурированно оправляться с большими масштабами настройки в развертывании приложений. Компактный, но мощный инструмент для тех, кто хочет автоматизировать все процессы, чтобы уделить больше времени развитию. https://docs.ansible.com.
-
-⭐ 69,110
-💻 Python
-🏷 `python` `ansible`
-📅 2026-07-03
-🔗 [GitHub](https://github.com/ansible/ansible)
-📢 [Telegram Post](https://t.me/github_trendovoe/219)
-
-### [grafana](https://github.com/grafana/grafana)
-
-📊 Платформа grafana/grafana позволяет визуализировать метрики, журналы и трассировки из различных источников, таких как Prometheus, Loki, Elasticsearch, InfluxDB и Postgres. 🌐 Поддерживает более 50 форматов данных и интеграции с большинством современных систем отслеживания. Это идеально подходит для разработчиков, DevOps-специалистов и data-инженеров, которые стремятся улучшить мониторинг и анализ производительности их приложений. 💡 С помощью графана/grafana вы сможете легко интегрировать собственные системы и видеть ключевые метрики в одном месте, что значительно упростит управление проектами.
-
-⭐ 74,789
-💻 TypeScript
-🏷 `typescript` `alerting` `analytics` `business-intelligence` `dashboard` `data-visualization`
-📅 2026-06-26
-🔗 [GitHub](https://github.com/grafana/grafana)
-📢 [Telegram Post](https://t.me/github_trendovoe/174)
-
-### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
-
-🔄 CasaOS — легкая персональная облачная система на Go. Поддерживает 100+ типов устройств в одном месте, автоматически управляя ими без необходимости в настройках. Помогает разработчикам и DevOps-персонал эффективнее работать с домашней инфраструктурой, без отказа от безопасности. Идеален для тех, кто хочет управление дома легко и просто. 💡 Отличие: CasaOS использует блокчейн для обмена транзакциями между устройствами, обеспечивая повышенную безопасность и непрерывность сервисов даже при сбоях.
-
-⭐ 34,833
-💻 Go
-🏷 `go` `casaos` `docker` `golang` `home-automation` `home-cloud`
-📅 2026-06-26
-🔗 [GitHub](https://github.com/IceWhaleTech/CasaOS)
-📢 [Telegram Post](https://t.me/github_trendovoe/168)
-
-### [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
-
-🎯 PDF-редактор Stirling-Tools/Stirling-PDF поддерживает редактирование, добавление форматирования, вставку изображений и даже векторных графиков прямо на оригинальные PDF-файлы. Это приложение позволяет создавать новые страницы или изменять содержимое существующих — идеально подходит для документов с неразрывными формами данных, таких как технические отчёты и бланки. Командам, работающим над многими документами, особенно полезно, так как позволяет не только вносить изменения прямо на месте, но и совместно работать с данными без необходимости распечатывать и физически объединять файлы. 🚀
-
-⭐ 82,387
-💻 Java
-🏷 `java` `docker` `hacktoberfest` `pdf` `pdf-converter`
-📅 2026-06-22
-🔗 [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
-📢 [Telegram Post](https://t.me/github_trendovoe/144)
-
 ## Mobile
+
+### [CodexBar](https://github.com/steipete/CodexBar)
+
+📊 Покажите статистику использования OpenAI Codex и Claude Code без входа в систему 📈
+
+Кодекс (Codex) и Клауде-Код (Claude Code) — это инструменты от OpenAI для генерации текста, который используются разработчиками, исследователями и сообществом. Этот проект автоматически собирает статистику использования этих мощных AI-инструментов, но без необходимости входа на платформу.
+
+🔥 Его ключевая фича — позволяет взглянуть на данные об активности в реальном времени из одного места, что делает его отличным инструментом для анализа тенденций и определения влияния этих технологий. Этот инструмент полезен разработчикам, исследователям AI, студентам и любителям AI-технологий.
+
+⚠️ В отличие от других решений, которые требуют входа в платформу или специального оборудования, этот проект предоставляет доступ к данным без необходимости подключения к сети OpenAI.
+
+⭐ 16,272
+💻 Swift
+🏷 `swift` `ai` `claude-code` `codex`
+📅 2026-07-06
+🔗 [GitHub](https://github.com/steipete/CodexBar)
+📢 [Telegram Post](https://t.me/github_trendovoe/238)
 
 ### [headunit-revived](https://github.com/andreknieriem/headunit-revived)
 
@@ -972,6 +943,52 @@ Open-source AI penetration testing tool to find and fix your app’s vulnerabili
 📅 2026-06-21
 🔗 [GitHub](https://github.com/pppscn/SmsForwarder)
 📢 [Telegram Post](https://t.me/github_trendovoe/134)
+
+## DevOps
+
+### [ansible](https://github.com/ansible/ansible)
+
+🔍 Ansible — это инструмент для автоматизации настроек и управления IT-инфраструктурой в DevOps. Открывает API для удаленных систем, не требует установки агентов, поддерживает 50+ типов ресурсов и более 30 сценариев планирования. 🌐 Позволяет структурированно оправляться с большими масштабами настройки в развертывании приложений. Компактный, но мощный инструмент для тех, кто хочет автоматизировать все процессы, чтобы уделить больше времени развитию. https://docs.ansible.com.
+
+⭐ 69,110
+💻 Python
+🏷 `python` `ansible`
+📅 2026-07-03
+🔗 [GitHub](https://github.com/ansible/ansible)
+📢 [Telegram Post](https://t.me/github_trendovoe/219)
+
+### [grafana](https://github.com/grafana/grafana)
+
+📊 Платформа grafana/grafana позволяет визуализировать метрики, журналы и трассировки из различных источников, таких как Prometheus, Loki, Elasticsearch, InfluxDB и Postgres. 🌐 Поддерживает более 50 форматов данных и интеграции с большинством современных систем отслеживания. Это идеально подходит для разработчиков, DevOps-специалистов и data-инженеров, которые стремятся улучшить мониторинг и анализ производительности их приложений. 💡 С помощью графана/grafana вы сможете легко интегрировать собственные системы и видеть ключевые метрики в одном месте, что значительно упростит управление проектами.
+
+⭐ 74,789
+💻 TypeScript
+🏷 `typescript` `alerting` `analytics` `business-intelligence` `dashboard` `data-visualization`
+📅 2026-06-26
+🔗 [GitHub](https://github.com/grafana/grafana)
+📢 [Telegram Post](https://t.me/github_trendovoe/174)
+
+### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+
+🔄 CasaOS — легкая персональная облачная система на Go. Поддерживает 100+ типов устройств в одном месте, автоматически управляя ими без необходимости в настройках. Помогает разработчикам и DevOps-персонал эффективнее работать с домашней инфраструктурой, без отказа от безопасности. Идеален для тех, кто хочет управление дома легко и просто. 💡 Отличие: CasaOS использует блокчейн для обмена транзакциями между устройствами, обеспечивая повышенную безопасность и непрерывность сервисов даже при сбоях.
+
+⭐ 34,833
+💻 Go
+🏷 `go` `casaos` `docker` `golang` `home-automation` `home-cloud`
+📅 2026-06-26
+🔗 [GitHub](https://github.com/IceWhaleTech/CasaOS)
+📢 [Telegram Post](https://t.me/github_trendovoe/168)
+
+### [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+
+🎯 PDF-редактор Stirling-Tools/Stirling-PDF поддерживает редактирование, добавление форматирования, вставку изображений и даже векторных графиков прямо на оригинальные PDF-файлы. Это приложение позволяет создавать новые страницы или изменять содержимое существующих — идеально подходит для документов с неразрывными формами данных, таких как технические отчёты и бланки. Командам, работающим над многими документами, особенно полезно, так как позволяет не только вносить изменения прямо на месте, но и совместно работать с данными без необходимости распечатывать и физически объединять файлы. 🚀
+
+⭐ 82,387
+💻 Java
+🏷 `java` `docker` `hacktoberfest` `pdf` `pdf-converter`
+📅 2026-06-22
+🔗 [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
+📢 [Telegram Post](https://t.me/github_trendovoe/144)
 
 ## Self-Hosted
 
