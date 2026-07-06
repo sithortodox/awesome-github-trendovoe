@@ -2152,5 +2152,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/239",
     "featured_at": "2026-07-06"
+  },
+  {
+    "name": "last30days-skill",
+    "full_name": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "description": "🔧 Навыки ИИ-агента, который анализирует Reddit, YouTube, Хабр, Полимаркет и другие ресурсы, собирает ключевые моменты и синтезирует обоснованное резюме. 📚 Подходит для тех, кто хочет быстро получить информацию о последних тенденциях в любой области без чтения статей. 🔢 Отличие: автоматическое выделение важной информации из сотен источников, что делает процесс анализа более эффективным и экономичным по времени.",
+    "language": "Python",
+    "stars": 49555,
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "ai-prompts",
+      "ai-skill",
+      "bluesky",
+      "claude",
+      "claude-code"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/240",
+    "featured_at": "2026-07-06"
   }
 ]

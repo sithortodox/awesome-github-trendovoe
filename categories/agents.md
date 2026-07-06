@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**30 репозиториев**
+**31 репозиториев**
+
+### [last30days-skill](https://github.com/mvanhorn/last30days-skill)
+
+🔧 Навыки ИИ-агента, который анализирует Reddit, YouTube, Хабр, Полимаркет и другие ресурсы, собирает ключевые моменты и синтезирует обоснованное резюме. 📚 Подходит для тех, кто хочет быстро получить информацию о последних тенденциях в любой области без чтения статей. 🔢 Отличие: автоматическое выделение важной информации из сотен источников, что делает процесс анализа более эффективным и экономичным по времени.
+
+⭐ 49,555
+💻 Python
+🏷 `python` `ai-prompts` `ai-skill` `bluesky` `claude` `claude-code`
+📅 2026-07-06
+🔗 [GitHub](https://github.com/mvanhorn/last30days-skill)
+📢 [Telegram Post](https://t.me/github_trendovoe/240)
 
 ### [agent-skills](https://github.com/addyosmani/agent-skills)
 

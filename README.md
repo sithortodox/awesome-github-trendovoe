@@ -6,11 +6,11 @@
 
 ---
 
-**122 репозиториев** в каталоге
+**123 репозиториев** в каталоге
 
 ## Категории
 
-- [AI Agents](categories/agents.md) (30)
+- [AI Agents](categories/agents.md) (31)
 - [AI](categories/ai.md) (20)
 - [Web Development](categories/web-development.md) (17)
 - [DevTools](categories/devtools.md) (12)
@@ -25,6 +25,17 @@
 - [Automation](categories/automation.md) (2)
 
 ## AI Agents
+
+### [last30days-skill](https://github.com/mvanhorn/last30days-skill)
+
+🔧 Навыки ИИ-агента, который анализирует Reddit, YouTube, Хабр, Полимаркет и другие ресурсы, собирает ключевые моменты и синтезирует обоснованное резюме. 📚 Подходит для тех, кто хочет быстро получить информацию о последних тенденциях в любой области без чтения статей. 🔢 Отличие: автоматическое выделение важной информации из сотен источников, что делает процесс анализа более эффективным и экономичным по времени.
+
+⭐ 49,555
+💻 Python
+🏷 `python` `ai-prompts` `ai-skill` `bluesky` `claude` `claude-code`
+📅 2026-07-06
+🔗 [GitHub](https://github.com/mvanhorn/last30days-skill)
+📢 [Telegram Post](https://t.me/github_trendovoe/240)
 
 ### [agent-skills](https://github.com/addyosmani/agent-skills)
 
@@ -140,17 +151,6 @@ Langflow поддерживает создание рабочих процесс
 📅 2026-07-02
 🔗 [GitHub](https://github.com/santifer/career-ops)
 📢 [Telegram Post](https://t.me/github_trendovoe/209)
-
-### [CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
-
-🛠️ Мгновенная, параллельная, безопасная и легкая «песочница» для агентов ИИ. Подходит для разработчиков, инженеров и команд, которые хотят тестировать и интегрировать AI-агенты без риска воздействия на производственные системы. Более 20 безопасных сред параллельно запускаются одновременно, что позволяет быстрее протестировать различные сценарии и оптимизировать эффективность инженерной работы. 🚀
-
-⭐ 6,955
-💻 Rust
-🏷 `rust` `agents` `container` `sandbox`
-📅 2026-07-02
-🔗 [GitHub](https://github.com/TencentCloud/CubeSandbox)
-📢 [Telegram Post](https://t.me/github_trendovoe/207)
 
 ## AI
 

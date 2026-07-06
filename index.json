@@ -1786,5 +1786,21 @@
     "stars": 70287,
     "language": "Shell",
     "featured_at": "2026-07-06"
+  },
+  {
+    "full_name": "mvanhorn/last30days-skill",
+    "name": "last30days-skill",
+    "category": "AI Agents",
+    "tags": [
+      "python",
+      "ai-prompts",
+      "ai-skill",
+      "bluesky",
+      "claude",
+      "claude-code"
+    ],
+    "stars": 49555,
+    "language": "Python",
+    "featured_at": "2026-07-06"
   }
 ]
