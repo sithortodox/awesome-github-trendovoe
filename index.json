@@ -1802,5 +1802,16 @@
     "stars": 49555,
     "language": "Python",
     "featured_at": "2026-07-06"
+  },
+  {
+    "full_name": "bradautomates/claude-video",
+    "name": "claude-video",
+    "category": "Automation",
+    "tags": [
+      "python"
+    ],
+    "stars": 4027,
+    "language": "Python",
+    "featured_at": "2026-07-06"
   }
 ]
