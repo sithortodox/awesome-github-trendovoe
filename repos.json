@@ -2204,5 +2204,23 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/242",
     "featured_at": "2026-07-06"
+  },
+  {
+    "name": "awesome",
+    "full_name": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "🔥 Галерея изображений с интеллектом: MagicTech/ai-gallery",
+    "language": "",
+    "stars": 482237,
+    "category": "Education",
+    "tags": [
+      "awesome",
+      "awesome-list",
+      "lists",
+      "resources",
+      "unicorns"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/243",
+    "featured_at": "2026-07-06"
   }
 ]

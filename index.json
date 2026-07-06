@@ -1829,5 +1829,20 @@
     "stars": 26817,
     "language": "TypeScript",
     "featured_at": "2026-07-06"
+  },
+  {
+    "full_name": "sindresorhus/awesome",
+    "name": "awesome",
+    "category": "Education",
+    "tags": [
+      "awesome",
+      "awesome-list",
+      "lists",
+      "resources",
+      "unicorns"
+    ],
+    "stars": 482237,
+    "language": "",
+    "featured_at": "2026-07-06"
   }
 ]

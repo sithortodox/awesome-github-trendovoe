@@ -6,7 +6,7 @@
 
 ---
 
-**125 репозиториев** в каталоге
+**126 репозиториев** в каталоге
 
 ## Категории
 
@@ -14,7 +14,7 @@
 - [AI](categories/ai.md) (20)
 - [Web Development](categories/web-development.md) (17)
 - [DevTools](categories/devtools.md) (12)
-- [Education](categories/education.md) (8)
+- [Education](categories/education.md) (9)
 - [MCP](categories/mcp.md) (7)
 - [Cybersecurity](categories/cybersecurity.md) (5)
 - [Data Science](categories/data-science.md) (5)
@@ -554,6 +554,16 @@ git push без ошибок
 📢 [Telegram Post](https://t.me/github_trendovoe/159)
 
 ## Education
+
+### [awesome](https://github.com/sindresorhus/awesome)
+
+🔥 Галерея изображений с интеллектом: MagicTech/ai-gallery
+
+⭐ 482,237
+🏷 `awesome` `awesome-list` `lists` `resources` `unicorns`
+📅 2026-07-06
+🔗 [GitHub](https://github.com/sindresorhus/awesome)
+📢 [Telegram Post](https://t.me/github_trendovoe/243)
 
 ### [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 
