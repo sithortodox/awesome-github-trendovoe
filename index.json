@@ -1844,5 +1844,16 @@
     "stars": 482237,
     "language": "",
     "featured_at": "2026-07-06"
+  },
+  {
+    "full_name": "MadsLorentzen/ai-job-search",
+    "name": "ai-job-search",
+    "category": "Web Development",
+    "tags": [
+      "typescript"
+    ],
+    "stars": 8681,
+    "language": "TypeScript",
+    "featured_at": "2026-07-07"
   }
 ]
