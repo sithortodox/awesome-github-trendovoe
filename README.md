@@ -6,14 +6,14 @@
 
 ---
 
-**129 репозиториев** в каталоге
+**130 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (32)
 - [AI](categories/ai.md) (20)
 - [Web Development](categories/web-development.md) (19)
-- [DevTools](categories/devtools.md) (12)
+- [DevTools](categories/devtools.md) (13)
 - [Education](categories/education.md) (9)
 - [MCP](categories/mcp.md) (7)
 - [Cybersecurity](categories/cybersecurity.md) (5)
@@ -430,6 +430,17 @@ Langflow поддерживает создание рабочих процесс
 
 ## DevTools
 
+### [pocket-tts](https://github.com/kyutai-labs/pocket-tts)
+
+🛡️ TTS-система, которая умещается в ваш CPU и даже может быть в кармане вашего смартфона. Без приставки "Разработанная компанией XYZ". Позволяет создавать естественные голосовые сообщения для мобильных приложений без зависаний от внешних сервисов. Подходит для разработчиков, ставящих текстовые сообщения на более человеческий уровень: комиксы, вебинары и даже интерактивные учебники. 🎉
+
+⭐ 6,060
+💻 Python
+🏷 `python`
+📅 2026-07-07
+🔗 [GitHub](https://github.com/kyutai-labs/pocket-tts)
+📢 [Telegram Post](https://t.me/github_trendovoe/247)
+
 ### [planning-with-files](https://github.com/OthmanAdi/planning-with-files)
 
 🎯 ОthmanAdi/planning-with-files: Умные файловые планировщики для агентов ИИ
@@ -545,17 +556,6 @@ git push без ошибок
 📅 2026-06-25
 🔗 [GitHub](https://github.com/kunchenguid/no-mistakes)
 📢 [Telegram Post](https://t.me/github_trendovoe/162)
-
-### [orca](https://github.com/stablyai/orca)
-
-🎯 Orca — инструмент ADE для управления множеством параллельных AI-агентов. Отправляйте команды агентов одновременно, контролируя их действия и результаты. Идеально подходит для разработчиков, ведущих масштабные системы с автономными интеллектуальными компонентами. Команды могут легко управлять несколькими агентами, что позволяет эффективно расширять автоматизацию и снижать нагрузку на людей. 🛠️
-
-⭐ 6,705
-💻 TypeScript
-🏷 `typescript` `ade` `agent-ide` `ai-agents` `claude-code` `cli`
-📅 2026-06-24
-🔗 [GitHub](https://github.com/stablyai/orca)
-📢 [Telegram Post](https://t.me/github_trendovoe/159)
 
 ## Education
 

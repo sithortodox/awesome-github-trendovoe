@@ -1886,5 +1886,16 @@
     "stars": 9670,
     "language": "C#",
     "featured_at": "2026-07-07"
+  },
+  {
+    "full_name": "kyutai-labs/pocket-tts",
+    "name": "pocket-tts",
+    "category": "DevTools",
+    "tags": [
+      "python"
+    ],
+    "stars": 6060,
+    "language": "Python",
+    "featured_at": "2026-07-07"
   }
 ]

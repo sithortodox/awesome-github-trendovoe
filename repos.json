@@ -2273,5 +2273,19 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/246",
     "featured_at": "2026-07-07"
+  },
+  {
+    "name": "pocket-tts",
+    "full_name": "kyutai-labs/pocket-tts",
+    "url": "https://github.com/kyutai-labs/pocket-tts",
+    "description": "🛡️ TTS-система, которая умещается в ваш CPU и даже может быть в кармане вашего смартфона. Без приставки \"Разработанная компанией XYZ\". Позволяет создавать естественные голосовые сообщения для мобильных приложений без зависаний от внешних сервисов. Подходит для разработчиков, ставящих текстовые сообщения на более человеческий уровень: комиксы, вебинары и даже интерактивные учебники. 🎉",
+    "language": "Python",
+    "stars": 6060,
+    "category": "DevTools",
+    "tags": [
+      "python"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/247",
+    "featured_at": "2026-07-07"
   }
 ]
