@@ -6,11 +6,11 @@
 
 ---
 
-**128 репозиториев** в каталоге
+**129 репозиториев** в каталоге
 
 ## Категории
 
-- [AI Agents](categories/agents.md) (31)
+- [AI Agents](categories/agents.md) (32)
 - [AI](categories/ai.md) (20)
 - [Web Development](categories/web-development.md) (19)
 - [DevTools](categories/devtools.md) (12)
@@ -25,6 +25,17 @@
 - [Other](categories/other.md) (3)
 
 ## AI Agents
+
+### [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
+
+🚀 iOfficeAI/OfficeCLI — первый и лучший пакет Office для агентов искусственного интеллекта. Умеет читать, редактировать и автоматизировать файлы Word, Excel и PowerPoint без установки Office. Бесплатный и с открытым исходным кодом, один двоичный файл сделает работу с документами упрощенной. Идеален для разработчиков, использующих AI-агентов, автоматизации бизнес-процессов и технических специалистов в области IT.
+
+⭐ 9,670
+💻 C#
+🏷 `c#` `agent` `ai` `claude-code` `cli` `codex`
+📅 2026-07-07
+🔗 [GitHub](https://github.com/iOfficeAI/OfficeCLI)
+📢 [Telegram Post](https://t.me/github_trendovoe/246)
 
 ### [last30days-skill](https://github.com/mvanhorn/last30days-skill)
 
@@ -140,17 +151,6 @@ Langflow поддерживает создание рабочих процесс
 📅 2026-07-02
 🔗 [GitHub](https://github.com/agentskills/agentskills)
 📢 [Telegram Post](https://t.me/github_trendovoe/212)
-
-### [career-ops](https://github.com/santifer/career-ops)
-
-🤖 Сантифер/сantifer/career-ops — система поиска работы на основе искусственного интеллекта, использующая Claude Code. Позволяет создавать собственные режимы навыков с 14 различными функциями, включая автоматическую рассылку панели управления Go и возможность создания PDF-файлов для документов. Поддерживает запуск пакетных задач и обработки множества работодателей за один проход. Идеально подходит для начинающих, которые хотят ускорить процесс поиска работы с помощью AI, а также для профессиональных поисковиков и рекрутеров, которым необходим инструмент для мгновенного анализа CV-шек. Ключевая фича — возможность создания уникальных навыков на основе обучающих данных, что делает систему привлекательной для пользователей любого уровня мастерства.
-
-⭐ 57,418
-💻 JavaScript
-🏷 `javascript` `ai-agent` `anthropic` `automation` `beginner-friendly` `career`
-📅 2026-07-02
-🔗 [GitHub](https://github.com/santifer/career-ops)
-📢 [Telegram Post](https://t.me/github_trendovoe/209)
 
 ## AI
 

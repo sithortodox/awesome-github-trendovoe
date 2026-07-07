@@ -1870,5 +1870,21 @@
     "stars": 3766,
     "language": "HTML",
     "featured_at": "2026-07-07"
+  },
+  {
+    "full_name": "iOfficeAI/OfficeCLI",
+    "name": "OfficeCLI",
+    "category": "AI Agents",
+    "tags": [
+      "c#",
+      "agent",
+      "ai",
+      "claude-code",
+      "cli",
+      "codex"
+    ],
+    "stars": 9670,
+    "language": "C#",
+    "featured_at": "2026-07-07"
   }
 ]

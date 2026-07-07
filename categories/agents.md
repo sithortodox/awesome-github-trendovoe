@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**31 репозиториев**
+**32 репозиториев**
+
+### [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
+
+🚀 iOfficeAI/OfficeCLI — первый и лучший пакет Office для агентов искусственного интеллекта. Умеет читать, редактировать и автоматизировать файлы Word, Excel и PowerPoint без установки Office. Бесплатный и с открытым исходным кодом, один двоичный файл сделает работу с документами упрощенной. Идеален для разработчиков, использующих AI-агентов, автоматизации бизнес-процессов и технических специалистов в области IT.
+
+⭐ 9,670
+💻 C#
+🏷 `c#` `agent` `ai` `claude-code` `cli` `codex`
+📅 2026-07-07
+🔗 [GitHub](https://github.com/iOfficeAI/OfficeCLI)
+📢 [Telegram Post](https://t.me/github_trendovoe/246)
 
 ### [last30days-skill](https://github.com/mvanhorn/last30days-skill)
 

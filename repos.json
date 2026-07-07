@@ -2254,5 +2254,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/245",
     "featured_at": "2026-07-07"
+  },
+  {
+    "name": "OfficeCLI",
+    "full_name": "iOfficeAI/OfficeCLI",
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "description": "🚀 iOfficeAI/OfficeCLI — первый и лучший пакет Office для агентов искусственного интеллекта. Умеет читать, редактировать и автоматизировать файлы Word, Excel и PowerPoint без установки Office. Бесплатный и с открытым исходным кодом, один двоичный файл сделает работу с документами упрощенной. Идеален для разработчиков, использующих AI-агентов, автоматизации бизнес-процессов и технических специалистов в области IT.",
+    "language": "C#",
+    "stars": 9670,
+    "category": "AI Agents",
+    "tags": [
+      "c#",
+      "agent",
+      "ai",
+      "claude-code",
+      "cli",
+      "codex"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/246",
+    "featured_at": "2026-07-07"
   }
 ]
