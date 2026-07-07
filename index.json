@@ -1855,5 +1855,20 @@
     "stars": 8681,
     "language": "TypeScript",
     "featured_at": "2026-07-07"
+  },
+  {
+    "full_name": "AhmadIbrahiim/Website-downloader",
+    "name": "Website-downloader",
+    "category": "Web Development",
+    "tags": [
+      "html",
+      "assets",
+      "downloader",
+      "offline-web-pages",
+      "scraper"
+    ],
+    "stars": 3766,
+    "language": "HTML",
+    "featured_at": "2026-07-07"
   }
 ]

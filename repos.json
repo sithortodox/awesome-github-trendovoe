@@ -2236,5 +2236,23 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/244",
     "featured_at": "2026-07-07"
+  },
+  {
+    "name": "Website-downloader",
+    "full_name": "AhmadIbrahiim/Website-downloader",
+    "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+    "description": "🔥 Документатор исходных кодов веб-сайтов — всё с одного клика! 🌐 Просто укажите URL сайта и сохраните весь HTML, CSS, JS, изображения и другие ресурсы. Экономьте время на сборку проекта без необходимости скачивать страницу целиком. Совместим со всеми современными браузерами и поддерживает миллионы сайтов. Без воды!",
+    "language": "HTML",
+    "stars": 3766,
+    "category": "Web Development",
+    "tags": [
+      "html",
+      "assets",
+      "downloader",
+      "offline-web-pages",
+      "scraper"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/245",
+    "featured_at": "2026-07-07"
   }
 ]

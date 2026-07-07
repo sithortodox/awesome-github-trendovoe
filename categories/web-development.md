@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**18 репозиториев**
+**19 репозиториев**
+
+### [Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader)
+
+🔥 Документатор исходных кодов веб-сайтов — всё с одного клика! 🌐 Просто укажите URL сайта и сохраните весь HTML, CSS, JS, изображения и другие ресурсы. Экономьте время на сборку проекта без необходимости скачивать страницу целиком. Совместим со всеми современными браузерами и поддерживает миллионы сайтов. Без воды!
+
+⭐ 3,766
+💻 HTML
+🏷 `html` `assets` `downloader` `offline-web-pages` `scraper`
+📅 2026-07-07
+🔗 [GitHub](https://github.com/AhmadIbrahiim/Website-downloader)
+📢 [Telegram Post](https://t.me/github_trendovoe/245)
 
 ### [ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 

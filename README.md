@@ -6,13 +6,13 @@
 
 ---
 
-**127 репозиториев** в каталоге
+**128 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (31)
 - [AI](categories/ai.md) (20)
-- [Web Development](categories/web-development.md) (18)
+- [Web Development](categories/web-development.md) (19)
 - [DevTools](categories/devtools.md) (12)
 - [Education](categories/education.md) (9)
 - [MCP](categories/mcp.md) (7)
@@ -302,6 +302,17 @@ Langflow поддерживает создание рабочих процесс
 
 ## Web Development
 
+### [Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader)
+
+🔥 Документатор исходных кодов веб-сайтов — всё с одного клика! 🌐 Просто укажите URL сайта и сохраните весь HTML, CSS, JS, изображения и другие ресурсы. Экономьте время на сборку проекта без необходимости скачивать страницу целиком. Совместим со всеми современными браузерами и поддерживает миллионы сайтов. Без воды!
+
+⭐ 3,766
+💻 HTML
+🏷 `html` `assets` `downloader` `offline-web-pages` `scraper`
+📅 2026-07-07
+🔗 [GitHub](https://github.com/AhmadIbrahiim/Website-downloader)
+📢 [Telegram Post](https://t.me/github_trendovoe/245)
+
 ### [ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 
 🤖 Платформа подачи заявок на работу на базе искусственного интеллекта MadsLorentzen/ai-job-search. Создайте профиль, заполните информацию о себе — Клод будет анализировать вакансии, генерировать резюме и письма к потенциальным работодателям. Подходит для тех, кто хочет автоматизировать процесс подачи заявок и увеличить шансы на успех.
@@ -416,17 +427,6 @@ Langflow поддерживает создание рабочих процесс
 📅 2026-07-02
 🔗 [GitHub](https://github.com/refactoringhq/tolaria)
 📢 [Telegram Post](https://t.me/github_trendovoe/205)
-
-### [logto](https://github.com/logto-io/logto)
-
-🔑🔒 Инфраструктура аутентификации и авторизации для приложений SaaS и AI на основе OIDC и OAuth 2.1. Поддерживает мультитенантность, Single Sign-On (SSO) и модель ролей-ресурсов (RBAC). Позволяет создавать простые и безопасные механизмы для управления доступом к сервисам в масштабах приложений SaaS и искусственного интеллекта. Ключевая фича - интеграция с популярными библиотеками на TypeScript. Полезно для разработчиков приложений SaaS, AI-систем и DevOps-команд.
-
-⭐ 13,162
-💻 TypeScript
-🏷 `typescript` `authentication` `authorization` `email` `identity` `jwt`
-📅 2026-07-01
-🔗 [GitHub](https://github.com/logto-io/logto)
-📢 [Telegram Post](https://t.me/github_trendovoe/201)
 
 ## DevTools
 
