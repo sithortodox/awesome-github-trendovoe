@@ -1913,5 +1913,21 @@
     "stars": 7325,
     "language": "TypeScript",
     "featured_at": "2026-07-08"
+  },
+  {
+    "full_name": "prisma/prisma",
+    "name": "prisma",
+    "category": "Web Development",
+    "tags": [
+      "typescript",
+      "cockroachdb",
+      "database",
+      "javascript",
+      "mariadb",
+      "mongo"
+    ],
+    "stars": 46414,
+    "language": "TypeScript",
+    "featured_at": "2026-07-08"
   }
 ]

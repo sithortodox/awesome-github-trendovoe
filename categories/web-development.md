@@ -2,7 +2,24 @@
 
 [← Назад](../README.md)
 
-**19 репозиториев**
+**20 репозиториев**
+
+### [prisma](https://github.com/prisma/prisma)
+
+🔍 ORM нового поколения для Node.js и TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB и CockroachDB.
+
+🛠️ Prisma представляет собой инструмент, который автоматически генерирует базовые схемы для вашей базы данных, используя типизированные синтаксисы языков TypeScript или CoffeeScript. 
+
+📊 Это позволяет поддерживать до 50+ различных форматов и реляционных систем БД — от PostgreSQL и MySQL до SQLite и CockroachDB.
+
+🔑 Основное отличие Prisma заключается в его способности генерировать типизированные синтаксисы, что делает работу с базами данных более удобной и безопасной для разработчиков.
+
+⭐ 46,414
+💻 TypeScript
+🏷 `typescript` `cockroachdb` `database` `javascript` `mariadb` `mongo`
+📅 2026-07-08
+🔗 [GitHub](https://github.com/prisma/prisma)
+📢 [Telegram Post](https://t.me/github_trendovoe/249)
 
 ### [Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader)
 

@@ -2306,5 +2306,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/248",
     "featured_at": "2026-07-08"
+  },
+  {
+    "name": "prisma",
+    "full_name": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "description": "🔍 ORM нового поколения для Node.js и TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB и CockroachDB.\n\n🛠️ Prisma представляет собой инструмент, который автоматически генерирует базовые схемы для вашей базы данных, используя типизированные синтаксисы языков TypeScript или CoffeeScript. \n\n📊 Это позволяет поддерживать до 50+ различных форматов и реляционных систем БД — от PostgreSQL и MySQL до SQLite и CockroachDB.\n\n🔑 Основное отличие Prisma заключается в его способности генерировать типизированные синтаксисы, что делает работу с базами данных более удобной и безопасной для разработчиков.",
+    "language": "TypeScript",
+    "stars": 46414,
+    "category": "Web Development",
+    "tags": [
+      "typescript",
+      "cockroachdb",
+      "database",
+      "javascript",
+      "mariadb",
+      "mongo"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/249",
+    "featured_at": "2026-07-08"
   }
 ]

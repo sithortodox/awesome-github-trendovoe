@@ -6,13 +6,13 @@
 
 ---
 
-**131 репозиториев** в каталоге
+**132 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (33)
 - [AI](categories/ai.md) (20)
-- [Web Development](categories/web-development.md) (19)
+- [Web Development](categories/web-development.md) (20)
 - [DevTools](categories/devtools.md) (13)
 - [Education](categories/education.md) (9)
 - [MCP](categories/mcp.md) (7)
@@ -306,6 +306,23 @@ Langflow поддерживает создание рабочих процесс
 
 ## Web Development
 
+### [prisma](https://github.com/prisma/prisma)
+
+🔍 ORM нового поколения для Node.js и TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB и CockroachDB.
+
+🛠️ Prisma представляет собой инструмент, который автоматически генерирует базовые схемы для вашей базы данных, используя типизированные синтаксисы языков TypeScript или CoffeeScript. 
+
+📊 Это позволяет поддерживать до 50+ различных форматов и реляционных систем БД — от PostgreSQL и MySQL до SQLite и CockroachDB.
+
+🔑 Основное отличие Prisma заключается в его способности генерировать типизированные синтаксисы, что делает работу с базами данных более удобной и безопасной для разработчиков.
+
+⭐ 46,414
+💻 TypeScript
+🏷 `typescript` `cockroachdb` `database` `javascript` `mariadb` `mongo`
+📅 2026-07-08
+🔗 [GitHub](https://github.com/prisma/prisma)
+📢 [Telegram Post](https://t.me/github_trendovoe/249)
+
 ### [Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader)
 
 🔥 Документатор исходных кодов веб-сайтов — всё с одного клика! 🌐 Просто укажите URL сайта и сохраните весь HTML, CSS, JS, изображения и другие ресурсы. Экономьте время на сборку проекта без необходимости скачивать страницу целиком. Совместим со всеми современными браузерами и поддерживает миллионы сайтов. Без воды!
@@ -418,19 +435,6 @@ Langflow поддерживает создание рабочих процесс
 📅 2026-07-02
 🔗 [GitHub](https://github.com/actions/checkout)
 📢 [Telegram Post](https://t.me/github_trendovoe/211)
-
-### [tolaria](https://github.com/refactoringhq/tolaria)
-
-🛠 🚀 Настольная платформа для управления базами знаний — идеально подходит для разработчиков, DevOps и данных инженеров. Оптимизирована для работы с большими объемами информации, позволяет легко управлять документацией и инструкциями. 📄 Проблема в том, что часто требуется собрать все знания в одном месте для эффективного управления проектом или командой. 
-
-💡 Отличие: тул-система поддерживает более 50 популярных форматов файлов (Markdown, DOCX, PDF и др.), делая процесс редактирования и чтения базы знаний удобным и простым в использовании.
-
-⭐ 18,061
-💻 TypeScript
-🏷 `typescript`
-📅 2026-07-02
-🔗 [GitHub](https://github.com/refactoringhq/tolaria)
-📢 [Telegram Post](https://t.me/github_trendovoe/205)
 
 ## DevTools
 
