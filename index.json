@@ -1945,5 +1945,16 @@
     "stars": 23396,
     "language": "Go",
     "featured_at": "2026-07-08"
+  },
+  {
+    "full_name": "Diolinux/PhotoGIMP",
+    "name": "PhotoGIMP",
+    "category": "Other",
+    "tags": [
+      "css"
+    ],
+    "stars": 14926,
+    "language": "CSS",
+    "featured_at": "2026-07-08"
   }
 ]

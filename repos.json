@@ -2344,5 +2344,19 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/250",
     "featured_at": "2026-07-08"
+  },
+  {
+    "name": "PhotoGIMP",
+    "full_name": "Diolinux/PhotoGIMP",
+    "url": "https://github.com/Diolinux/PhotoGIMP",
+    "description": "⚡️ Патч для GIMP 3+ для пользователей Photoshop: конвертация командных команд в рабочих области, улучшенные инструменты для создания слоев и шаблонов. Теперь можно быстро переключаться между программами без потери производительности, сохраняя стиль работы. Взаимодействие с Photoshop позволяет быстрее адаптироваться к новой среде, уменьшая разрыв обучения.",
+    "language": "CSS",
+    "stars": 14926,
+    "category": "Other",
+    "tags": [
+      "css"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/251",
+    "featured_at": "2026-07-08"
   }
 ]

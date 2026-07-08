@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**3 репозиториев**
+**4 репозиториев**
+
+### [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
+
+⚡️ Патч для GIMP 3+ для пользователей Photoshop: конвертация командных команд в рабочих области, улучшенные инструменты для создания слоев и шаблонов. Теперь можно быстро переключаться между программами без потери производительности, сохраняя стиль работы. Взаимодействие с Photoshop позволяет быстрее адаптироваться к новой среде, уменьшая разрыв обучения.
+
+⭐ 14,926
+💻 CSS
+🏷 `css`
+📅 2026-07-08
+🔗 [GitHub](https://github.com/Diolinux/PhotoGIMP)
+📢 [Telegram Post](https://t.me/github_trendovoe/251)
 
 ### [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)
 
