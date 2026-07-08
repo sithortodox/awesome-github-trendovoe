@@ -2,7 +2,22 @@
 
 [← Назад](../README.md)
 
-**32 репозиториев**
+**33 репозиториев**
+
+### [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+
+🛠 TencentDB-Agent-Memory предоставляет инновационную память агента с прогрессивным конвейером на 4 уровнях, полностью поддерживающую локальные ИИ-системы без зависимости от внешних API. 🚀
+
+
+
+Такой подход делает проект еще более привлекательным для тех, кто стремится к стабильности и масштабируемости своих ИИ-решений в условиях ограничений сети.
+
+⭐ 7,325
+💻 TypeScript
+🏷 `typescript` `agent` `ai-agent` `embedding` `llm` `local-first`
+📅 2026-07-08
+🔗 [GitHub](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+📢 [Telegram Post](https://t.me/github_trendovoe/248)
 
 ### [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
 

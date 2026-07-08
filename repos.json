@@ -2287,5 +2287,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/247",
     "featured_at": "2026-07-07"
+  },
+  {
+    "name": "TencentDB-Agent-Memory",
+    "full_name": "TencentCloud/TencentDB-Agent-Memory",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "description": "🛠 TencentDB-Agent-Memory предоставляет инновационную память агента с прогрессивным конвейером на 4 уровнях, полностью поддерживающую локальные ИИ-системы без зависимости от внешних API. 🚀\n\n\n\nТакой подход делает проект еще более привлекательным для тех, кто стремится к стабильности и масштабируемости своих ИИ-решений в условиях ограничений сети.",
+    "language": "TypeScript",
+    "stars": 7325,
+    "category": "AI Agents",
+    "tags": [
+      "typescript",
+      "agent",
+      "ai-agent",
+      "embedding",
+      "llm",
+      "local-first"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/248",
+    "featured_at": "2026-07-08"
   }
 ]

@@ -6,11 +6,11 @@
 
 ---
 
-**130 репозиториев** в каталоге
+**131 репозиториев** в каталоге
 
 ## Категории
 
-- [AI Agents](categories/agents.md) (32)
+- [AI Agents](categories/agents.md) (33)
 - [AI](categories/ai.md) (20)
 - [Web Development](categories/web-development.md) (19)
 - [DevTools](categories/devtools.md) (13)
@@ -25,6 +25,21 @@
 - [Other](categories/other.md) (3)
 
 ## AI Agents
+
+### [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+
+🛠 TencentDB-Agent-Memory предоставляет инновационную память агента с прогрессивным конвейером на 4 уровнях, полностью поддерживающую локальные ИИ-системы без зависимости от внешних API. 🚀
+
+
+
+Такой подход делает проект еще более привлекательным для тех, кто стремится к стабильности и масштабируемости своих ИИ-решений в условиях ограничений сети.
+
+⭐ 7,325
+💻 TypeScript
+🏷 `typescript` `agent` `ai-agent` `embedding` `llm` `local-first`
+📅 2026-07-08
+🔗 [GitHub](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+📢 [Telegram Post](https://t.me/github_trendovoe/248)
 
 ### [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
 
@@ -140,17 +155,6 @@ Langflow поддерживает создание рабочих процесс
 📅 2026-07-03
 🔗 [GitHub](https://github.com/langflow-ai/langflow)
 📢 [Telegram Post](https://t.me/github_trendovoe/214)
-
-### [agentskills](https://github.com/agentskills/agentskills)
-
-🌟 Поддерживает более 50 различных языковых моделей с автоматической подстановкой параметров. Создает интегрированную среду для работы с разными NLP-технологиями, что значительно ускоряет процесс разработки и экспериментирования для data-инженеров и машинного обучения. 🛠️
-
-⭐ 21,563
-💻 Python
-🏷 `python` `agent-skills`
-📅 2026-07-02
-🔗 [GitHub](https://github.com/agentskills/agentskills)
-📢 [Telegram Post](https://t.me/github_trendovoe/212)
 
 ## AI
 

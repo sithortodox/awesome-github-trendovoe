@@ -1897,5 +1897,21 @@
     "stars": 6060,
     "language": "Python",
     "featured_at": "2026-07-07"
+  },
+  {
+    "full_name": "TencentCloud/TencentDB-Agent-Memory",
+    "name": "TencentDB-Agent-Memory",
+    "category": "AI Agents",
+    "tags": [
+      "typescript",
+      "agent",
+      "ai-agent",
+      "embedding",
+      "llm",
+      "local-first"
+    ],
+    "stars": 7325,
+    "language": "TypeScript",
+    "featured_at": "2026-07-08"
   }
 ]
