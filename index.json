@@ -1956,5 +1956,21 @@
     "stars": 14926,
     "language": "CSS",
     "featured_at": "2026-07-08"
+  },
+  {
+    "full_name": "wonderwhy-er/DesktopCommanderMCP",
+    "name": "DesktopCommanderMCP",
+    "category": "AI Agents",
+    "tags": [
+      "typescript",
+      "agent",
+      "ai",
+      "code-analysis",
+      "code-generation",
+      "gemini-cli-extension"
+    ],
+    "stars": 6355,
+    "language": "TypeScript",
+    "featured_at": "2026-07-08"
   }
 ]

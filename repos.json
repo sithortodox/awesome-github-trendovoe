@@ -2358,5 +2358,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/251",
     "featured_at": "2026-07-08"
+  },
+  {
+    "name": "DesktopCommanderMCP",
+    "full_name": "wonderwhy-er/DesktopCommanderMCP",
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "description": "🔧 wonderwhy-er/DesktopCommanderMCP - новый MCP-сервер для команды Claude, который значительно упрощает управление терминалом, поиск в файловой системе и редактирование файлов различий. Позволяет создателям автономных AI-агентов (agent-framework) более эффективно работать с кодом на TypeScript, что особенно полезно для тех, кто использует Gemini-cli-extension. 💡 Синтаксис разметки Markdown не поддерживается в этой форме, поэтому я убрал его и оставлю только текстовое описание.",
+    "language": "TypeScript",
+    "stars": 6355,
+    "category": "AI Agents",
+    "tags": [
+      "typescript",
+      "agent",
+      "ai",
+      "code-analysis",
+      "code-generation",
+      "gemini-cli-extension"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/252",
+    "featured_at": "2026-07-08"
   }
 ]

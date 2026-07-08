@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**33 репозиториев**
+**34 репозиториев**
+
+### [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
+
+🔧 wonderwhy-er/DesktopCommanderMCP - новый MCP-сервер для команды Claude, который значительно упрощает управление терминалом, поиск в файловой системе и редактирование файлов различий. Позволяет создателям автономных AI-агентов (agent-framework) более эффективно работать с кодом на TypeScript, что особенно полезно для тех, кто использует Gemini-cli-extension. 💡 Синтаксис разметки Markdown не поддерживается в этой форме, поэтому я убрал его и оставлю только текстовое описание.
+
+⭐ 6,355
+💻 TypeScript
+🏷 `typescript` `agent` `ai` `code-analysis` `code-generation` `gemini-cli-extension`
+📅 2026-07-08
+🔗 [GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP)
+📢 [Telegram Post](https://t.me/github_trendovoe/252)
 
 ### [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 

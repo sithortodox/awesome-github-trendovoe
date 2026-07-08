@@ -6,11 +6,11 @@
 
 ---
 
-**134 репозиториев** в каталоге
+**135 репозиториев** в каталоге
 
 ## Категории
 
-- [AI Agents](categories/agents.md) (33)
+- [AI Agents](categories/agents.md) (34)
 - [AI](categories/ai.md) (20)
 - [Web Development](categories/web-development.md) (20)
 - [DevTools](categories/devtools.md) (13)
@@ -25,6 +25,17 @@
 - [Automation](categories/automation.md) (3)
 
 ## AI Agents
+
+### [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
+
+🔧 wonderwhy-er/DesktopCommanderMCP - новый MCP-сервер для команды Claude, который значительно упрощает управление терминалом, поиск в файловой системе и редактирование файлов различий. Позволяет создателям автономных AI-агентов (agent-framework) более эффективно работать с кодом на TypeScript, что особенно полезно для тех, кто использует Gemini-cli-extension. 💡 Синтаксис разметки Markdown не поддерживается в этой форме, поэтому я убрал его и оставлю только текстовое описание.
+
+⭐ 6,355
+💻 TypeScript
+🏷 `typescript` `agent` `ai` `code-analysis` `code-generation` `gemini-cli-extension`
+📅 2026-07-08
+🔗 [GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP)
+📢 [Telegram Post](https://t.me/github_trendovoe/252)
 
 ### [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
@@ -138,23 +149,6 @@
 📅 2026-07-04
 🔗 [GitHub](https://github.com/dotnet/skills)
 📢 [Telegram Post](https://t.me/github_trendovoe/226)
-
-### [langflow](https://github.com/langflow-ai/langflow)
-
-🔧 🔬 Langflow — инструмент для создания и развертывания агентов на базе искусственного интеллекта.
-
-Langflow поддерживает создание рабочих процессов, включающих до 100 различных шагов, автоматизированных с помощью готовых инструкций или собственных обученных моделей. Это позволяет пользователям строить сложные AI-системы для управления различными задачами без необходимости напрямую программировать.
-
-Проект отличается от конкурентов тем, что он поддерживает до 100 различных типов шагов и интеграции с популярными платформами. Подходит для разработчиков, DevOps-менеджеров и технических команд, которые хотят внедрить искусственный интеллект в свои системы без необходимости глубокого понимания алгоритмической части.
-
-🔥 🔌 Создавайте мощные AI-системы с Langflow и ускоряйте процесс внедрения технологии.
-
-⭐ 150,780
-💻 Python
-🏷 `python` `agents` `chatgpt` `generative-ai` `large-language-models` `multiagent`
-📅 2026-07-03
-🔗 [GitHub](https://github.com/langflow-ai/langflow)
-📢 [Telegram Post](https://t.me/github_trendovoe/214)
 
 ## AI
 
