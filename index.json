@@ -1972,5 +1972,18 @@
     "stars": 6355,
     "language": "TypeScript",
     "featured_at": "2026-07-08"
+  },
+  {
+    "full_name": "huxingyi/autoremesher",
+    "name": "autoremesher",
+    "category": "Automation",
+    "tags": [
+      "c++",
+      "quadremesh",
+      "retopology"
+    ],
+    "stars": 1992,
+    "language": "C++",
+    "featured_at": "2026-07-09"
   }
 ]
