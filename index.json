@@ -2038,5 +2038,16 @@
     "stars": 19299,
     "language": "Go",
     "featured_at": "2026-07-09"
+  },
+  {
+    "full_name": "unclecode/crawl4ai",
+    "name": "crawl4ai",
+    "category": "Automation",
+    "tags": [
+      "python"
+    ],
+    "stars": 71789,
+    "language": "Python",
+    "featured_at": "2026-07-09"
   }
 ]

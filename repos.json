@@ -2458,5 +2458,19 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/257",
     "featured_at": "2026-07-09"
+  },
+  {
+    "name": "crawl4ai",
+    "full_name": "unclecode/crawl4ai",
+    "url": "https://github.com/unclecode/crawl4ai",
+    "description": "🚀💻 Crawl4AI — веб-сканер и парсер с открытым исходным кодом на Python. Запускает асинхронные сканирования, интегрируя результаты в базу данных для удобного анализа и использования AI-технологий. Позволяет автоматически извлекать информацию из веб-сайтов и статических HTML страниц без необходимости напрямую обрабатывать HTML код. Команда разработчиков поддерживает API для локальной интеграции. Удобен для тех, кто работает с Large Language Models (LLM) и собирает данные для машинного обучения или аналитики. Отличие от конкурентов — полная открытость кода и поддержка крупных данных. Присоединяйтесь к нами на Discord: https://discord.gg/jP8KfhDhyN",
+    "language": "Python",
+    "stars": 71789,
+    "category": "Automation",
+    "tags": [
+      "python"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/258",
+    "featured_at": "2026-07-09"
   }
 ]
