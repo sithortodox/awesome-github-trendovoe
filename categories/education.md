@@ -2,7 +2,17 @@
 
 [← Назад](../README.md)
 
-**9 репозиториев**
+**10 репозиториев**
+
+### [awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+
+🔥 ВолтАгент/awesome-design-md — коллекция примеров файла DESIGN.md от ведущих бренд дизайнеров. Открывает доступ к сотням пользовательских интерфейсов на одной странице, экономит время и усилия разработчиков при создании собственных. Подходит для всех кто работает над проектами с брендингом — от маленьких стартапов до крупных корпораций. 🌟
+
+⭐ 99,239
+🏷 `awesome-list` `design-md` `design-system` `design-tokens` `figma`
+📅 2026-07-09
+🔗 [GitHub](https://github.com/VoltAgent/awesome-design-md)
+📢 [Telegram Post](https://t.me/github_trendovoe/255)
 
 ### [awesome](https://github.com/sindresorhus/awesome)
 

@@ -1996,5 +1996,20 @@
     "stars": 1772,
     "language": "C#",
     "featured_at": "2026-07-09"
+  },
+  {
+    "full_name": "VoltAgent/awesome-design-md",
+    "name": "awesome-design-md",
+    "category": "Education",
+    "tags": [
+      "awesome-list",
+      "design-md",
+      "design-system",
+      "design-tokens",
+      "figma"
+    ],
+    "stars": 99239,
+    "language": "",
+    "featured_at": "2026-07-09"
   }
 ]

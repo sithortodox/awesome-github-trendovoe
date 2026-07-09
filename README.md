@@ -6,7 +6,7 @@
 
 ---
 
-**137 репозиториев** в каталоге
+**138 репозиториев** в каталоге
 
 ## Категории
 
@@ -14,7 +14,7 @@
 - [AI](categories/ai.md) (20)
 - [Web Development](categories/web-development.md) (20)
 - [DevTools](categories/devtools.md) (13)
-- [Education](categories/education.md) (9)
+- [Education](categories/education.md) (10)
 - [MCP](categories/mcp.md) (7)
 - [Cybersecurity](categories/cybersecurity.md) (5)
 - [Data Science](categories/data-science.md) (5)
@@ -560,6 +560,16 @@ git push без ошибок
 📢 [Telegram Post](https://t.me/github_trendovoe/162)
 
 ## Education
+
+### [awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+
+🔥 ВолтАгент/awesome-design-md — коллекция примеров файла DESIGN.md от ведущих бренд дизайнеров. Открывает доступ к сотням пользовательских интерфейсов на одной странице, экономит время и усилия разработчиков при создании собственных. Подходит для всех кто работает над проектами с брендингом — от маленьких стартапов до крупных корпораций. 🌟
+
+⭐ 99,239
+🏷 `awesome-list` `design-md` `design-system` `design-tokens` `figma`
+📅 2026-07-09
+🔗 [GitHub](https://github.com/VoltAgent/awesome-design-md)
+📢 [Telegram Post](https://t.me/github_trendovoe/255)
 
 ### [awesome](https://github.com/sindresorhus/awesome)
 

@@ -2407,5 +2407,23 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/254",
     "featured_at": "2026-07-09"
+  },
+  {
+    "name": "awesome-design-md",
+    "full_name": "VoltAgent/awesome-design-md",
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "description": "🔥 ВолтАгент/awesome-design-md — коллекция примеров файла DESIGN.md от ведущих бренд дизайнеров. Открывает доступ к сотням пользовательских интерфейсов на одной странице, экономит время и усилия разработчиков при создании собственных. Подходит для всех кто работает над проектами с брендингом — от маленьких стартапов до крупных корпораций. 🌟",
+    "language": "",
+    "stars": 99239,
+    "category": "Education",
+    "tags": [
+      "awesome-list",
+      "design-md",
+      "design-system",
+      "design-tokens",
+      "figma"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/255",
+    "featured_at": "2026-07-09"
   }
 ]
