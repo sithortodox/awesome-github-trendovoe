@@ -2011,5 +2011,16 @@
     "stars": 99239,
     "language": "",
     "featured_at": "2026-07-09"
+  },
+  {
+    "full_name": "anthropics/claude-cookbooks",
+    "name": "claude-cookbooks",
+    "category": "Education",
+    "tags": [
+      "jupyter notebook"
+    ],
+    "stars": 47026,
+    "language": "Jupyter Notebook",
+    "featured_at": "2026-07-09"
   }
 ]

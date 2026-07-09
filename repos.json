@@ -2425,5 +2425,19 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/255",
     "featured_at": "2026-07-09"
+  },
+  {
+    "name": "claude-cookbooks",
+    "full_name": "anthropics/claude-cookbooks",
+    "url": "https://github.com/anthropics/claude-cookbooks",
+    "description": "🌈 Anthropics/claude-cookbooks — коллекция Jupyter Notebook-блокнотов с забавными и эффективными примерами использования Claude AI. Позволяет разработчикам, data-инженерам и командам демонстрировать возможности языковой модели Claude в реальных задачах. Например, автоматически генерировать тестовые данные или форматировать текст для стилизации. Отличительная особенность — примеры на основе официального API Claude, что позволяет использовать результаты прямо в коде без необходимости прокси-сервисов. Команда рекомендует это для всех, кто хочет начать экспериментировать с Claude и увидеть его потенциал в различных проектах.",
+    "language": "Jupyter Notebook",
+    "stars": 47026,
+    "category": "Education",
+    "tags": [
+      "jupyter notebook"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/256",
+    "featured_at": "2026-07-09"
   }
 ]

@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**10 репозиториев**
+**11 репозиториев**
+
+### [claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+
+🌈 Anthropics/claude-cookbooks — коллекция Jupyter Notebook-блокнотов с забавными и эффективными примерами использования Claude AI. Позволяет разработчикам, data-инженерам и командам демонстрировать возможности языковой модели Claude в реальных задачах. Например, автоматически генерировать тестовые данные или форматировать текст для стилизации. Отличительная особенность — примеры на основе официального API Claude, что позволяет использовать результаты прямо в коде без необходимости прокси-сервисов. Команда рекомендует это для всех, кто хочет начать экспериментировать с Claude и увидеть его потенциал в различных проектах.
+
+⭐ 47,026
+💻 Jupyter Notebook
+🏷 `jupyter notebook`
+📅 2026-07-09
+🔗 [GitHub](https://github.com/anthropics/claude-cookbooks)
+📢 [Telegram Post](https://t.me/github_trendovoe/256)
 
 ### [awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
 
