@@ -1985,5 +1985,16 @@
     "stars": 1992,
     "language": "C++",
     "featured_at": "2026-07-09"
+  },
+  {
+    "full_name": "SmartlyDressedGames/U3-SDK",
+    "name": "U3-SDK",
+    "category": "Other",
+    "tags": [
+      "c#"
+    ],
+    "stars": 1772,
+    "language": "C#",
+    "featured_at": "2026-07-09"
   }
 ]

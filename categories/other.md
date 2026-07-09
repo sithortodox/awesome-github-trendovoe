@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**4 репозиториев**
+**5 репозиториев**
+
+### [U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK)
+
+Исходный код Unturned, бесплатной игры-песочницы на выживание зомби в открытом мире.
+
+⭐ 1,772
+💻 C#
+🏷 `c#`
+📅 2026-07-09
+🔗 [GitHub](https://github.com/SmartlyDressedGames/U3-SDK)
+📢 [Telegram Post](https://t.me/github_trendovoe/254)
 
 ### [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
 

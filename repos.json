@@ -2393,5 +2393,19 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/253",
     "featured_at": "2026-07-09"
+  },
+  {
+    "name": "U3-SDK",
+    "full_name": "SmartlyDressedGames/U3-SDK",
+    "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+    "description": "Исходный код Unturned, бесплатной игры-песочницы на выживание зомби в открытом мире.",
+    "language": "C#",
+    "stars": 1772,
+    "category": "Other",
+    "tags": [
+      "c#"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/254",
+    "featured_at": "2026-07-09"
   }
 ]
