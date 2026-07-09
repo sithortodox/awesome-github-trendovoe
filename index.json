@@ -2022,5 +2022,21 @@
     "stars": 47026,
     "language": "Jupyter Notebook",
     "featured_at": "2026-07-09"
+  },
+  {
+    "full_name": "vxcontrol/pentagi",
+    "name": "pentagi",
+    "category": "Web Development",
+    "tags": [
+      "go",
+      "ai-agents",
+      "ai-security-tool",
+      "anthropic",
+      "autonomous-agents",
+      "golang"
+    ],
+    "stars": 19299,
+    "language": "Go",
+    "featured_at": "2026-07-09"
   }
 ]

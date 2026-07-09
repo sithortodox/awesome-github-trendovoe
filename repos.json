@@ -2439,5 +2439,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/256",
     "featured_at": "2026-07-09"
+  },
+  {
+    "name": "pentagi",
+    "full_name": "vxcontrol/pentagi",
+    "url": "https://github.com/vxcontrol/pentagi",
+    "description": "🤖 Полностью автономная система AI-агентов, которая самостоятельно тестирует проникновения в системные ресурсы. Решает проблему масштабирования защищений на крупных платформах, автоматически обнаруживая и фильтруя потенциальные уязвимости. Подходит для разработчиков системы безопасности, которые стремятся повысить защиту от атак злоумышленников без прямого участия человека.",
+    "language": "Go",
+    "stars": 19299,
+    "category": "Web Development",
+    "tags": [
+      "go",
+      "ai-agents",
+      "ai-security-tool",
+      "anthropic",
+      "autonomous-agents",
+      "golang"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/257",
+    "featured_at": "2026-07-09"
   }
 ]
