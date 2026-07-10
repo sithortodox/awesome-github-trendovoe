@@ -2049,5 +2049,20 @@
     "stars": 71789,
     "language": "Python",
     "featured_at": "2026-07-09"
+  },
+  {
+    "full_name": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "name": "How-To-Secure-A-Linux-Server",
+    "category": "Cybersecurity",
+    "tags": [
+      "cc-by-sa",
+      "hardening",
+      "hardening-steps",
+      "linux",
+      "linux-server"
+    ],
+    "stars": 29094,
+    "language": "",
+    "featured_at": "2026-07-10"
   }
 ]

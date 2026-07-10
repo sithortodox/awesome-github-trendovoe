@@ -2472,5 +2472,23 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/258",
     "featured_at": "2026-07-09"
+  },
+  {
+    "name": "How-To-Secure-A-Linux-Server",
+    "full_name": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+    "description": "🔒 Развивающееся практическое руководство по обеспечению безопасности сервера Linux. 🛡️\n\nРазработчики и DevOps могут научиться эффективным методам защиты своего инфраструктурного пространства от основных уязвимостей, используя этот проект. Как минимум 50 различных проблем и методов их решения изложены в подробностях.\n\n\nПроект отличается от других руководств тем, что он не просто перечисляет шаги, но также объясняет их причины и показывает конкретные уязвимости, которые они предотвращают. Это делает его инструментом для обучения и повышения осведомленности по безопасности для тех, кто работает в системах на уровне сервера.",
+    "language": "",
+    "stars": 29094,
+    "category": "Cybersecurity",
+    "tags": [
+      "cc-by-sa",
+      "hardening",
+      "hardening-steps",
+      "linux",
+      "linux-server"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/259",
+    "featured_at": "2026-07-10"
   }
 ]
