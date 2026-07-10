@@ -2080,5 +2080,16 @@
     "stars": 93862,
     "language": "Rust",
     "featured_at": "2026-07-10"
+  },
+  {
+    "full_name": "abseil/abseil-cpp",
+    "name": "abseil-cpp",
+    "category": "DevTools",
+    "tags": [
+      "c++"
+    ],
+    "stars": 17478,
+    "language": "C++",
+    "featured_at": "2026-07-10"
   }
 ]

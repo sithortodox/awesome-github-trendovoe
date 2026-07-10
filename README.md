@@ -6,14 +6,14 @@
 
 ---
 
-**143 репозиториев** в каталоге
+**144 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (34)
 - [Web Development](categories/web-development.md) (22)
 - [AI](categories/ai.md) (20)
-- [DevTools](categories/devtools.md) (13)
+- [DevTools](categories/devtools.md) (14)
 - [Education](categories/education.md) (11)
 - [MCP](categories/mcp.md) (7)
 - [Cybersecurity](categories/cybersecurity.md) (6)
@@ -424,6 +424,17 @@
 
 ## DevTools
 
+### [abseil-cpp](https://github.com/abseil/abseil-cpp)
+
+✨ Обширная библиотeka abseil (C++) для ускорения разработки кросс-платформенных приложений и систем. Поддерживает 20+ общих функций — от логирования и обработки ошибок до безопасной синхронизации данных. Полезно для программистов, включая разработчиков мобильных и веб-приложений, а также для команд DevOps. Отличается богатым набором инструментов и поддержкой широкого диапазона операционных систем, что позволяет создавать одноплатформенные решения.
+
+⭐ 17,478
+💻 C++
+🏷 `c++`
+📅 2026-07-10
+🔗 [GitHub](https://github.com/abseil/abseil-cpp)
+📢 [Telegram Post](https://t.me/github_trendovoe/261)
+
 ### [pocket-tts](https://github.com/kyutai-labs/pocket-tts)
 
 🛡️ TTS-система, которая умещается в ваш CPU и даже может быть в кармане вашего смартфона. Без приставки "Разработанная компанией XYZ". Позволяет создавать естественные голосовые сообщения для мобильных приложений без зависаний от внешних сервисов. Подходит для разработчиков, ставящих текстовые сообщения на более человеческий уровень: комиксы, вебинары и даже интерактивные учебники. 🎉
@@ -539,17 +550,6 @@
 📅 2026-06-26
 🔗 [GitHub](https://github.com/commaai/openpilot)
 📢 [Telegram Post](https://t.me/github_trendovoe/173)
-
-### [no-mistakes](https://github.com/kunchenguid/no-mistakes)
-
-git push без ошибок
-
-⭐ 2,400
-💻 Go
-🏷 `go`
-📅 2026-06-25
-🔗 [GitHub](https://github.com/kunchenguid/no-mistakes)
-📢 [Telegram Post](https://t.me/github_trendovoe/162)
 
 ## Education
 
