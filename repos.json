@@ -2490,5 +2490,24 @@
     ],
     "telegram_post_url": "https://t.me/github_trendovoe/259",
     "featured_at": "2026-07-10"
+  },
+  {
+    "name": "bun",
+    "full_name": "oven-sh/bun",
+    "url": "https://github.com/oven-sh/bun",
+    "description": "🔥 Шаттл — быстрая сборка модулей на Rust. Автоматическое инжектирование в зависимости от вашей среды выполнения.",
+    "language": "Rust",
+    "stars": 93862,
+    "category": "Web Development",
+    "tags": [
+      "rust",
+      "bun",
+      "bundler",
+      "javascript",
+      "javascriptcore",
+      "jsx"
+    ],
+    "telegram_post_url": "https://t.me/github_trendovoe/260",
+    "featured_at": "2026-07-10"
   }
 ]

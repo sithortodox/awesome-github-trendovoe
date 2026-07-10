@@ -2,7 +2,18 @@
 
 [← Назад](../README.md)
 
-**21 репозиториев**
+**22 репозиториев**
+
+### [bun](https://github.com/oven-sh/bun)
+
+🔥 Шаттл — быстрая сборка модулей на Rust. Автоматическое инжектирование в зависимости от вашей среды выполнения.
+
+⭐ 93,862
+💻 Rust
+🏷 `rust` `bun` `bundler` `javascript` `javascriptcore` `jsx`
+📅 2026-07-10
+🔗 [GitHub](https://github.com/oven-sh/bun)
+📢 [Telegram Post](https://t.me/github_trendovoe/260)
 
 ### [pentagi](https://github.com/vxcontrol/pentagi)
 

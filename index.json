@@ -2064,5 +2064,21 @@
     "stars": 29094,
     "language": "",
     "featured_at": "2026-07-10"
+  },
+  {
+    "full_name": "oven-sh/bun",
+    "name": "bun",
+    "category": "Web Development",
+    "tags": [
+      "rust",
+      "bun",
+      "bundler",
+      "javascript",
+      "javascriptcore",
+      "jsx"
+    ],
+    "stars": 93862,
+    "language": "Rust",
+    "featured_at": "2026-07-10"
   }
 ]

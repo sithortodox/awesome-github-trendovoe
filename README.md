@@ -6,12 +6,12 @@
 
 ---
 
-**142 репозиториев** в каталоге
+**143 репозиториев** в каталоге
 
 ## Категории
 
 - [AI Agents](categories/agents.md) (34)
-- [Web Development](categories/web-development.md) (21)
+- [Web Development](categories/web-development.md) (22)
 - [AI](categories/ai.md) (20)
 - [DevTools](categories/devtools.md) (13)
 - [Education](categories/education.md) (11)
@@ -152,6 +152,17 @@
 
 ## Web Development
 
+### [bun](https://github.com/oven-sh/bun)
+
+🔥 Шаттл — быстрая сборка модулей на Rust. Автоматическое инжектирование в зависимости от вашей среды выполнения.
+
+⭐ 93,862
+💻 Rust
+🏷 `rust` `bun` `bundler` `javascript` `javascriptcore` `jsx`
+📅 2026-07-10
+🔗 [GitHub](https://github.com/oven-sh/bun)
+📢 [Telegram Post](https://t.me/github_trendovoe/260)
+
 ### [pentagi](https://github.com/vxcontrol/pentagi)
 
 🤖 Полностью автономная система AI-агентов, которая самостоятельно тестирует проникновения в системные ресурсы. Решает проблему масштабирования защищений на крупных платформах, автоматически обнаруживая и фильтруя потенциальные уязвимости. Подходит для разработчиков системы безопасности, которые стремятся повысить защиту от атак злоумышленников без прямого участия человека.
@@ -262,17 +273,6 @@
 📅 2026-07-03
 🔗 [GitHub](https://github.com/ryanmcdermott/clean-code-javascript)
 📢 [Telegram Post](https://t.me/github_trendovoe/217)
-
-### [codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
-
-🤖 Отправка кода на проверку с помощью Codex от Claude Code — теперь быстрее и точнее. Позволяет разработчикам, DevOps-менеджерам и data-инженерам оптимизировать процесс обнаружения ошибок в коде. Ключевая фича: автоматическая выгода предварительной проверки кода на соответствие стилям и конвенциям, что ускоряет интеграцию новых модулей в проекты. Благодаря этому команда может быть более продуктивной и уверенной в качестве выпускаемого кода.
-
-⭐ 22,610
-💻 JavaScript
-🏷 `javascript`
-📅 2026-07-03
-🔗 [GitHub](https://github.com/openai/codex-plugin-cc)
-📢 [Telegram Post](https://t.me/github_trendovoe/213)
 
 ## AI
 
